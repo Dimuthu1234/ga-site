@@ -1,0 +1,145 @@
+//#mainnav{
+//  ul {
+//    li {
+//      a{
+//        color: #f80000;
+//        &:hover{
+//          color: green;
+//        }
+//      }
+//    }
+//  }
+//}
+
+.elementor-column-gap-default>.elementor-row>.elementor-column>.elementor-element-populated {
+  //padding: 0% 5% 0% 5%;
+}
+
+//.carousel-item.active, .carousel-item-next, .carousel-item-prev {
+//  display: block;
+//  -webkit-transition: -webkit-transform 0.6s ease;
+//  transition: -webkit-transform 0.6s ease;
+//  transition: transform 0.6s ease;
+//  transition: transform 0.6s ease, -webkit-transform 0.6s ease;
+//  padding: 5%;
+//}
+
+.padding-slide{
+  padding: 0% 3% 0% 3%;
+}
+
+
+.footer-logo{
+  height: 60px;
+}
+
+.map-image{
+  height: auto;
+  width: auto;
+  justify-content: center;
+}
+.map-b{
+  font-size: 20px;
+  margin-left: 10%;
+}
+
+.map-p{
+  font-size: 16px;
+  text-align: center;
+  padding: 5%;
+}
+
+.desc { color:#6b6b6b;}
+.desc a {color:#0092dd;}
+
+.dropdown dd, .dropdown dt, .dropdown ul { margin:0px; padding:0px; }
+.dropdown dd { position:relative; }
+.dropdown a, .dropdown a:visited { color:#816c5b; text-decoration:none; outline:none;}
+.dropdown a:hover { color:#5d4617;}
+.dropdown dt a:hover { color:#5d4617; border: 1px solid #d0c9af;}
+.dropdown dt a {background:#e4dfcb url('http://www.jankoatwarpspeed.com/wp-content/uploads/examples/reinventing-drop-down/arrow.png') no-repeat scroll right center; display:block; padding-right:20px;
+  border:1px solid #d4ca9a; width:150px;}
+.dropdown dt a span {cursor:pointer; display:block; padding:5px;}
+.dropdown dd ul { background:#e4dfcb none repeat scroll 0 0; border:1px solid #d4ca9a; color:#C5C0B0; display:none;
+  left:0px; padding:5px 0px; position:absolute; top:2px; width:auto; min-width:170px; list-style:none;}
+.dropdown span.value { display:none;}
+.dropdown dd ul li a { padding:5px; display:block;}
+.dropdown dd ul li a:hover { background-color:#d0c9af;}
+
+.dropdown img.flag { border:none; vertical-align:middle; margin-left:10px; }
+.flagvisibility { display:none;}
+
+
+.marker-logo{
+  border: 0;
+  width: 30px;
+  height: 35px;
+  margin-top: 14%;
+  margin-left: 7%;
+  position: absolute;
+}
+
+.dropdown dd ul {
+  background: #0d1959c9 none repeat scroll 0 0;
+  border: 1px solid #0d1959;
+  color: #fff !important;
+  display: none;
+  left: 0px;
+  padding: 5px 0px;
+  position: absolute;
+  top: 2px;
+  width: auto;
+  min-width: 170px;
+  list-style: none;
+}
+
+.dropdown a, .dropdown a:visited {
+  color: #fef9f6;
+  text-decoration: none;
+  outline: none;
+}
+
+.dropdown dd ul li a:hover {
+  background-color: #000000;
+}
+
+.history{
+  font-size: 40px;
+  color: #0d1959c9;
+}
+
+.site-footer2{
+
+  a{
+    color: #666666;
+  }
+
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: #666666;
+  background: #1c1c1c;
+  height: 13%;
+}
+
+.site-footer{
+  //position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+//.elementor-12 .elementor-element.elementor-element-7679c20 a.elementor-button, .elementor-12 .elementor-element.elementor-element-7679c20 .elementor-button {
+//  background-color: rgba(2, 0, 0, 0.39);
+//  border-radius: 0px 0px 0px 0px;
+//}
+
+.reply, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .project-filter li a.active, .project-filter li a:hover, .preloader .pre-bounce1, .preloader .pre-bounce2, .roll-team .team-item .team-pop, .roll-progress .progress-animate, .roll-socials li a:hover, .roll-project .project-item .project-pop, .roll-project .project-filter li.active, .roll-project .project-filter li:hover, .roll-button.light:hover, .roll-button.border:hover, .roll-button, .roll-icon-box.white .icon, .owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span, .go-top, .bottom .socials li:hover a, .sidebar .widget:before, .blog-pagination ul li.active, .blog-pagination ul li:hover a, .content-area .hentry:after, .text-slider .maintitle:after, .error-wrap #search-submit:hover, #mainnav .sub-menu li:hover > a, #mainnav ul li ul:after, button, input[type="button"], input[type="reset"], input[type="submit"], .panel-grid-cell .widget-title:after {
+  background-color: #ffffff00;
+}
+
+.btnn{
+  color: #ffffff;
+  background: #022e62;
+}
