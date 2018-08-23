@@ -509,11 +509,11 @@
                                                                                     <div class="marker-logo">
                                                                                         <dt>
                                                                                             {{--<a href="#" style="border: 0; width: 30px; height: 40px; background-image:url({{ url('/images/logo-maker-1.png') }});"></a>--}}
-                                                                                            <img href="#" class="marker-logo" src="{{ url('/images/logo-maker-1.png') }}" />
+                                                                                            <img href="#"  src="{{ url('/images/logo-maker-1.png') }}" />
 
                                                                                         </dt>
-                                                                                        <dd>
-                                                                                            <ul class="nav navbar-nav">
+                                                                                        <dd class="marker-logo">
+                                                                                            <ul id="marker" class="nav navbar-nav">
                                                                                                 <li><a href="#" style="background: #281d52 !important;">England</a></li>
                                                                                                 <li><a href="#" style="font-weight: 900">London</a></li>
                                                                                                 <li><a href="#section1">240 Blackfriars</a></li>
@@ -2571,7 +2571,14 @@
 
     $(".dropdown img.flag").addClass("flagvisibility");
     $(".dropdown dt img").click(function () {
+
         $(".dropdown dd ul").toggle();
+
+        // if ($(".dropdown dd ul").toggle()){
+        document.getElementById("marker").style.width = "190px";
+        document.getElementById("marker").style.height = "250px";
+        document.getElementById("marker").style.overflow = "scroll";
+        // }
     });
 
     $(".dropdown dd ul li img").click(function () {
