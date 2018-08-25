@@ -444,7 +444,7 @@
             <div class="slides-container">
 
                 <div class="slide-item slide-item-1"
-                     style="background-image:url({{ url('/images/DSC_0852.JPG') }});">
+                     style="background-image:url({{ url('/images/DSC_0874.JPG') }});">
                     <img class="mobile-slide preserve"
                          src="{{ url('/images/DSC_0852.JPG') }}" style="width: 1920px; height: 1080px"
                          alt="Blavatnik@Trevor Palin"/>
@@ -498,7 +498,7 @@
 
             <div class="slide-inner text-slider-stopped">
                 <div class="contain text-slider">
-                    <h2 class="maintitle">GA Installation & Maintenance – Qatar</h2>
+                    <h2 class="maintitle"></h2>
                     <p class="subtitle" style="margin-top: 21% !important;"></p>
                 </div>
                 {{--<a href="{{ url('/contact-us') }}" class="roll-button button-slider">Contact</a>--}}
