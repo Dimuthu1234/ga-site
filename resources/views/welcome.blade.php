@@ -510,50 +510,50 @@
     </div>
 
 
-    <div id="content" class="page-wrap">
-        <div class="container content-wrapper">
-            <div class="row">
+    {{--<div id="content" class="page-wrap">--}}
+        {{--<div class="container content-wrapper">--}}
+            {{--<div class="row">--}}
 
 
-                <div id="primary" class="content-area">
-                    <main id="main" class="site-main" role="main">
+                {{--<div id="primary" class="content-area">--}}
+                    {{--<main id="main" class="site-main" role="main">--}}
 
 
-                        <article id="post-6" class="post-6 page type-page status-publish hentry">
-                            <header class="entry-header">
-                                <h1 class="title-post entry-title">Home</h1></header><!-- .entry-header -->
+                        {{--<article id="post-6" class="post-6 page type-page status-publish hentry">--}}
+                            {{--<header class="entry-header">--}}
+                                {{--<h1 class="title-post entry-title">Home</h1></header><!-- .entry-header -->--}}
 
-                            <div class="entry-content">
-                                <div class="elementor elementor-6">
-                                    <div class="elementor-inner">
-                                        <div class="elementor-section-wrap">
-                                            <section data-id="eccd7e7"
-                                                     class="elementor-element elementor-element-eccd7e7 elementor-section-stretched elementor-section-boxed elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section"
-                                                     data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"
-                                                     data-element_type="section">
-                                                <div class="elementor-background-overlay"></div>
-                                                <div class="elementor-container elementor-column-gap-default">
-                                                    <div class="elementor-row">
-                                                        <div data-id="1a40d09"
-                                                             class="elementor-element elementor-element-1a40d09 elementor-column elementor-col-50 elementor-top-column"
-                                                             data-element_type="column">
-                                                            <div class="elementor-column-wrap">
-                                                                <div class="elementor-widget-wrap">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div data-id="1ebfdf2"
-                                                             class="elementor-element elementor-element-1ebfdf2 elementor-column elementor-col-50 elementor-top-column"
-                                                             data-element_type="column">
-                                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                                <div class="elementor-widget-wrap">
-                                                                    <div data-id="2d5dbf7"
-                                                                         class="elementor-element elementor-element-2d5dbf7 elementor-widget elementor-widget-heading"
-                                                                         data-element_type="heading.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <h2 class="elementor-heading-title elementor-size-default" style="margin-top: 2%">
-                                                                                Who We Are</h2></div>
-                                                                    </div>
+                            {{--<div class="entry-content">--}}
+                                {{--<div class="elementor elementor-6">--}}
+                                    {{--<div class="elementor-inner">--}}
+                                        {{--<div class="elementor-section-wrap">--}}
+                                            {{--<section data-id="eccd7e7"--}}
+                                                     {{--class="elementor-element elementor-element-eccd7e7 elementor-section-stretched elementor-section-boxed elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section"--}}
+                                                     {{--data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"--}}
+                                                     {{--data-element_type="section">--}}
+                                                {{--<div class="elementor-background-overlay"></div>--}}
+                                                {{--<div class="elementor-container elementor-column-gap-default">--}}
+                                                    {{--<div class="elementor-row">--}}
+                                                        {{--<div data-id="1a40d09"--}}
+                                                             {{--class="elementor-element elementor-element-1a40d09 elementor-column elementor-col-50 elementor-top-column"--}}
+                                                             {{--data-element_type="column">--}}
+                                                            {{--<div class="elementor-column-wrap">--}}
+                                                                {{--<div class="elementor-widget-wrap">--}}
+                                                                {{--</div>--}}
+                                                            {{--</div>--}}
+                                                        {{--</div>--}}
+                                                        {{--<div data-id="1ebfdf2"--}}
+                                                             {{--class="elementor-element elementor-element-1ebfdf2 elementor-column elementor-col-50 elementor-top-column"--}}
+                                                             {{--data-element_type="column">--}}
+                                                            {{--<div class="elementor-column-wrap elementor-element-populated">--}}
+                                                                {{--<div class="elementor-widget-wrap">--}}
+                                                                    {{--<div data-id="2d5dbf7"--}}
+                                                                         {{--class="elementor-element elementor-element-2d5dbf7 elementor-widget elementor-widget-heading"--}}
+                                                                         {{--data-element_type="heading.default">--}}
+                                                                        {{--<div class="elementor-widget-container">--}}
+                                                                            {{--<h2 class="elementor-heading-title elementor-size-default" style="margin-top: 2%">--}}
+                                                                                {{--Who We Are</h2></div>--}}
+                                                                    {{--</div>--}}
                                                                     {{--<div data-id="407fee8"--}}
                                                                          {{--class="elementor-element elementor-element-407fee8 elementor-widget elementor-widget-divider"--}}
                                                                          {{--data-element_type="divider.default">--}}
@@ -563,273 +563,273 @@
                                                                             {{--</div>--}}
                                                                         {{--</div>--}}
                                                                     {{--</div>--}}
-                                                                    <div data-id="6fe70da"
-                                                                         class="elementor-element elementor-element-6fe70da elementor-widget elementor-widget-text-editor"
-                                                                         data-element_type="text-editor.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div class="elementor-text-editor elementor-clearfix">
-                                                                                <p style="color: #005b93;">The GA group of companies have been
-                                                                                    in the construction industry since
-                                                                                    1986 and are now recognized as one
-                                                                                    of the leading installers of curtain
-                                                                                    wall both in the UK and overseas.
-                                                                                    With over 30 years’ experience in
-                                                                                    the specialist field of curtain wall
-                                                                                    installation, including several
-                                                                                    iconic projects, our company
-                                                                                    consistently delivers an exceptional
-                                                                                    standard of work.</p></div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div data-id="dfc8d1d"
-                                                                         class="elementor-element elementor-element-dfc8d1d elementor-align-right animated fadeIn elementor-invisible elementor-widget elementor-widget-button"
-                                                                         data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:800}"
-                                                                         data-element_type="button.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div class="elementor-button-wrapper">
-                                                                                <a href="{{ url('/about') }}" style="margin-bottom: 15px"
-                                                                                   class="elementor-button-link elementor-button elementor-size-md elementor-animation-shrink">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-align-icon-left elementor-button-icon">
-				<i class="fa fa-slideshare" aria-hidden="true"></i>
-			</span>
-						<span class="elementor-button-text">MORE ABOUT US</span>
-		</span>
-                                                                                </a>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </section>
-                                            <section data-id="2ad5486"
-                                                     class="elementor-element elementor-element-2ad5486 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
-                                                     data-element_type="section">
-                                                <div class="elementor-container elementor-column-gap-default">
-                                                    <div class="elementor-row">
-                                                        <div data-id="98b2f22"
-                                                             class="elementor-element elementor-element-98b2f22 animated fadeInUp elementor-invisible elementor-column elementor-col-33 elementor-top-column"
-                                                             data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:500}"
-                                                             data-element_type="column">
-                                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                                <div class="elementor-widget-wrap">
-                                                                    <div data-id="ae82148"
-                                                                         class="elementor-element elementor-element-ae82148 elementor-view-stacked elementor-shape-circle elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box"
-                                                                         data-element_type="icon-box.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div class="elementor-icon-box-wrapper">
-                                                                                <div class="elementor-icon-box-icon">
-                <span class="elementor-icon elementor-animation-shrink">
-                    <i class="fa fa-building-o"></i>
-                </span>
-                                                                                </div>
-                                                                                <div class="elementor-icon-box-content">
-                                                                                    <h2 class="elementor-icon-box-title">
-                                                                                        <span>Versatile Installation</span>
-                                                                                    </h2>
-                                                                                    <p class="elementor-icon-box-description">
-                                                                                        With extensive experience in
-                                                                                        installing a variety of curtain
-                                                                                        wall systems, including
-                                                                                        unitized, stick / glass fin,
-                                                                                        planar/ bolted glazed systems,
-                                                                                        rain screens, and terracotta
-                                                                                        cladding; GA are able to meet
-                                                                                        the demands of any curtain wall
-                                                                                        project.</p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div data-id="d418ca9"
-                                                                         class="elementor-element elementor-element-d418ca9 elementor-widget elementor-widget-image-carousel"
-                                                                         data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;arrows&quot;,&quot;pause_on_hover&quot;:&quot;no&quot;,&quot;autoplay_speed&quot;:3000,&quot;effect&quot;:&quot;fade&quot;,&quot;speed&quot;:1000,&quot;autoplay&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;direction&quot;:&quot;ltr&quot;}"
-                                                                         data-element_type="image-carousel.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div class="elementor-image-carousel-wrapper elementor-slick-slider"
-                                                                                 dir="ltr">
-                                                                                <div class="elementor-image-carousel slick-arrows-inside">
-                                                                                    <div class="slick-slide">
-                                                                                        <figure class="slick-slide-inner">
-                                                                                            <img class="slick-slide-image"
-                                                                                                 src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-18-1.jpg"
-                                                                                                 alt="Versatile Installation"/>
-                                                                                        </figure>
-                                                                                    </div>
-                                                                                    <div class="slick-slide">
-                                                                                        <figure class="slick-slide-inner">
-                                                                                            <img class="slick-slide-image"
-                                                                                                 src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-19-1.jpg"
-                                                                                                 alt="Versatile Installation"/>
-                                                                                        </figure>
-                                                                                    </div>
-                                                                                    <div class="slick-slide">
-                                                                                        <figure class="slick-slide-inner">
-                                                                                            <img class="slick-slide-image"
-                                                                                                 src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-20.jpg"
-                                                                                                 alt="Versatile Installation"/>
-                                                                                        </figure>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div data-id="ecb9ef3"
-                                                             class="elementor-element elementor-element-ecb9ef3 animated fadeInUp elementor-invisible elementor-column elementor-col-33 elementor-top-column"
-                                                             data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:700}"
-                                                             data-element_type="column">
-                                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                                <div class="elementor-widget-wrap">
-                                                                    <div data-id="9aed39a"
-                                                                         class="elementor-element elementor-element-9aed39a elementor-view-stacked elementor-shape-circle elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box"
-                                                                         data-element_type="icon-box.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div class="elementor-icon-box-wrapper">
-                                                                                <div class="elementor-icon-box-icon">
-                <span class="elementor-icon elementor-animation-shrink">
-                    <i class="fa fa-building"></i>
-                </span>
-                                                                                </div>
-                                                                                <div class="elementor-icon-box-content">
-                                                                                    <h2 class="elementor-icon-box-title">
-                                                                                        <span>Technical Expertise</span>
-                                                                                    </h2>
-                                                                                    <p class="elementor-icon-box-description">
-                                                                                        As architects continue to
-                                                                                        challenge design, and technology
-                                                                                        and innovation produce
-                                                                                        ever-changing materials used for
-                                                                                        construction.To ensure we can
-                                                                                        produce the finished result of
-                                                                                        what the architect and client
-                                                                                        have envisaged.</p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div data-id="9eb971d"
-                                                                         class="elementor-element elementor-element-9eb971d elementor-widget elementor-widget-image-carousel"
-                                                                         data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;arrows&quot;,&quot;pause_on_hover&quot;:&quot;no&quot;,&quot;autoplay_speed&quot;:3000,&quot;effect&quot;:&quot;fade&quot;,&quot;speed&quot;:1000,&quot;autoplay&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;direction&quot;:&quot;ltr&quot;}"
-                                                                         data-element_type="image-carousel.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div class="elementor-image-carousel-wrapper elementor-slick-slider"
-                                                                                 dir="ltr">
-                                                                                <div class="elementor-image-carousel slick-arrows-inside">
-                                                                                    <div class="slick-slide">
-                                                                                        <figure class="slick-slide-inner">
-                                                                                            <img class="slick-slide-image"
-                                                                                                 src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/DSC_0911.jpg"
-                                                                                                 alt="Roof Mock up"/>
-                                                                                        </figure>
-                                                                                    </div>
-                                                                                    <div class="slick-slide">
-                                                                                        <figure class="slick-slide-inner">
-                                                                                            <img class="slick-slide-image"
-                                                                                                 src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/DSC_0912.jpg"
-                                                                                                 alt="Roof Mock up"/>
-                                                                                        </figure>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div data-id="ee45536"
-                                                             class="elementor-element elementor-element-ee45536 animated fadeInUp elementor-invisible elementor-column elementor-col-33 elementor-top-column"
-                                                             data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:900}"
-                                                             data-element_type="column">
-                                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                                <div class="elementor-widget-wrap">
-                                                                    <div data-id="553fd9f"
-                                                                         class="elementor-element elementor-element-553fd9f elementor-view-stacked elementor-shape-circle elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box"
-                                                                         data-element_type="icon-box.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div class="elementor-icon-box-wrapper">
-                                                                                <div class="elementor-icon-box-icon">
-                <span class="elementor-icon elementor-animation-shrink">
-                    <i class="fa fa-building-o"></i>
-                </span>
-                                                                                </div>
-                                                                                <div class="elementor-icon-box-content">
-                                                                                    <h2 class="elementor-icon-box-title">
-                                                                                        <span>Skilled Team</span>
-                                                                                    </h2>
-                                                                                    <p class="elementor-icon-box-description">
-                                                                                        Our longevity in the industry
-                                                                                        can be attributed to our highly
-                                                                                        skilled and experienced team.
-                                                                                        Many of our team have been with
-                                                                                        us for over 20 years, their
-                                                                                        considerable experience provides
-                                                                                        valuable knowledge and instills
-                                                                                        confidence in our clients.</p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div data-id="c6a6314"
-                                                                         class="elementor-element elementor-element-c6a6314 elementor-widget elementor-widget-image-carousel"
-                                                                         data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;arrows&quot;,&quot;pause_on_hover&quot;:&quot;no&quot;,&quot;autoplay_speed&quot;:3000,&quot;effect&quot;:&quot;fade&quot;,&quot;speed&quot;:1000,&quot;autoplay&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;direction&quot;:&quot;ltr&quot;}"
-                                                                         data-element_type="image-carousel.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div class="elementor-image-carousel-wrapper elementor-slick-slider"
-                                                                                 dir="ltr">
-                                                                                <div class="elementor-image-carousel slick-arrows-inside">
-                                                                                    <div class="slick-slide">
-                                                                                        <figure class="slick-slide-inner">
-                                                                                            <img class="slick-slide-image"
-                                                                                                 src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/DSC_0852.jpg"
-                                                                                                 alt="skilled team"/>
-                                                                                        </figure>
-                                                                                    </div>
-                                                                                    <div class="slick-slide">
-                                                                                        <figure class="slick-slide-inner">
-                                                                                            <img class="slick-slide-image"
-                                                                                                 src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-24.jpg"
-                                                                                                 alt="skilled team"/>
-                                                                                        </figure>
-                                                                                    </div>
-                                                                                    <div class="slick-slide">
-                                                                                        <figure class="slick-slide-inner">
-                                                                                            <img class="slick-slide-image"
-                                                                                                 src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/DSC_0402.jpg"
-                                                                                                 alt="skilled team"/>
-                                                                                        </figure>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </section>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div><!-- .entry-content -->
+                                                                    {{--<div data-id="6fe70da"--}}
+                                                                         {{--class="elementor-element elementor-element-6fe70da elementor-widget elementor-widget-text-editor"--}}
+                                                                         {{--data-element_type="text-editor.default">--}}
+                                                                        {{--<div class="elementor-widget-container">--}}
+                                                                            {{--<div class="elementor-text-editor elementor-clearfix">--}}
+                                                                                {{--<p style="color: #005b93;">The GA group of companies have been--}}
+                                                                                    {{--in the construction industry since--}}
+                                                                                    {{--1986 and are now recognized as one--}}
+                                                                                    {{--of the leading installers of curtain--}}
+                                                                                    {{--wall both in the UK and overseas.--}}
+                                                                                    {{--With over 30 years’ experience in--}}
+                                                                                    {{--the specialist field of curtain wall--}}
+                                                                                    {{--installation, including several--}}
+                                                                                    {{--iconic projects, our company--}}
+                                                                                    {{--consistently delivers an exceptional--}}
+                                                                                    {{--standard of work.</p></div>--}}
+                                                                        {{--</div>--}}
+                                                                    {{--</div>--}}
+                                                                    {{--<div data-id="dfc8d1d"--}}
+                                                                         {{--class="elementor-element elementor-element-dfc8d1d elementor-align-right animated fadeIn elementor-invisible elementor-widget elementor-widget-button"--}}
+                                                                         {{--data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:800}"--}}
+                                                                         {{--data-element_type="button.default">--}}
+                                                                        {{--<div class="elementor-widget-container">--}}
+                                                                            {{--<div class="elementor-button-wrapper">--}}
+                                                                                {{--<a href="{{ url('/about') }}" style="margin-bottom: 15px"--}}
+                                                                                   {{--class="elementor-button-link elementor-button elementor-size-md elementor-animation-shrink">--}}
+						{{--<span class="elementor-button-content-wrapper">--}}
+						{{--<span class="elementor-align-icon-left elementor-button-icon">--}}
+				{{--<i class="fa fa-slideshare" aria-hidden="true"></i>--}}
+			{{--</span>--}}
+						{{--<span class="elementor-button-text">MORE ABOUT US</span>--}}
+		{{--</span>--}}
+                                                                                {{--</a>--}}
+                                                                            {{--</div>--}}
+                                                                        {{--</div>--}}
+                                                                    {{--</div>--}}
+                                                                {{--</div>--}}
+                                                            {{--</div>--}}
+                                                        {{--</div>--}}
+                                                    {{--</div>--}}
+                                                {{--</div>--}}
+                                            {{--</section>--}}
+                                            {{--<section data-id="2ad5486"--}}
+                                                     {{--class="elementor-element elementor-element-2ad5486 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"--}}
+                                                     {{--data-element_type="section">--}}
+                                                {{--<div class="elementor-container elementor-column-gap-default">--}}
+                                                    {{--<div class="elementor-row">--}}
+                                                        {{--<div data-id="98b2f22"--}}
+                                                             {{--class="elementor-element elementor-element-98b2f22 animated fadeInUp elementor-invisible elementor-column elementor-col-33 elementor-top-column"--}}
+                                                             {{--data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:500}"--}}
+                                                             {{--data-element_type="column">--}}
+                                                            {{--<div class="elementor-column-wrap elementor-element-populated">--}}
+                                                                {{--<div class="elementor-widget-wrap">--}}
+                                                                    {{--<div data-id="ae82148"--}}
+                                                                         {{--class="elementor-element elementor-element-ae82148 elementor-view-stacked elementor-shape-circle elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box"--}}
+                                                                         {{--data-element_type="icon-box.default">--}}
+                                                                        {{--<div class="elementor-widget-container">--}}
+                                                                            {{--<div class="elementor-icon-box-wrapper">--}}
+                                                                                {{--<div class="elementor-icon-box-icon">--}}
+                {{--<span class="elementor-icon elementor-animation-shrink">--}}
+                    {{--<i class="fa fa-building-o"></i>--}}
+                {{--</span>--}}
+                                                                                {{--</div>--}}
+                                                                                {{--<div class="elementor-icon-box-content">--}}
+                                                                                    {{--<h2 class="elementor-icon-box-title">--}}
+                                                                                        {{--<span>Versatile Installation</span>--}}
+                                                                                    {{--</h2>--}}
+                                                                                    {{--<p class="elementor-icon-box-description">--}}
+                                                                                        {{--With extensive experience in--}}
+                                                                                        {{--installing a variety of curtain--}}
+                                                                                        {{--wall systems, including--}}
+                                                                                        {{--unitized, stick / glass fin,--}}
+                                                                                        {{--planar/ bolted glazed systems,--}}
+                                                                                        {{--rain screens, and terracotta--}}
+                                                                                        {{--cladding; GA are able to meet--}}
+                                                                                        {{--the demands of any curtain wall--}}
+                                                                                        {{--project.</p>--}}
+                                                                                {{--</div>--}}
+                                                                            {{--</div>--}}
+                                                                        {{--</div>--}}
+                                                                    {{--</div>--}}
+                                                                    {{--<div data-id="d418ca9"--}}
+                                                                         {{--class="elementor-element elementor-element-d418ca9 elementor-widget elementor-widget-image-carousel"--}}
+                                                                         {{--data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;arrows&quot;,&quot;pause_on_hover&quot;:&quot;no&quot;,&quot;autoplay_speed&quot;:3000,&quot;effect&quot;:&quot;fade&quot;,&quot;speed&quot;:1000,&quot;autoplay&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;direction&quot;:&quot;ltr&quot;}"--}}
+                                                                         {{--data-element_type="image-carousel.default">--}}
+                                                                        {{--<div class="elementor-widget-container">--}}
+                                                                            {{--<div class="elementor-image-carousel-wrapper elementor-slick-slider"--}}
+                                                                                 {{--dir="ltr">--}}
+                                                                                {{--<div class="elementor-image-carousel slick-arrows-inside">--}}
+                                                                                    {{--<div class="slick-slide">--}}
+                                                                                        {{--<figure class="slick-slide-inner">--}}
+                                                                                            {{--<img class="slick-slide-image"--}}
+                                                                                                 {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-18-1.jpg"--}}
+                                                                                                 {{--alt="Versatile Installation"/>--}}
+                                                                                        {{--</figure>--}}
+                                                                                    {{--</div>--}}
+                                                                                    {{--<div class="slick-slide">--}}
+                                                                                        {{--<figure class="slick-slide-inner">--}}
+                                                                                            {{--<img class="slick-slide-image"--}}
+                                                                                                 {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-19-1.jpg"--}}
+                                                                                                 {{--alt="Versatile Installation"/>--}}
+                                                                                        {{--</figure>--}}
+                                                                                    {{--</div>--}}
+                                                                                    {{--<div class="slick-slide">--}}
+                                                                                        {{--<figure class="slick-slide-inner">--}}
+                                                                                            {{--<img class="slick-slide-image"--}}
+                                                                                                 {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-20.jpg"--}}
+                                                                                                 {{--alt="Versatile Installation"/>--}}
+                                                                                        {{--</figure>--}}
+                                                                                    {{--</div>--}}
+                                                                                {{--</div>--}}
+                                                                            {{--</div>--}}
+                                                                        {{--</div>--}}
+                                                                    {{--</div>--}}
+                                                                {{--</div>--}}
+                                                            {{--</div>--}}
+                                                        {{--</div>--}}
+                                                        {{--<div data-id="ecb9ef3"--}}
+                                                             {{--class="elementor-element elementor-element-ecb9ef3 animated fadeInUp elementor-invisible elementor-column elementor-col-33 elementor-top-column"--}}
+                                                             {{--data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:700}"--}}
+                                                             {{--data-element_type="column">--}}
+                                                            {{--<div class="elementor-column-wrap elementor-element-populated">--}}
+                                                                {{--<div class="elementor-widget-wrap">--}}
+                                                                    {{--<div data-id="9aed39a"--}}
+                                                                         {{--class="elementor-element elementor-element-9aed39a elementor-view-stacked elementor-shape-circle elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box"--}}
+                                                                         {{--data-element_type="icon-box.default">--}}
+                                                                        {{--<div class="elementor-widget-container">--}}
+                                                                            {{--<div class="elementor-icon-box-wrapper">--}}
+                                                                                {{--<div class="elementor-icon-box-icon">--}}
+                {{--<span class="elementor-icon elementor-animation-shrink">--}}
+                    {{--<i class="fa fa-building"></i>--}}
+                {{--</span>--}}
+                                                                                {{--</div>--}}
+                                                                                {{--<div class="elementor-icon-box-content">--}}
+                                                                                    {{--<h2 class="elementor-icon-box-title">--}}
+                                                                                        {{--<span>Technical Expertise</span>--}}
+                                                                                    {{--</h2>--}}
+                                                                                    {{--<p class="elementor-icon-box-description">--}}
+                                                                                        {{--As architects continue to--}}
+                                                                                        {{--challenge design, and technology--}}
+                                                                                        {{--and innovation produce--}}
+                                                                                        {{--ever-changing materials used for--}}
+                                                                                        {{--construction.To ensure we can--}}
+                                                                                        {{--produce the finished result of--}}
+                                                                                        {{--what the architect and client--}}
+                                                                                        {{--have envisaged.</p>--}}
+                                                                                {{--</div>--}}
+                                                                            {{--</div>--}}
+                                                                        {{--</div>--}}
+                                                                    {{--</div>--}}
+                                                                    {{--<div data-id="9eb971d"--}}
+                                                                         {{--class="elementor-element elementor-element-9eb971d elementor-widget elementor-widget-image-carousel"--}}
+                                                                         {{--data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;arrows&quot;,&quot;pause_on_hover&quot;:&quot;no&quot;,&quot;autoplay_speed&quot;:3000,&quot;effect&quot;:&quot;fade&quot;,&quot;speed&quot;:1000,&quot;autoplay&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;direction&quot;:&quot;ltr&quot;}"--}}
+                                                                         {{--data-element_type="image-carousel.default">--}}
+                                                                        {{--<div class="elementor-widget-container">--}}
+                                                                            {{--<div class="elementor-image-carousel-wrapper elementor-slick-slider"--}}
+                                                                                 {{--dir="ltr">--}}
+                                                                                {{--<div class="elementor-image-carousel slick-arrows-inside">--}}
+                                                                                    {{--<div class="slick-slide">--}}
+                                                                                        {{--<figure class="slick-slide-inner">--}}
+                                                                                            {{--<img class="slick-slide-image"--}}
+                                                                                                 {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/DSC_0911.jpg"--}}
+                                                                                                 {{--alt="Roof Mock up"/>--}}
+                                                                                        {{--</figure>--}}
+                                                                                    {{--</div>--}}
+                                                                                    {{--<div class="slick-slide">--}}
+                                                                                        {{--<figure class="slick-slide-inner">--}}
+                                                                                            {{--<img class="slick-slide-image"--}}
+                                                                                                 {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/DSC_0912.jpg"--}}
+                                                                                                 {{--alt="Roof Mock up"/>--}}
+                                                                                        {{--</figure>--}}
+                                                                                    {{--</div>--}}
+                                                                                {{--</div>--}}
+                                                                            {{--</div>--}}
+                                                                        {{--</div>--}}
+                                                                    {{--</div>--}}
+                                                                {{--</div>--}}
+                                                            {{--</div>--}}
+                                                        {{--</div>--}}
+                                                        {{--<div data-id="ee45536"--}}
+                                                             {{--class="elementor-element elementor-element-ee45536 animated fadeInUp elementor-invisible elementor-column elementor-col-33 elementor-top-column"--}}
+                                                             {{--data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:900}"--}}
+                                                             {{--data-element_type="column">--}}
+                                                            {{--<div class="elementor-column-wrap elementor-element-populated">--}}
+                                                                {{--<div class="elementor-widget-wrap">--}}
+                                                                    {{--<div data-id="553fd9f"--}}
+                                                                         {{--class="elementor-element elementor-element-553fd9f elementor-view-stacked elementor-shape-circle elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box"--}}
+                                                                         {{--data-element_type="icon-box.default">--}}
+                                                                        {{--<div class="elementor-widget-container">--}}
+                                                                            {{--<div class="elementor-icon-box-wrapper">--}}
+                                                                                {{--<div class="elementor-icon-box-icon">--}}
+                {{--<span class="elementor-icon elementor-animation-shrink">--}}
+                    {{--<i class="fa fa-building-o"></i>--}}
+                {{--</span>--}}
+                                                                                {{--</div>--}}
+                                                                                {{--<div class="elementor-icon-box-content">--}}
+                                                                                    {{--<h2 class="elementor-icon-box-title">--}}
+                                                                                        {{--<span>Skilled Team</span>--}}
+                                                                                    {{--</h2>--}}
+                                                                                    {{--<p class="elementor-icon-box-description">--}}
+                                                                                        {{--Our longevity in the industry--}}
+                                                                                        {{--can be attributed to our highly--}}
+                                                                                        {{--skilled and experienced team.--}}
+                                                                                        {{--Many of our team have been with--}}
+                                                                                        {{--us for over 20 years, their--}}
+                                                                                        {{--considerable experience provides--}}
+                                                                                        {{--valuable knowledge and instills--}}
+                                                                                        {{--confidence in our clients.</p>--}}
+                                                                                {{--</div>--}}
+                                                                            {{--</div>--}}
+                                                                        {{--</div>--}}
+                                                                    {{--</div>--}}
+                                                                    {{--<div data-id="c6a6314"--}}
+                                                                         {{--class="elementor-element elementor-element-c6a6314 elementor-widget elementor-widget-image-carousel"--}}
+                                                                         {{--data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;arrows&quot;,&quot;pause_on_hover&quot;:&quot;no&quot;,&quot;autoplay_speed&quot;:3000,&quot;effect&quot;:&quot;fade&quot;,&quot;speed&quot;:1000,&quot;autoplay&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;direction&quot;:&quot;ltr&quot;}"--}}
+                                                                         {{--data-element_type="image-carousel.default">--}}
+                                                                        {{--<div class="elementor-widget-container">--}}
+                                                                            {{--<div class="elementor-image-carousel-wrapper elementor-slick-slider"--}}
+                                                                                 {{--dir="ltr">--}}
+                                                                                {{--<div class="elementor-image-carousel slick-arrows-inside">--}}
+                                                                                    {{--<div class="slick-slide">--}}
+                                                                                        {{--<figure class="slick-slide-inner">--}}
+                                                                                            {{--<img class="slick-slide-image"--}}
+                                                                                                 {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/DSC_0852.jpg"--}}
+                                                                                                 {{--alt="skilled team"/>--}}
+                                                                                        {{--</figure>--}}
+                                                                                    {{--</div>--}}
+                                                                                    {{--<div class="slick-slide">--}}
+                                                                                        {{--<figure class="slick-slide-inner">--}}
+                                                                                            {{--<img class="slick-slide-image"--}}
+                                                                                                 {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-24.jpg"--}}
+                                                                                                 {{--alt="skilled team"/>--}}
+                                                                                        {{--</figure>--}}
+                                                                                    {{--</div>--}}
+                                                                                    {{--<div class="slick-slide">--}}
+                                                                                        {{--<figure class="slick-slide-inner">--}}
+                                                                                            {{--<img class="slick-slide-image"--}}
+                                                                                                 {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/DSC_0402.jpg"--}}
+                                                                                                 {{--alt="skilled team"/>--}}
+                                                                                        {{--</figure>--}}
+                                                                                    {{--</div>--}}
+                                                                                {{--</div>--}}
+                                                                            {{--</div>--}}
+                                                                        {{--</div>--}}
+                                                                    {{--</div>--}}
+                                                                {{--</div>--}}
+                                                            {{--</div>--}}
+                                                        {{--</div>--}}
+                                                    {{--</div>--}}
+                                                {{--</div>--}}
+                                            {{--</section>--}}
+                                        {{--</div>--}}
+                                    {{--</div>--}}
+                                {{--</div>--}}
+                            {{--</div><!-- .entry-content -->--}}
 
-                            <footer class="entry-footer">
-                            </footer><!-- .entry-footer -->
-                        </article><!-- #post-## -->
+                            {{--<footer class="entry-footer">--}}
+                            {{--</footer><!-- .entry-footer -->--}}
+                        {{--</article><!-- #post-## -->--}}
 
 
-                    </main><!-- #main -->
-                </div><!-- #primary -->
+                    {{--</main><!-- #main -->--}}
+                {{--</div><!-- #primary -->--}}
 
-            </div>
-        </div>
-    </div><!-- #content -->
+            {{--</div>--}}
+        {{--</div>--}}
+    {{--</div><!-- #content -->--}}
 
 
     <a class="go-top"><i class="fa fa-angle-up"></i></a>
