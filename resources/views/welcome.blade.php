@@ -443,6 +443,19 @@
         <div id="slideshow" class="header-slider" data-speed="4000" data-mobileslider="responsive">
             <div class="slides-container">
 
+
+                <div class="slide-item slide-item-1"
+                     style="background-image:url({{ url('images/new_home_image/University-of-Sheffield-1024x683.jpg') }});">
+                    <img class="mobile-slide preserve"
+                         src="{{ url('/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-5-1.jpg') }}"
+                         alt="Blavatnik@Trevor Palin"/>
+                    <div class="slide-inner">
+                        <div class="contain animated fadeInRightBig text-slider">
+                            <h2 class="maintitle">G A Installation &amp; Maintenance Ltd</h2>
+                            <p class="subtitle">Specialist Installers of Architectural Glazing and Metalwork facades</p>
+                        </div>
+                        <a href="{{ url('/contact-us') }}" class="roll-button button-slider">Contact</a></div>
+                </div>
                 <div class="slide-item slide-item-1"
                      style="background-image:url({{ url('images/new_home_image/rr.jpg') }});">
                     <img class="mobile-slide preserve"
