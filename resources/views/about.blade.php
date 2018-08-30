@@ -396,8 +396,8 @@
              background:
                 /* top, transparent red, faked with gradient */
                     linear-gradient(
-                            rgba(73, 21, 19, 0.45),
-                            rgba(255, 0, 0, 0.45)
+                            rgba(120, 74, 24, 0.45),
+                            rgba(120, 74, 24, 0.45)
                     ),
                     url({{ url('/images/new_home_image/tt.jpg') }});
             /*background-repeat: no-repeat;*/
