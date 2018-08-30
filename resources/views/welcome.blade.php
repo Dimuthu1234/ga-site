@@ -444,7 +444,7 @@
             <div class="slides-container">
 
                 <div class="slide-item slide-item-1"
-                     style="background-image:url({{ url('/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-5-1.jpg') }});">
+                     style="background-image:url({{ url('images/new_home_image/rr.jpg') }});">
                     <img class="mobile-slide preserve"
                          src="{{ url('/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-5-1.jpg') }}"
                          alt="Blavatnik@Trevor Palin"/>
@@ -456,7 +456,7 @@
                         <a href="{{ url('/contact-us') }}" class="roll-button button-slider">Contact</a></div>
                 </div>
                 <div class="slide-item slide-item-2"
-                     style="background-image:url({{ url('/wp-content/uploads/2018/07/slider-4.jpg') }});">
+                     style="background-image:url({{ url('images/new_home_image/ee.jpg') }});">
                     <img class="mobile-slide preserve"
                          src="{{ url('/wp-content/uploads/2018/07/slider-4.jpg') }}" alt=""/>
                     <div class="slide-inner">
@@ -467,7 +467,7 @@
                         <a href="{{ url('/contact-us') }}" class="roll-button button-slider">Contact</a></div>
                 </div>
                 <div class="slide-item slide-item-3"
-                     style="background-image:url({{ url('/wp-content/uploads/2018/07/slider-3.jpg') }});">
+                     style="background-image:url({{ url('images/new_home_image/tt.jpg') }});">
                     <img class="mobile-slide preserve"
                          src="{{ url('/wp-content/uploads/2018/07/slider-3.jpg') }}" alt=""/>
                     <div class="slide-inner">
@@ -478,7 +478,7 @@
                         <a href="{{ url('/contact-us') }}" class="roll-button button-slider">Contact</a></div>
                 </div>
                 <div class="slide-item slide-item-5"
-                     style="background-image:url({{ url('/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-18-1-1.jpg') }});">
+                     style="background-image:url({{ url('images/new_home_image/dd.jpg') }});">
                     <img class="mobile-slide preserve"
                          src="{{ url('/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-18-1-1.jpg') }}"
                          alt="Blavatnik@Trevor Palin"/>
