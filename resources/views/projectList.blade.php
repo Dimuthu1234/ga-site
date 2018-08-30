@@ -509,30 +509,60 @@
                                                                                     <div class="marker-logo">
                                                                                         <dt>
                                                                                             {{--<a href="#" style="border: 0; width: 30px; height: 40px; background-image:url({{ url('/images/logo-maker-1.png') }});"></a>--}}
-                                                                                            <img href="#"  src="{{ url('/images/logo-maker-1.png') }}" />
+                                                                                            <img href="#"
+                                                                                                 src="{{ url('/images/logo-maker-1.png') }}"/>
 
                                                                                         </dt>
                                                                                         <dd class="marker-logo">
-                                                                                            <ul id="marker" class="nav navbar-nav">
-                                                                                                <li><a href="#" style="background: #281d52 !important;">England</a></li>
-                                                                                                <li><a href="#" style="font-weight: 900">London</a></li>
-                                                                                                <li><a href="#section1">240 Blackfriars</a></li>
-                                                                                                <li><a href="#section2">Blavatnik School of Government, Oxford</a></li>
-                                                                                                <li><a href="#section3">The Place, London Bridge</a></li>
-                                                                                                <li><a href="#section4">One Tower Bridge, London</a></li>
-                                                                                                <li><a href="#section5">Paddington Integrated Project</a></li>
-                                                                                                <li><a href="#section6">Francis Crick Institute London</a></li>
-                                                                                                <li><a href="#" style="font-weight: 900">Sheffield</a></li>
-                                                                                                <li><a href="#section7">University of Sheffield “The Diamond”</a></li>
-                                                                                                <li><a href="#" style="font-weight: 900">Birmingham</a></li>
-                                                                                                <li><a href="#section8">Snow Hill Birmingham Phase 2</a></li>
+                                                                                            <ul id="marker"
+                                                                                                class="nav navbar-nav">
+                                                                                                <li><a href="#"
+                                                                                                       style="background: #281d52 !important;">England</a>
+                                                                                                </li>
+                                                                                                <li><a href="#"
+                                                                                                       style="font-weight: 900">London</a>
+                                                                                                </li>
+                                                                                                <li><a href="#section1">240
+                                                                                                        Blackfriars</a>
+                                                                                                </li>
+                                                                                                <li><a href="#section2">Blavatnik
+                                                                                                        School of
+                                                                                                        Government,
+                                                                                                        Oxford</a></li>
+                                                                                                <li><a href="#section3">The
+                                                                                                        Place, London
+                                                                                                        Bridge</a></li>
+                                                                                                <li><a href="#section4">One
+                                                                                                        Tower Bridge,
+                                                                                                        London</a></li>
+                                                                                                <li><a href="#section5">Paddington
+                                                                                                        Integrated
+                                                                                                        Project</a></li>
+                                                                                                <li><a href="#section6">Francis
+                                                                                                        Crick Institute
+                                                                                                        London</a></li>
+                                                                                                <li><a href="#"
+                                                                                                       style="font-weight: 900">Sheffield</a>
+                                                                                                </li>
+                                                                                                <li><a href="#section7">University
+                                                                                                        of Sheffield
+                                                                                                        “The
+                                                                                                        Diamond”</a>
+                                                                                                </li>
+                                                                                                <li><a href="#"
+                                                                                                       style="font-weight: 900">Birmingham</a>
+                                                                                                </li>
+                                                                                                <li><a href="#section8">Snow
+                                                                                                        Hill Birmingham
+                                                                                                        Phase 2</a></li>
 
                                                                                             </ul>
                                                                                         </dd>
                                                                                     </div>
                                                                                 </dl>
                                                                                 {{--<div class="map-image" style="display:block; justify-content: center; width:100%; height:400px; margin-left:auto !important; margin-right:auto; !important; align:center;">--}}
-                                                                                <img src="{{ url('/images/project-list-map.jpg') }}" style="display:block; overflow: auto; justify-content: center; width:auto; height:auto; margin-left:auto !important; margin-right:auto; !important; align:center;"  />
+                                                                                <img src="{{ url('/images/project-list-map.jpg') }}"
+                                                                                     style="display:block; overflow: auto; justify-content: center; width:auto; height:auto; margin-left:auto !important; margin-right:auto; !important; align:center;"/>
                                                                                 {{--</div>--}}
                                                                                 {{--<div id="wpgmza_map"--}}
                                                                                 {{--style="display:block; overflow:auto; width:100%; height:400px; margin-left:auto !important; margin-right:auto; !important; align:center;">--}}
@@ -580,7 +610,8 @@
                                                                                     as well the roof glazing. The roof
                                                                                     glazing proved to be particularly
                                                                                     challenging as due to the rigidity
-                                                                                    of the program we were instructed to
+                                                                                    of the programme we were instructed
+                                                                                    to
                                                                                     use the BMU to complete the roof
                                                                                     glazing.</p>
                                                                                 <p>The rear of the building was unitized
@@ -882,21 +913,58 @@
                                                                          data-element_type="text-editor.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-text-editor elementor-clearfix">
-                                                                                <p>This unique building is a twin skin
-                                                                                    construction within stepped precast
-                                                                                    panel at the head and cill.<br/>The
-                                                                                    inner skin comprises of a full
-                                                                                    factory fabricated unitised glazed
-                                                                                    curtain wall.<br/>The outer skin is
-                                                                                    a single laminated glass pane
-                                                                                    approximately 700mm wide by up to
-                                                                                    4250mm high at the highest level
-                                                                                    which is shuffle glazed into precast
-                                                                                    spandrel.<br/>GA also installed a
-                                                                                    number of roof lights, the “window
-                                                                                    to the world” and walkways between
-                                                                                    the inner and outer skin to the main
-                                                                                    façade.talled via mast climber.</p>
+                                                                                {{--<p>This unique building is a twin skin--}}
+                                                                                    {{--construction within stepped precast--}}
+                                                                                    {{--panel at the head and cill.<br/>The--}}
+                                                                                    {{--inner skin comprises of a full--}}
+                                                                                    {{--factory fabricated unitised glazed--}}
+                                                                                    {{--curtain wall.<br/>The outer skin is--}}
+                                                                                    {{--a single laminated glass pane--}}
+                                                                                    {{--approximately 700mm wide by up to--}}
+                                                                                    {{--4250mm high at the highest level--}}
+                                                                                    {{--which is shuffle glazed into precast--}}
+                                                                                    {{--spandrel.<br/>GA also installed a--}}
+                                                                                    {{--number of roof lights, the “window--}}
+                                                                                    {{--to the world” and walkways between--}}
+                                                                                    {{--the inner and outer skin to the main--}}
+                                                                                    {{--façade.talled via mast climber.</p>--}}
+                                                                                <p>Designed by Herzog de Meuron this
+                                                                                    building is a definition of
+                                                                                    progressive architecture. Working
+                                                                                    under Waagner Biro GA installed a
+                                                                                    twin skin construction within
+                                                                                    stepped precast panel at the head
+                                                                                    and cill. The inner skin comprises
+                                                                                    of a full factory fabricated
+                                                                                    unitised glazed curtain wall.The
+                                                                                    outer skin is a single laminated
+                                                                                    glass pane approximately 700mm wide
+                                                                                    by up to 4250mm high at the highest
+                                                                                    level which is shuffle glazed into
+                                                                                    precast spandrel.</p>
+                                                                                <p>The project also included
+                                                                                    installation of roof lights and
+                                                                                    walkways between the inner and outer
+                                                                                    skin to the main façade. The
+                                                                                    architectural culmination point
+                                                                                    though has to be Blavatnik’s "Window
+                                                                                    to the World" – a single gigantic
+                                                                                    glass pane 10.7m x 3.2m, which
+                                                                                    boasts being the largest glazed pane
+                                                                                    in Europe. The glass units were
+                                                                                    laminated with a 1.52 mm thick PVB
+                                                                                    interlayer, processed into a double
+                                                                                    insulating glass and coated against
+                                                                                    glare and solar heat gains. To
+                                                                                    facilitate the installation, a
+                                                                                    stainless steel frame provided by
+                                                                                    the client had been bonded to the
+                                                                                    insulating glass unit. With a weight
+                                                                                    of 3.5 tonnes installing this was a
+                                                                                    feat in itself. The result though is
+                                                                                    impressive providing a panoramic
+                                                                                    view of Oxford through its 34 sq m
+                                                                                    area.</p>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -1534,7 +1602,7 @@
                                                                                 <p>This development for Qatar Petroleum
                                                                                     comprised of 9 towers of varying
                                                                                     heights for commercial purposes and
-                                                                                    a hotel.<br/>Working for directly
+                                                                                    a hotel.<br/>Working directly for
                                                                                     Bouyges Batiment International, GA
                                                                                     Installation and Maintenance (Qatar)
                                                                                     WLL completed the installation of
@@ -1686,32 +1754,38 @@
                                                                                          data-ride="carousel">
                                                                                         <div class="carousel-inner">
                                                                                             <div class="carousel-item active">
-                                                                                                <img class="d-block w-100" style="height: 300px"
+                                                                                                <img class="d-block w-100"
+                                                                                                     style="height: 300px"
                                                                                                      src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-2-1024x683.jpg"
                                                                                                      alt="First slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
-                                                                                                <img class="d-block w-100" style="height: 300px"
+                                                                                                <img class="d-block w-100"
+                                                                                                     style="height: 300px"
                                                                                                      src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-1024x683.jpg"
                                                                                                      alt="Second slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
-                                                                                                <img class="d-block w-100" style="height: 300px"
+                                                                                                <img class="d-block w-100"
+                                                                                                     style="height: 300px"
                                                                                                      src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-7-1024x683.jpg"
                                                                                                      alt="Third slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
-                                                                                                <img class="d-block w-100" style="height: 300px"
+                                                                                                <img class="d-block w-100"
+                                                                                                     style="height: 300px"
                                                                                                      src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Sheffield-Engineering-1024x683.jpg"
                                                                                                      alt="Third slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
-                                                                                                <img class="d-block w-100" style="height: 300px"
+                                                                                                <img class="d-block w-100"
+                                                                                                     style="height: 300px"
                                                                                                      src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-4-1024x683.jpg"
                                                                                                      alt="Third slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
-                                                                                                <img class="d-block w-100" style="height: 300px"
+                                                                                                <img class="d-block w-100"
+                                                                                                     style="height: 300px"
                                                                                                      src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-5-1024x683.jpg"
                                                                                                      alt="Third slide">
                                                                                             </div>
@@ -2133,7 +2207,7 @@
                                                                                 <p>The building incorporated a multitude
                                                                                     if different claddings, fins and
                                                                                     grids. The tall glass atria made
-                                                                                    extensive use if glass with the east
+                                                                                    extensive use of glass with the east
                                                                                     side of the building using glass
                                                                                     fins that had a dichroic film that
                                                                                     reflects coloured rays of light into
@@ -2280,7 +2354,9 @@
     {{--@include('shared._footer')--}}
     <footer id="colophon" class="site-footer" role="contentinfo">
         <div class="site-info container">
-            © 2018 | G A Installation & Maintenance Ltd | All Rights Reserved | <a href="https://www.decode.lk/" target="_blank" rel="noopener">DeCODE</a>
+            © 2018 | G A Installation & Maintenance Ltd | All Rights Reserved | <a href="https://www.decode.lk/"
+                                                                                   target="_blank"
+                                                                                   rel="noopener">DeCODE</a>
             | <img class="footer-logo" src="{{ url('/images/iso-3.png') }}"/>
         </div><!-- .site-info -->
     </footer><!-- #colophon -->

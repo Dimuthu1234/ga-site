@@ -618,7 +618,7 @@
                                                                                     Quality Policy based on ISO 9001. In
                                                                                     addition the company hold a high
                                                                                     level of insurance with reputable
-                                                                                    companies (link to insurances).</p>
+                                                                                    companies.</p>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -713,6 +713,163 @@
                                                                                 </a>
                                                                             </div>
                                                                         </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+
+
+
+
+
+                                                <div class="elementor-container elementor-column-gap-default">
+                                                    <div class="elementor-row">
+                                                        <div data-id="42d000e"
+                                                             class="elementor-element elementor-element-42d000e elementor-column elementor-col-33 elementor-top-column"
+                                                             data-element_type="column">
+                                                            <div class="elementor-column-wrap elementor-element-populated">
+                                                                <div class="elementor-widget-wrap">
+                                                                    <div data-id="7679c20"
+                                                                         class="elementor-element elementor-element-7679c20 elementor-align-justify animated fadeInUp elementor-invisible elementor-widget elementor-widget-button"
+                                                                         data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:650}"
+                                                                         data-element_type="button.default">
+                                                                        <div class="elementor-widget-container">
+                                                                            <div class="elementor-button-wrapper">
+                                                                                <a href="http://recruit.destellosolutions.com/uploads/publications/Doc%201%20Health%20and%20safety%20policy%2001.11.16.pdf" style="background-color: rgba(2, 0, 0, 0.39);
+"
+                                                                                   class="elementor-button-link elementor-button elementor-size-lg elementor-animation-shrink"
+                                                                                   target="_blank">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-align-icon-left elementor-button-icon">
+				<i class="fa fa-bookmark-o" aria-hidden="true"></i>
+			</span>
+						<span class="elementor-button-text">Equal Opportunity Employer</span>
+		</span>
+                                                                                </a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div data-id="239083c"
+                                                             class="elementor-element elementor-element-239083c elementor-column elementor-col-33 elementor-top-column"
+                                                             data-element_type="column">
+                                                            <div class="elementor-column-wrap elementor-element-populated">
+                                                                <div class="elementor-widget-wrap">
+                                                                    <div data-id="7c41a1b"
+                                                                         class="elementor-element elementor-element-7c41a1b elementor-align-justify animated fadeInUp elementor-invisible elementor-widget elementor-widget-button"
+                                                                         data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:250}"
+                                                                         data-element_type="button.default">
+                                                                        <div class="elementor-widget-container">
+                                                                            <div class="elementor-button-wrapper">
+                                                                                <a href="http://recruit.destellosolutions.com/uploads/publications/QMS%2005%20Quality%20Policy%20Statement.pdf" style="background-color: rgba(2, 0, 0, 0.39);
+"
+                                                                                   class="elementor-button-link elementor-button elementor-size-lg elementor-animation-shrink"
+                                                                                   target="_blank">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-align-icon-left elementor-button-icon">
+				<i class="fa fa-bookmark-o" aria-hidden="true"></i>
+			</span>
+						<span class="elementor-button-text">Modern Slavery Statement </span>
+		</span>
+                                                                                </a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div data-id="22806e5"
+                                                             class="elementor-element elementor-element-22806e5 elementor-column elementor-col-33 elementor-top-column"
+                                                             data-element_type="column">
+                                                            <div class="elementor-column-wrap elementor-element-populated">
+                                                                <div class="elementor-widget-wrap">
+                                                                    <div data-id="4145115"
+                                                                         class="elementor-element elementor-element-4145115 elementor-align-justify animated fadeInUp elementor-invisible elementor-widget elementor-widget-button"
+                                                                         data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:450}"
+                                                                         data-element_type="button.default">
+                                                                        <div class="elementor-widget-container">
+                                                                            <div class="elementor-button-wrapper">
+                                                                                <a href="http://recruit.destellosolutions.com/uploads/publications/Doc%2015%20environmental%20policy.pdf" style="background-color: rgba(2, 0, 0, 0.39);
+"
+                                                                                   class="elementor-button-link elementor-button elementor-size-lg elementor-animation-shrink"
+                                                                                   target="_blank">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-align-icon-left elementor-button-icon">
+				<i class="fa fa-bookmark-o" aria-hidden="true"></i>
+			</span>
+						<span class="elementor-button-text">Anti-Bribery Policy</span>
+		</span>
+                                                                                </a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+
+
+
+
+                                                <div class="elementor-container elementor-column-gap-default">
+                                                    <div class="elementor-row">
+                                                        <div data-id="42d000e"
+                                                             class="elementor-element elementor-element-42d000e elementor-column elementor-col-33 elementor-top-column"
+                                                             data-element_type="column">
+                                                            <div class="elementor-column-wrap elementor-element-populated">
+                                                                <div class="elementor-widget-wrap">
+                                                                    <div data-id="7679c20"
+                                                                         class="elementor-element elementor-element-7679c20 elementor-align-justify animated fadeInUp elementor-invisible elementor-widget elementor-widget-button"
+                                                                         data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:650}"
+                                                                         data-element_type="button.default">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div data-id="239083c"
+                                                             class="elementor-element elementor-element-239083c elementor-column elementor-col-33 elementor-top-column"
+                                                             data-element_type="column">
+                                                            <div class="elementor-column-wrap elementor-element-populated">
+                                                                <div class="elementor-widget-wrap">
+                                                                    <div data-id="7c41a1b"
+                                                                         class="elementor-element elementor-element-7c41a1b elementor-align-justify animated fadeInUp elementor-invisible elementor-widget elementor-widget-button"
+                                                                         data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:250}"
+                                                                         data-element_type="button.default">
+                                                                        <div class="elementor-widget-container">
+                                                                            <div class="elementor-button-wrapper">
+                                                                                <a href="http://recruit.destellosolutions.com/uploads/publications/QMS%2005%20Quality%20Policy%20Statement.pdf" style="background-color: rgba(2, 0, 0, 0.39);
+"
+                                                                                   class="elementor-button-link elementor-button elementor-size-lg elementor-animation-shrink"
+                                                                                   target="_blank">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-align-icon-left elementor-button-icon">
+				<i class="fa fa-bookmark-o" aria-hidden="true"></i>
+			</span>
+						<span class="elementor-button-text">Insurance Policy</span>
+		</span>
+                                                                                </a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div data-id="42d000e"
+                                                             class="elementor-element elementor-element-42d000e elementor-column elementor-col-33 elementor-top-column"
+                                                             data-element_type="column">
+                                                            <div class="elementor-column-wrap elementor-element-populated">
+                                                                <div class="elementor-widget-wrap">
+                                                                    <div data-id="7679c20"
+                                                                         class="elementor-element elementor-element-7679c20 elementor-align-justify animated fadeInUp elementor-invisible elementor-widget elementor-widget-button"
+                                                                         data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:650}"
+                                                                         data-element_type="button.default">
                                                                     </div>
                                                                 </div>
                                                             </div>

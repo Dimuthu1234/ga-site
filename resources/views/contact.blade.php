@@ -116,7 +116,8 @@
                                                     <p>G A Installation &amp; Maintenance
                                                         Limited <br/>39 Crompton Road,
                                                         Stevenage,<br/>Hertfordshire SG1
-                                                        2EE<br/>United Kingdom</p></div>
+                                                        2EE<br/>United Kingdom<br>Phone +44 1438 727 226<br>Email: admin.ga@btconnect.com</p>
+                                                </div>
                                             </div>
                                         </div>
                                         <div data-id="354be48"
@@ -162,7 +163,7 @@
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-custom-embed">
 
-                                                    <iframe
+                                                    <iframe style="margin-top: 14%"
                                                             frameborder="0" scrolling="no"
                                                             marginheight="0" marginwidth="0"
                                                             {{--src="https://maps.google.com/maps?q=G%20A%20Installation%20%26%20Maintenance%20Qatar&amp;t=m&amp;z=50&amp;output=embed&amp;iwloc=near"--}}
