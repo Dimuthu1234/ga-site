@@ -2837,17 +2837,17 @@
 
 <script>
     $(document).ready(function(){
-        $('.dropdown-submenu a.test').on("mouseover", function(e){
+        $('.dropdown-submenu a.test').on("click", function(e){
             $(this).next('ul').toggle();
             e.stopPropagation();
             e.preventDefault();
         });
 
-        $('.dropdown-submenu a.test').on("mouseout", function(e){
-            $(this).next('ul').toggle().hide();
+        // $('.dropdown-submenu a.test').on("mouseout", function(e){
+            // $(this).next('ul').toggle().hide();
         //     e.stopPropagation();
         //     e.preventDefault();
-        });
+        // });
     });
 </script>
 
