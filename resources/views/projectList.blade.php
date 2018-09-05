@@ -569,57 +569,180 @@
                                                                                     <img href="#" class="btn btn-default dropdown-toggle marker-logo" style="position: absolute; width: 50px; height: 60px" data-toggle="dropdown"
                                                                                     src="{{ url('/images/logo-maker-1.png') }}"/>
 
-                                                                                    <ul class="dropdown-menu maker-new" style="width: 240px; height: auto;">
+                                                                                    <ul class="dropdown-menu maker-new" style="width: 190px; height: auto;">
                                                                                         {{--<li><a tabindex="-1" href="#">HTML</a></li>--}}
                                                                                         {{--<li><a tabindex="-1" href="#">CSS</a></li>--}}
 
-                                                                                        <li><a href="#">England</a>
+                                                                                        <li><a href="#">UK</a>
                                                                                         </li>
-                                                                                        <li><a href="#"
-                                                                                        style="font-weight: 900">London</a>
+                                                                                        <li class="dropdown-submenu" style="margin-top: 10px">
+                                                                                            <a class="test" tabindex="-1" href="#">Ongoing & Recent <span class="caret"></span></a>
+                                                                                            <ul class="dropdown-menu maker-new" style="width: 200px; height: 210px; overflow: scroll">
+                                                                                                <li><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">London</a></li>
+                                                                                                <li style="margin-top: 5px"><a tabindex="-1" href="#section1">240
+                                                                                                        Blackfriars</a>
+                                                                                                </li>
+                                                                                                <li style="margin-top: 5px"><a tabindex="-1" href="#section4">One
+                                                                                                        Tower Bridge</a></li>
+                                                                                                <li style="margin-top: 5px"><a tabindex="-1" href="#section6">Francis
+                                                                                                        Crick Institute</a></li>
+                                                                                                <li style="margin-top: 5px"><a tabindex="-1" href="#section3">London Bridge Palace</a></li>
+                                                                                                <li style="margin-top: 5px"><a tabindex="-1" href="#section5">Paddington I P</a></li>
+                                                                                                <li style="margin-top: 5px"><a tabindex="-1" href="#">Embassy Gardens</a></li>
+                                                                                                <li style="margin-top: 5px"><a tabindex="-1" href="#">Battersea Power Station</a></li>
+                                                                                                <li style="margin-top: 5px"><a tabindex="-1" href="#">Kensington Row</a></li>
+                                                                                                <li style="margin-top: 5px"><a tabindex="-1" href="#">Creechurch</a></li>
+                                                                                                <li><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">Cambridge</a></li>
+                                                                                                <li><a tabindex="-1" href="#">AstraZeneca</a></li>
+                                                                                                <li><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">Brimingham</a></li>
+                                                                                                <li><a tabindex="-1" href="#section8">Snow Hill Phase 2</a></li>
+                                                                                                <li><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">Bristol</a></li>
+                                                                                                <li><a tabindex="-1" href="#">Southmead Hospital</a></li>
+                                                                                                <li><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">Oxford</a></li>
+                                                                                                <li><a tabindex="-1" href="#section2">Blavatink School</a></li>
+                                                                                                <li><a tabindex="-1" href="#">Oxford Brooks University</a></li>
+                                                                                                <li><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">Sheffeild</a></li>
+                                                                                                <li><a tabindex="-1" href="#section7">The Diamond</a></li>
+                                                                                            </ul>
                                                                                         </li>
 
-                                                                                        <li class="dropdown-submenu">
-                                                                                            <a class="test" tabindex="-1" href="#">Level 2 dropdown <span class="caret"></span></a>
+                                                                                        <li class="dropdown-submenu" style="margin-top: 20px">
+                                                                                            <a class="test" tabindex="-2" href="#">2000 - 2009 <span class="caret"></span></a>
                                                                                             <ul class="dropdown-menu maker-new" style="width: 200px; height: 210px; overflow: scroll">
-                                                                                                <li><a tabindex="-1" href="#">2nd level</a></li>
+
+
+                                                                                                <li><a tabindex="-2" href="#">University of Surry - Guildford</a></li>
+                                                                                                <li><a tabindex="-2" href="#">Rolls House - London</a></li>
+                                                                                                <li><a tabindex="-2" href="#">Icon - Stevenage</a></li>
+                                                                                                <li><a tabindex="-2" href="#">Vantage West - London</a></li>
+                                                                                                <li><a tabindex="-2" href="#">Southfeild Project - Cambridge</a></li>
+                                                                                                <li><a tabindex="-2" href="#">Terminal 5 - Heathrow</a></li>
+                                                                                                <li><a tabindex="-2" href="#">Terminal 3 - Heathrow</a></li>
+                                                                                                <li><a tabindex="-2" href="#">St.Georges Wharf - London</a></li>
+                                                                                                <li><a tabindex="-2" href="#">Icon Building - Stevenage</a></li>
+                                                                                                <li><a tabindex="-2" href="#">Land Street - London</a></li>
+                                                                                                <li><a tabindex="-2" href="#">West End Quay - London</a></li>
+                                                                                                <li><a tabindex="-2" href="#">Compass Point - Staines</a></li>
+                                                                                                <li><a tabindex="-2" href="#">No. 2 London Bridge - London</a></li>
+                                                                                                <li><a tabindex="-2" href="#">Engineering Bld - Oxford University</a></li>
+                                                                                                <li><a tabindex="-2" href="#">Gene Function Centre - Oxford University</a></li>
+                                                                                                <li><a tabindex="-2" href="#">Chrisp Street - London</a></li>
+                                                                                                <li><a tabindex="-2" href="#">Clerkenwell A,B,C,D - London</a></li>
+                                                                                                <li><a tabindex="-2" href="#">201 Davis Street - London</a></li>
+                                                                                                <li><a tabindex="-2" href="#">EFFRA Blocks  F & G - Vauxhall</a></li>
+
                                                                                             </ul>
                                                                                         </li>
 
 
-                                                                                        <li><a href="#section1">240
-                                                                                        Blackfriars</a>
+                                                                                        <li class="dropdown-submenu" style="margin-top: 20px">
+                                                                                            <a class="test" tabindex="-3" href="#">1990-1999 <span class="caret"></span></a>
+                                                                                            <ul class="dropdown-menu maker-new" style="width: 200px; height: 210px; overflow: scroll">
+
+
+                                                                                                <li><a href="#">80 Bishopsgate - London</a></li>
+                                                                                                <li><a href="#">Mount Pleasant PO - London</a></li>
+                                                                                                <li><a href="#">9 Marylebone Lane - London</a></li>
+                                                                                                <li><a href="#">Glaxo Research Campus - Stevenage</a></li>
+                                                                                                <li><a href="#">Euston Tower Block B - London</a></li>
+                                                                                                <li><a href="#">120 Old Baord Street  - London</a></li>
+                                                                                                <li><a href="#">Borax - Guildford</a></li>
+                                                                                                <li><a href="#">Wern Park - Shefford</a></li>
+                                                                                                <li><a href="#">66 Cheapside - London</a></li>
+                                                                                                <li><a href="#">75-77 Cornhill - London</a></li>
+                                                                                                <li><a href="#">Shopping Centre - Milton Keynes</a></li>
+                                                                                                <li><a href="#">Vintners Galleria - London</a></li>
+                                                                                                <li><a href="#">Vauxhall Cross - London</a></li>
+                                                                                                <li><a href="#">Veritas House - London</a></li>
+                                                                                                <li><a href="#">Colemore Gate - Birmingham</a></li>
+                                                                                                <li><a href="#">40 St.Mary's Axe - London</a></li>
+                                                                                                <li><a href="#">Confederation Life - Stevenage</a></li>
+                                                                                                <li><a href="#">Capability Green - Luton</a></li>
+                                                                                                <li><a href="#">Scepter Court - London</a></li>
+                                                                                                <li><a href="#">BAA Hotel - Gatwick</a></li>
+                                                                                                <li><a href="#">No.1 Ailey Street - London</a></li>
+                                                                                                <li><a href="#">8-9 Berkerley Street - London</a></li>
+                                                                                                <li><a href="#">Fitzwilliam House - London</a></li>
+                                                                                                <li><a href="#">St.Marks Court - Horsham</a></li>
+                                                                                                <li><a href="#">London Stolport</a></li>
+                                                                                                <li><a href="#">No.5 Chancery Lane - London</a></li>
+                                                                                                <li><a href="#">Sanctuary Buildings - London</a></li>
+                                                                                                <li><a href="#">Chealsea Harbour - London</a></li>
+                                                                                                <li><a href="#">Stockley Park - Heathrow</a></li>
+                                                                                                <li><a href="#">Leith House - London</a></li>
+                                                                                                <li><a href="#">Lennox Wood - Horsham</a></li>
+                                                                                                <li><a href="#">4/7 Chriswell Street - London</a></li>
+                                                                                                <li><a href="#">Abbey Insurance - Bournemouth</a></li>
+                                                                                                <li><a href="#">Broadgate Phase 5 - London</a></li>
+                                                                                                <li><a href="#">Broadgate Phase 7 - London</a></li>
+                                                                                                <li><a href="#">Point West - London</a></li>
+                                                                                                <li><a href="#">Woking Shop Centre - Woking</a></li>
+                                                                                                <li><a href="#">Harbour Exchange 1,2 & 3 - London</a></li>
+                                                                                                <li><a href="#">Harbour Exchange 4 & 5 - London</a></li>
+                                                                                                <li><a href="#">Thameside I O Dogs - London</a></li>
+                                                                                                <li><a href="#">Halifax Building S - Halifax</a></li>
+                                                                                                <li><a href="#">New Broad Street - London</a></li>
+
+                                                                                            </ul>
                                                                                         </li>
-                                                                                        <li><a href="#section2">Blavatnik
-                                                                                        School of
-                                                                                        Government,
-                                                                                        Oxford</a></li>
-                                                                                        <li><a href="#section3">The
-                                                                                        Place, London
-                                                                                        Bridge</a></li>
-                                                                                        <li><a href="#section4">One
-                                                                                        Tower Bridge,
-                                                                                        London</a></li>
-                                                                                        <li><a href="#section5">Paddington
-                                                                                        Integrated
-                                                                                        Project</a></li>
-                                                                                        <li><a href="#section6">Francis
-                                                                                        Crick Institute
-                                                                                        London</a></li>
-                                                                                        <li><a href="#"
-                                                                                        style="font-weight: 900">Sheffield</a>
+
+
+                                                                                        <li class="dropdown-submenu" style="margin-top: 20px">
+                                                                                            <a class="test" tabindex="-4" href="#">1980-1989 <span class="caret"></span></a>
+                                                                                            <ul class="dropdown-menu maker-new" style="width: 200px; height: 210px; overflow: scroll">
+
+
+                                                                                                <li><a href="#">Cuton Mill - Chelmsford</a></li>
+                                                                                                <li><a href="#">Central Park - Watford</a></li>
+                                                                                                <li><a href="#">Oxford Hospital - Oxford</a></li>
+                                                                                                <li><a href="#">Meadowhall Mall - Sheffield</a></li>
+                                                                                                <li><a href="#">Brunton Lane - Newcastle</a></li>
+                                                                                                <li><a href="#">Navigation House - London</a></li>
+                                                                                                <li><a href="#">Capital House  - London</a></li>
+                                                                                                <li><a href="#">St.James Square - London</a></li>
+                                                                                                <li><a href="#">Lutyens House - London</a></li>
+                                                                                                <li><a href="#">Unicorn House - London</a></li>
+                                                                                                <li><a href="#">Swan House - London</a></li>
+                                                                                                <li><a href="#">260 Bath Road - Slough</a></li>
+                                                                                                <li><a href="#">Bath Road - Slough</a></li>
+                                                                                                <li><a href="#">Welwyn Garden City - Welwyn</a></li>
+                                                                                                <li><a href="#">Office Block - Cardiff</a></li>
+                                                                                                <li><a href="#">Farringdon House - London</a></li>
+                                                                                                <li><a href="#">Beaufort House - London</a></li>
+                                                                                                <li><a href="#">Five Acres - London</a></li>
+                                                                                                <li><a href="#">Cody Road Ind.Est - London</a></li>
+                                                                                                <li><a href="#">Music Sales - London</a></li>
+                                                                                                <li><a href="#">Woking Shop Centre - Woking</a></li>
+                                                                                                <li><a href="#">Ludgate Hill Dev - London</a></li>
+                                                                                                <li><a href="#">Sanctuary Buildings - London</a></li>
+                                                                                                <li><a href="#">Waterloo Int Stn - Wetherby</a></li>
+                                                                                                <li><a href="#">Conferderation Life - Stevenage</a></li>
+                                                                                                <li><a href="#">St.Dunstans House - London</a></li>
+
+                                                                                            </ul>
                                                                                         </li>
-                                                                                        <li><a href="#section7">University
-                                                                                        of Sheffield
-                                                                                        “The
-                                                                                        Diamond”</a>
-                                                                                        </li>
-                                                                                        <li><a href="#"
-                                                                                        style="font-weight: 900">Birmingham</a>
-                                                                                        </li>
-                                                                                        <li><a href="#section8">Snow
-                                                                                        Hill Birmingham
-                                                                                        Phase 2</a></li>
+
+
+
+
+
+                                                                                        {{--<li><a href="#"--}}
+                                                                                        {{--style="font-weight: 900">London</a>--}}
+                                                                                        {{--</li>--}}
+
+                                                                                        {{--<li class="dropdown-submenu">--}}
+                                                                                            {{--<a class="test" tabindex="-1" href="#">Level 2 dropdown <span class="caret"></span></a>--}}
+                                                                                            {{--<ul class="dropdown-menu maker-new" style="width: 200px; height: 210px; overflow: scroll">--}}
+                                                                                                {{--<li><a tabindex="-1" href="#">2nd level</a></li>--}}
+                                                                                            {{--</ul>--}}
+                                                                                        {{--</li>--}}
+                                                                                        {{----}}
+
+
+
+
+
+
                                                                                     </ul>
                                                                                 </div>
 
@@ -2715,6 +2838,31 @@
 <script>
     $(document).ready(function(){
         $('.dropdown-submenu a.test').on("click", function(e){
+            $(this).next('ul').toggle();
+            e.stopPropagation();
+            e.preventDefault();
+        });
+    });
+
+
+    $(document).ready(function(){
+        $('.dropdown-submenu2 a.test2').on("click", function(e){
+            $(this).next('ul').toggle();
+            e.stopPropagation();
+            e.preventDefault();
+        });
+    });
+
+    $(document).ready(function(){
+        $('.dropdown-submenu3 a.test3').on("click", function(e){
+            $(this).next('ul').toggle();
+            e.stopPropagation();
+            e.preventDefault();
+        });
+    });
+
+    $(document).ready(function(){
+        $('.dropdown-submenu4 a.test4').on("click", function(e){
             $(this).next('ul').toggle();
             e.stopPropagation();
             e.preventDefault();
