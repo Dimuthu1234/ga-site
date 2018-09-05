@@ -352,9 +352,17 @@
     <link rel='stylesheet' id='elementor-global-css'
           href='http://gawebsite.destellosolutions.com/wp-content/uploads/elementor/css/global.css?ver=1517034651'
           type='text/css' media='all'/>
+    {{--<link rel='stylesheet' id='elementor-post-6-css'--}}
+          {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/elementor/css/post-6.css?ver=1525761480'--}}
+          {{--type='text/css' media='all'/>--}}
+
+
     <link rel='stylesheet' id='elementor-post-6-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/uploads/elementor/css/post-6.css?ver=1525761480'
+          href="{{ url('/wp-content/uploads/elementor/css/post-6.css') }}"
           type='text/css' media='all'/>
+
+
+
     <script type='text/javascript'
             src='http://gawebsite.destellosolutions.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
     <script type='text/javascript'

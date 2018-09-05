@@ -143,3 +143,27 @@
   color: #ffffff;
   background: #022e62;
 }
+
+
+.dropdown a, .dropdown a:visited {
+  //color: #060606;
+  text-decoration: none;
+  //outline: none;
+  padding: 10% 0% 0% 5%;
+  //margin-top: 10%;
+  /* background: red; */
+}
+
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -1px;
+}
+
+.maker-new{
+  background: rgba(1, 0, 102, 0.84);
+}

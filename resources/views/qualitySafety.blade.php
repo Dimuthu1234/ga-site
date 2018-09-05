@@ -644,7 +644,7 @@
                                                                          data-element_type="button.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-button-wrapper">
-                                                                                <a href="http://recruit.destellosolutions.com/uploads/publications/Doc%201%20Health%20and%20safety%20policy%2001.11.16.pdf" style="background-color: rgba(2, 0, 0, 0.39);
+                                                                                <a href="http://recruit.dimuthuwebs.com/uploads/publications/Doc 1 Health & Safety Policy 2017 new.pdf" style="background-color: rgba(2, 0, 0, 0.39);
 "
                                                                                    class="elementor-button-link elementor-button elementor-size-lg elementor-animation-shrink"
                                                                                    target="_blank">
@@ -672,7 +672,7 @@
                                                                          data-element_type="button.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-button-wrapper">
-                                                                                <a href="http://recruit.destellosolutions.com/uploads/publications/QMS%2005%20Quality%20Policy%20Statement.pdf" style="background-color: rgba(2, 0, 0, 0.39);
+                                                                                <a href="http://recruit.dimuthuwebs.com/uploads/publications/QMS 05 Quality Policy Statement new.docx" style="background-color: rgba(2, 0, 0, 0.39);
 "
                                                                                    class="elementor-button-link elementor-button elementor-size-lg elementor-animation-shrink"
                                                                                    target="_blank">
@@ -700,7 +700,7 @@
                                                                          data-element_type="button.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-button-wrapper">
-                                                                                <a href="http://recruit.destellosolutions.com/uploads/publications/Doc%2015%20environmental%20policy.pdf" style="background-color: rgba(2, 0, 0, 0.39);
+                                                                                <a href="http://recruit.dimuthuwebs.com/uploads/publications/Doc 15 environmental policy.pdf" style="background-color: rgba(2, 0, 0, 0.39);
 "
                                                                                    class="elementor-button-link elementor-button elementor-size-lg elementor-animation-shrink"
                                                                                    target="_blank">
@@ -738,7 +738,7 @@
                                                                          data-element_type="button.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-button-wrapper">
-                                                                                <a href="http://recruit.destellosolutions.com/uploads/publications/Doc%201%20Health%20and%20safety%20policy%2001.11.16.pdf" style="background-color: rgba(2, 0, 0, 0.39);
+                                                                                <a href="http://recruit.dimuthuwebs.com/uploads/publications/QMS 13 Equal opportunities policy.doc" style="background-color: rgba(2, 0, 0, 0.39);
 "
                                                                                    class="elementor-button-link elementor-button elementor-size-lg elementor-animation-shrink"
                                                                                    target="_blank">
@@ -766,7 +766,7 @@
                                                                          data-element_type="button.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-button-wrapper">
-                                                                                <a href="http://recruit.destellosolutions.com/uploads/publications/QMS%2005%20Quality%20Policy%20Statement.pdf" style="background-color: rgba(2, 0, 0, 0.39);
+                                                                                <a href="http://recruit.dimuthuwebs.com/uploads/publications/QMS 15 Modern Slavery Statement.docx" style="background-color: rgba(2, 0, 0, 0.39);
 "
                                                                                    class="elementor-button-link elementor-button elementor-size-lg elementor-animation-shrink"
                                                                                    target="_blank">
@@ -794,7 +794,7 @@
                                                                          data-element_type="button.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-button-wrapper">
-                                                                                <a href="http://recruit.destellosolutions.com/uploads/publications/Doc%2015%20environmental%20policy.pdf" style="background-color: rgba(2, 0, 0, 0.39);
+                                                                                <a href="http://recruit.dimuthuwebs.com/uploads/publications/Antibribery policy.docx" style="background-color: rgba(2, 0, 0, 0.39);
 "
                                                                                    class="elementor-button-link elementor-button elementor-size-lg elementor-animation-shrink"
                                                                                    target="_blank">
@@ -844,7 +844,7 @@
                                                                          data-element_type="button.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-button-wrapper">
-                                                                                <a href="http://recruit.destellosolutions.com/uploads/publications/QMS%2005%20Quality%20Policy%20Statement.pdf" style="background-color: rgba(2, 0, 0, 0.39);
+                                                                                <a href="http://recruit.dimuthuwebs.com/uploads/publications/Doc 3 Insurances.pdf" style="background-color: rgba(2, 0, 0, 0.39);
 "
                                                                                    class="elementor-button-link elementor-button elementor-size-lg elementor-animation-shrink"
                                                                                    target="_blank">

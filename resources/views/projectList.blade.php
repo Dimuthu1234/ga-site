@@ -505,61 +505,128 @@
                                                                                 {{--<p>--}}
 
                                                                                 {{--<div id="mapDiv" style="display:block; justify-content: center; width:100%; height:400px; margin-left:auto !important; margin-right:auto; !important; align:center;">--}}
-                                                                                <dl id="sample" class="dropdown">
-                                                                                    <div class="marker-logo">
-                                                                                        <dt>
+                                                                                {{--<dl id="sample" class="dropdown">--}}
+                                                                                    {{--<div class="marker-logo">--}}
+                                                                                        {{--<dt>--}}
                                                                                             {{--<a href="#" style="border: 0; width: 30px; height: 40px; background-image:url({{ url('/images/logo-maker-1.png') }});"></a>--}}
-                                                                                            <img href="#"
-                                                                                                 src="{{ url('/images/logo-maker-1.png') }}"/>
+                                                                                            {{--<img href="#"--}}
+                                                                                                 {{--src="{{ url('/images/logo-maker-1.png') }}"/>--}}
 
-                                                                                        </dt>
-                                                                                        <dd class="marker-logo">
-                                                                                            <ul id="marker"
-                                                                                                class="nav navbar-nav">
-                                                                                                <li><a href="#"
-                                                                                                       style="background: #281d52 !important;">England</a>
-                                                                                                </li>
-                                                                                                <li><a href="#"
-                                                                                                       style="font-weight: 900">London</a>
-                                                                                                </li>
-                                                                                                <li><a href="#section1">240
-                                                                                                        Blackfriars</a>
-                                                                                                </li>
-                                                                                                <li><a href="#section2">Blavatnik
-                                                                                                        School of
-                                                                                                        Government,
-                                                                                                        Oxford</a></li>
-                                                                                                <li><a href="#section3">The
-                                                                                                        Place, London
-                                                                                                        Bridge</a></li>
-                                                                                                <li><a href="#section4">One
-                                                                                                        Tower Bridge,
-                                                                                                        London</a></li>
-                                                                                                <li><a href="#section5">Paddington
-                                                                                                        Integrated
-                                                                                                        Project</a></li>
-                                                                                                <li><a href="#section6">Francis
-                                                                                                        Crick Institute
-                                                                                                        London</a></li>
-                                                                                                <li><a href="#"
-                                                                                                       style="font-weight: 900">Sheffield</a>
-                                                                                                </li>
-                                                                                                <li><a href="#section7">University
-                                                                                                        of Sheffield
-                                                                                                        “The
-                                                                                                        Diamond”</a>
-                                                                                                </li>
-                                                                                                <li><a href="#"
-                                                                                                       style="font-weight: 900">Birmingham</a>
-                                                                                                </li>
-                                                                                                <li><a href="#section8">Snow
-                                                                                                        Hill Birmingham
-                                                                                                        Phase 2</a></li>
+                                                                                        {{--</dt>--}}
+                                                                                        {{--<dd class="marker-logo">--}}
+                                                                                            {{--<ul id="marker"--}}
+                                                                                                {{--class="nav navbar-nav">--}}
+                                                                                                {{--<li><a href="#"--}}
+                                                                                                       {{--style="background: #281d52 !important;">England</a>--}}
+                                                                                                {{--</li>--}}
+                                                                                                {{--<li><a href="#"--}}
+                                                                                                       {{--style="font-weight: 900">London</a>--}}
+                                                                                                {{--</li>--}}
+                                                                                                {{--<li><a href="#section1">240--}}
+                                                                                                        {{--Blackfriars</a>--}}
+                                                                                                {{--</li>--}}
+                                                                                                {{--<li><a href="#section2">Blavatnik--}}
+                                                                                                        {{--School of--}}
+                                                                                                        {{--Government,--}}
+                                                                                                        {{--Oxford</a></li>--}}
+                                                                                                {{--<li><a href="#section3">The--}}
+                                                                                                        {{--Place, London--}}
+                                                                                                        {{--Bridge</a></li>--}}
+                                                                                                {{--<li><a href="#section4">One--}}
+                                                                                                        {{--Tower Bridge,--}}
+                                                                                                        {{--London</a></li>--}}
+                                                                                                {{--<li><a href="#section5">Paddington--}}
+                                                                                                        {{--Integrated--}}
+                                                                                                        {{--Project</a></li>--}}
+                                                                                                {{--<li><a href="#section6">Francis--}}
+                                                                                                        {{--Crick Institute--}}
+                                                                                                        {{--London</a></li>--}}
+                                                                                                {{--<li><a href="#"--}}
+                                                                                                       {{--style="font-weight: 900">Sheffield</a>--}}
+                                                                                                {{--</li>--}}
+                                                                                                {{--<li><a href="#section7">University--}}
+                                                                                                        {{--of Sheffield--}}
+                                                                                                        {{--“The--}}
+                                                                                                        {{--Diamond”</a>--}}
+                                                                                                {{--</li>--}}
+                                                                                                {{--<li><a href="#"--}}
+                                                                                                       {{--style="font-weight: 900">Birmingham</a>--}}
+                                                                                                {{--</li>--}}
+                                                                                                {{--<li><a href="#section8">Snow--}}
+                                                                                                        {{--Hill Birmingham--}}
+                                                                                                        {{--Phase 2</a></li>--}}
 
+                                                                                            {{--</ul>--}}
+                                                                                        {{--</dd>--}}
+                                                                                    {{--</div>--}}
+                                                                                {{--</dl>--}}
+
+
+
+                                                                                <div class="dropdown">
+                                                                                    {{--<button class="btn btn-default dropdown-toggle" style="position: absolute" type="button" data-toggle="dropdown">Tutorials--}}
+                                                                                        {{--<span class="caret"></span></button>--}}
+                                                                                    <img href="#" class="btn btn-default dropdown-toggle marker-logo" style="position: absolute; width: 50px; height: 60px" data-toggle="dropdown"
+                                                                                    src="{{ url('/images/logo-maker-1.png') }}"/>
+
+                                                                                    <ul class="dropdown-menu maker-new" style="width: 240px; height: auto;">
+                                                                                        {{--<li><a tabindex="-1" href="#">HTML</a></li>--}}
+                                                                                        {{--<li><a tabindex="-1" href="#">CSS</a></li>--}}
+
+                                                                                        <li><a href="#">England</a>
+                                                                                        </li>
+                                                                                        <li><a href="#"
+                                                                                        style="font-weight: 900">London</a>
+                                                                                        </li>
+
+                                                                                        <li class="dropdown-submenu">
+                                                                                            <a class="test" tabindex="-1" href="#">Level 2 dropdown <span class="caret"></span></a>
+                                                                                            <ul class="dropdown-menu maker-new" style="width: 200px; height: 210px; overflow: scroll">
+                                                                                                <li><a tabindex="-1" href="#">2nd level</a></li>
                                                                                             </ul>
-                                                                                        </dd>
-                                                                                    </div>
-                                                                                </dl>
+                                                                                        </li>
+
+
+                                                                                        <li><a href="#section1">240
+                                                                                        Blackfriars</a>
+                                                                                        </li>
+                                                                                        <li><a href="#section2">Blavatnik
+                                                                                        School of
+                                                                                        Government,
+                                                                                        Oxford</a></li>
+                                                                                        <li><a href="#section3">The
+                                                                                        Place, London
+                                                                                        Bridge</a></li>
+                                                                                        <li><a href="#section4">One
+                                                                                        Tower Bridge,
+                                                                                        London</a></li>
+                                                                                        <li><a href="#section5">Paddington
+                                                                                        Integrated
+                                                                                        Project</a></li>
+                                                                                        <li><a href="#section6">Francis
+                                                                                        Crick Institute
+                                                                                        London</a></li>
+                                                                                        <li><a href="#"
+                                                                                        style="font-weight: 900">Sheffield</a>
+                                                                                        </li>
+                                                                                        <li><a href="#section7">University
+                                                                                        of Sheffield
+                                                                                        “The
+                                                                                        Diamond”</a>
+                                                                                        </li>
+                                                                                        <li><a href="#"
+                                                                                        style="font-weight: 900">Birmingham</a>
+                                                                                        </li>
+                                                                                        <li><a href="#section8">Snow
+                                                                                        Hill Birmingham
+                                                                                        Phase 2</a></li>
+                                                                                    </ul>
+                                                                                </div>
+
+
+
+
+
                                                                                 {{--<div class="map-image" style="display:block; justify-content: center; width:100%; height:400px; margin-left:auto !important; margin-right:auto; !important; align:center;">--}}
                                                                                 <img src="{{ url('/images/project-list-map.jpg') }}"
                                                                                      style="display:block; overflow: auto; justify-content: center; width:auto; height:auto; margin-left:auto !important; margin-right:auto; !important; align:center;"/>
@@ -2643,6 +2710,21 @@
 
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
+
+
+<script>
+    $(document).ready(function(){
+        $('.dropdown-submenu a.test').on("click", function(e){
+            $(this).next('ul').toggle();
+            e.stopPropagation();
+            e.preventDefault();
+        });
+    });
+</script>
+
+
+
+
 <script>
 
     $(".dropdown img.flag").addClass("flagvisibility");

@@ -36,7 +36,7 @@
                                             href="{{ url('/ga-qatar') }}">GA Qatar</a></li>
                                 <li id="menu-item-176"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-176"><a
-                                            href="http://recruit.destellosolutions.com/">Careers/Opportunities</a>
+                                            href="http://recruit.dimuthuwebs.com/">Careers/Opportunities</a>
                                 </li>
                                 <li id="menu-item-20"
                                     class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-18 current_page_item menu-item-20">
