@@ -2837,7 +2837,7 @@
 
 <script>
     $(document).ready(function(){
-        $('.dropdown-submenu a.test').on("hover", function(e){
+        $('.dropdown-submenu a.test').on("click", function(e){
             $(this).next('ul').toggle();
             e.stopPropagation();
             e.preventDefault();
