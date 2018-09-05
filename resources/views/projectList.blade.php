@@ -573,7 +573,7 @@
                                                                                         {{--<li><a tabindex="-1" href="#">HTML</a></li>--}}
                                                                                         {{--<li><a tabindex="-1" href="#">CSS</a></li>--}}
 
-                                                                                        <li><a href="#">UK</a>
+                                                                                        <li><a href="#" style="font-size: 14px; font-weight: 900">UK</a>
                                                                                         </li>
                                                                                         <li class="dropdown-submenu" style="margin-top: 10px">
                                                                                             <a class="test" tabindex="-1" href="#">Ongoing & Recent <span class="caret"></span></a>
@@ -2837,32 +2837,7 @@
 
 <script>
     $(document).ready(function(){
-        $('.dropdown-submenu a.test').on("click", function(e){
-            $(this).next('ul').toggle();
-            e.stopPropagation();
-            e.preventDefault();
-        });
-    });
-
-
-    $(document).ready(function(){
-        $('.dropdown-submenu2 a.test2').on("click", function(e){
-            $(this).next('ul').toggle();
-            e.stopPropagation();
-            e.preventDefault();
-        });
-    });
-
-    $(document).ready(function(){
-        $('.dropdown-submenu3 a.test3').on("click", function(e){
-            $(this).next('ul').toggle();
-            e.stopPropagation();
-            e.preventDefault();
-        });
-    });
-
-    $(document).ready(function(){
-        $('.dropdown-submenu4 a.test4').on("click", function(e){
+        $('.dropdown-submenu a.test').on("hover", function(e){
             $(this).next('ul').toggle();
             e.stopPropagation();
             e.preventDefault();
