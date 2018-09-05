@@ -2842,6 +2842,12 @@
             e.stopPropagation();
             e.preventDefault();
         });
+
+        $('.dropdown-submenu a.test').on("mouseout", function(e){
+            $(this).next('ul').toggle().hide();
+        //     e.stopPropagation();
+        //     e.preventDefault();
+        });
     });
 </script>
 
