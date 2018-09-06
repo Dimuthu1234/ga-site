@@ -572,8 +572,14 @@
                                                                                         {{--<li><a tabindex="-1" href="#">HTML</a></li>--}}
                                                                                         {{--<li><a tabindex="-1" href="#">CSS</a></li>--}}
 
-                                                                                        <li><a href="#" style="font-size: 14px; font-weight: 900">UK</a>
-                                                                                        </li>
+                                                                                        <li><a href="#" style="font-size: 14px; font-weight: 900">Qatar</a></li>
+                                                                                        <li><a href="#">QPD Tower 6</a></li>
+                                                                                        <li><a href="#">TJ Pearl Mansions</a></li>
+                                                                                        <li><a href="#">Energy City</a></li>
+                                                                                        <li><a href="#">Lusail IMX 52 Hotel</a></li>
+                                                                                        <li><a href="#">Doha Convention Centre</a></li>
+                                                                                        <li><a href="#">Barwa Commercial Avenue</a></li>
+                                                                                        <li><a href="#">NDIA</a></li>
                                                                                     </ul>
                                                                                 </div>
 
