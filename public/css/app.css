@@ -131,6 +131,42 @@
   position: absolute;
 }
 
+.marker-logo3 {
+  border: 0;
+  width: 30px;
+  height: 35px;
+  margin-top: 10%;
+  margin-left: 7%;
+  position: absolute;
+}
+
+.marker-logo4 {
+  border: 0;
+  width: 30px;
+  height: 35px;
+  margin-top: 10%;
+  margin-left: 14%;
+  position: absolute;
+}
+
+.marker-logo5 {
+  border: 0;
+  width: 30px;
+  height: 35px;
+  margin-top: 10%;
+  margin-left: 21%;
+  position: absolute;
+}
+
+.marker-logo5 {
+  border: 0;
+  width: 30px;
+  height: 35px;
+  margin-top: 10%;
+  margin-left: 28%;
+  position: absolute;
+}
+
 .dropdown dd ul {
   background: #0d1959c9 none repeat scroll 0 0;
   border: 1px solid #0d1959;

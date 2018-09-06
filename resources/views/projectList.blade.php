@@ -583,6 +583,81 @@
                                                                                     </ul>
                                                                                 </div>
 
+                                                                                <div class="dropdown">
+                                                                                    {{--<button class="btn btn-default dropdown-toggle" style="position: absolute" type="button" data-toggle="dropdown">Tutorials--}}
+                                                                                    {{--<span class="caret"></span></button>--}}
+                                                                                    <img href="#" class="btn btn-default dropdown-toggle marker-logo3" style="position: absolute; width: 50px; height: 60px" data-toggle="dropdown"
+                                                                                         src="{{ url('/images/logo-maker-1.png') }}"/>
+
+                                                                                    <ul class="dropdown-menu maker-new" style="width: 190px; height: auto;">
+                                                                                        {{--<li><a tabindex="-1" href="#">HTML</a></li>--}}
+                                                                                        {{--<li><a tabindex="-1" href="#">CSS</a></li>--}}
+
+                                                                                        <li><a href="#" style="font-size: 14px; font-weight: 900">Azerbaijn</a></li>
+                                                                                        <li><a href="#">JW Mariott</a></li>
+                                                                                    </ul>
+                                                                                </div>
+
+                                                                                <div class="dropdown">
+                                                                                    {{--<button class="btn btn-default dropdown-toggle" style="position: absolute" type="button" data-toggle="dropdown">Tutorials--}}
+                                                                                    {{--<span class="caret"></span></button>--}}
+                                                                                    <img href="#" class="btn btn-default dropdown-toggle marker-logo4" style="position: absolute; width: 50px; height: 60px" data-toggle="dropdown"
+                                                                                         src="{{ url('/images/logo-maker-1.png') }}"/>
+
+                                                                                    <ul class="dropdown-menu maker-new" style="width: 190px; height: auto;">
+                                                                                        {{--<li><a tabindex="-1" href="#">HTML</a></li>--}}
+                                                                                        {{--<li><a tabindex="-1" href="#">CSS</a></li>--}}
+
+                                                                                        <li><a href="#" style="font-size: 14px; font-weight: 900">Ireland</a></li>
+                                                                                        <li><a href="#">AIB</a></li>
+                                                                                        <li><a href="#">West Gate</a></li>
+                                                                                        <li><a href="#">Cork Library</a></li>
+                                                                                        <li><a href="#">Dundrum Shopping Centre</a></li>
+                                                                                        <li><a href="#">Mary's Abbey</a></li>
+                                                                                        <li><a href="#">Beacon Court</a></li>
+                                                                                    </ul>
+                                                                                </div>
+
+
+
+                                                                                <div class="dropdown">
+                                                                                    {{--<button class="btn btn-default dropdown-toggle" style="position: absolute" type="button" data-toggle="dropdown">Tutorials--}}
+                                                                                    {{--<span class="caret"></span></button>--}}
+                                                                                    <img href="#" class="btn btn-default dropdown-toggle marker-logo5" style="position: absolute; width: 50px; height: 60px" data-toggle="dropdown"
+                                                                                         src="{{ url('/images/logo-maker-1.png') }}"/>
+
+                                                                                    <ul class="dropdown-menu maker-new" style="width: 190px; height: auto;">
+                                                                                        {{--<li><a tabindex="-1" href="#">HTML</a></li>--}}
+                                                                                        {{--<li><a tabindex="-1" href="#">CSS</a></li>--}}
+
+                                                                                        <li><a href="#" style="font-size: 14px; font-weight: 900">Germany</a></li>
+                                                                                        <li><a href="#">Caracalla Baths</a></li>
+                                                                                        <li><a href="#">Hohenstaufen Gymnasium</a></li>
+                                                                                        <li><a href="#">Telekon Buildings</a></li>
+                                                                                        <li><a href="#">Bonn Telecom</a></li>
+                                                                                        <li><a href="#">Offices Factory - Gechingen</a></li>
+                                                                                        <li><a href="#">Shopping Centre - Mannheim </a></li>
+                                                                                        <li><a href="#">Euro Buro Haus</a></li>
+                                                                                        <li><a href="#">Bank Potsdam</a></li>
+                                                                                        <li><a href="#">Offices Aachen</a></li>
+                                                                                    </ul>
+                                                                                </div>
+
+                                                                                <div class="dropdown">
+                                                                                    {{--<button class="btn btn-default dropdown-toggle" style="position: absolute" type="button" data-toggle="dropdown">Tutorials--}}
+                                                                                    {{--<span class="caret"></span></button>--}}
+                                                                                    <img href="#" class="btn btn-default dropdown-toggle marker-logo6" style="position: absolute; width: 50px; height: 60px" data-toggle="dropdown"
+                                                                                         src="{{ url('/images/logo-maker-1.png') }}"/>
+
+                                                                                    <ul class="dropdown-menu maker-new" style="width: 190px; height: auto;">
+                                                                                        {{--<li><a tabindex="-1" href="#">HTML</a></li>--}}
+                                                                                        {{--<li><a tabindex="-1" href="#">CSS</a></li>--}}
+
+                                                                                        <li><a href="#" style="font-size: 14px; font-weight: 900">China</a></li>
+                                                                                        <li><a href="#">Lufthansa Centre</a></li>
+                                                                                    </ul>
+                                                                                </div>
+
 
 
 
