@@ -591,7 +591,7 @@
                                 <div class="elementor elementor-12">
                                     <div class="elementor-inner">
                                         <div class="elementor-section-wrap">
-                                            <section data-id="9fd50a4"
+                                            <section data-id="9fd50a4" style="margin-top: -8px"
                                                      class="elementor-element elementor-element-9fd50a4 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
                                                      data-element_type="section">
                                                 <div class="elementor-container elementor-column-gap-default">
@@ -628,7 +628,7 @@
                                                     </div>
                                                 </div>
                                             </section>
-                                            <section data-id="0743e1b"
+                                            <section data-id="0743e1b" style="margin-top: -50px"
                                                      class="elementor-element elementor-element-0743e1b elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
                                                      data-element_type="section">
                                                 <div class="elementor-container elementor-column-gap-default">
