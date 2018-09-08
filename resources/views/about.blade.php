@@ -373,7 +373,7 @@
           href="http://gawebsite.destellosolutions.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgawebsite.destellosolutions.com%2F&#038;format=xml"/>
     <style type="text/css" id="custom-background-css">
         /*body.custom-background {*/
-            /*background-color: #182d51;*/
+        /*background-color: #182d51;*/
         /*}*/
 
         body.custom-background {
@@ -393,13 +393,11 @@
 
 
 
-             background:
-                /* top, transparent red, faked with gradient */
-                    linear-gradient(
-                            rgba(120, 74, 24, 0.45),
-                            rgba(120, 74, 24, 0.45)
-                    ),
-                    url({{ url('/images/new_home_image/tt.jpg') }});
+              background: /* top, transparent red, faked with gradient */ linear-gradient(
+                    rgba(120, 74, 24, 0.45),
+                    rgba(120, 74, 24, 0.45)
+            ),
+            url({{ url('/images/new_home_image/tt.jpg') }});
             /*background-repeat: no-repeat;*/
             background-size: cover;
 
@@ -571,7 +569,8 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div data-id="1ebfdf2"  style="margin-top: 12%; padding-bottom: 5%"
+                                                        <div data-id="1ebfdf2"
+                                                             style="margin-top: 12%; padding-bottom: 5%"
                                                              class="elementor-element elementor-element-1ebfdf2 elementor-column elementor-col-50 elementor-top-column"
                                                              data-element_type="column">
                                                             <div class="elementor-column-wrap elementor-element-populated">
@@ -676,7 +675,7 @@
                                                                             </div>
                                                                         </div>
                                                                     </div>
-                                                                    <div data-id="d418ca9"
+                                                                    <div data-id="d418ca9" style="margin-top: 13%"
                                                                          class="elementor-element elementor-element-d418ca9 elementor-widget elementor-widget-image-carousel"
                                                                          data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;arrows&quot;,&quot;pause_on_hover&quot;:&quot;no&quot;,&quot;autoplay_speed&quot;:3000,&quot;effect&quot;:&quot;fade&quot;,&quot;speed&quot;:1000,&quot;autoplay&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;direction&quot;:&quot;ltr&quot;}"
                                                                          data-element_type="image-carousel.default">
@@ -737,10 +736,13 @@
                                                                                         challenge design, and technology
                                                                                         and innovation produce
                                                                                         ever-changing materials used for
-                                                                                        construction.To ensure we can
-                                                                                        produce the finished result of
-                                                                                        what the architect and client
-                                                                                        have envisaged.</p>
+                                                                                        construction, it is essential
+                                                                                        that as installers we have the
+                                                                                        knowledge and capability to
+                                                                                        ensure we can produce the
+                                                                                        finished result of what the
+                                                                                        architect and client have
+                                                                                        envisaged.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -807,7 +809,7 @@
                                                                             </div>
                                                                         </div>
                                                                     </div>
-                                                                    <div data-id="c6a6314"
+                                                                    <div data-id="c6a6314" style="margin-top: 13%"
                                                                          class="elementor-element elementor-element-c6a6314 elementor-widget elementor-widget-image-carousel"
                                                                          data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;arrows&quot;,&quot;pause_on_hover&quot;:&quot;no&quot;,&quot;autoplay_speed&quot;:3000,&quot;effect&quot;:&quot;fade&quot;,&quot;speed&quot;:1000,&quot;autoplay&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;direction&quot;:&quot;ltr&quot;}"
                                                                          data-element_type="image-carousel.default">
@@ -848,7 +850,6 @@
                                             </section>
 
 
-
                                             <div id="section1"></div>
                                             <section data-id="7911b9b"
                                                      class="elementor-element elementor-element-7911b9b elementor-section-stretched elementor-section-boxed elementor-section-height-full elementor-section-height-default elementor-section-items-middle elementor-section-content-middle elementor-section elementor-top-section"
@@ -867,7 +868,8 @@
                                                                          data-element_type="heading.default">
 
                                                                     </div>
-                                                                    <div data-id="40febe0" style="margin-top: 5%; background: lightgrey; padding: 5%"
+                                                                    <div data-id="40febe0"
+                                                                         style="margin-top: 5%; background: lightgrey; padding: 5%"
                                                                          class="elementor-element elementor-element-40febe0 elementor-widget elementor-widget-text-editor"
                                                                          data-element_type="text-editor.default">
                                                                         <div class="elementor-widget-container">
@@ -875,7 +877,8 @@
                                                                                 <div class="elementor-widget-container">
                                                                                     <h2 class="elementor-heading-title elementor-size-default history">
                                                                                         History</h2></div>
-                                                                                <p><strong style="color: #333b6d;">GA was first established in
+                                                                                <p><strong style="color: #333b6d;">GA
+                                                                                        was first established in
                                                                                         1984, by Zak Zarook and Colin
                                                                                         Boud. Both had been working for
                                                                                         the industrial giant in curtain
@@ -892,7 +895,8 @@
                                                                                         and demanding curtain wall
                                                                                         projects on time and within
                                                                                         sensible budgets.</strong></p>
-                                                                                <p><strong style="color: #333b6d;">The GA philosophy has been
+                                                                                <p><strong style="color: #333b6d;">The
+                                                                                        GA philosophy has been
                                                                                         simple: quality, professionalism
                                                                                         and loyalty both to our
                                                                                         workforce and our clients. Over
@@ -931,8 +935,6 @@
                                                     </div>
                                                 </div>
                                             </section>
-
-
 
 
                                         </div>
@@ -1017,12 +1019,6 @@
 
 </body>
 </html>
-
-
-
-
-
-
 
 
 {{--<!DOCTYPE html>--}}
@@ -1477,7 +1473,6 @@
 {{--</div>--}}
 
 {{--</div>--}}
-
 
 
 {{--<div id="content" class="page-wrap">--}}

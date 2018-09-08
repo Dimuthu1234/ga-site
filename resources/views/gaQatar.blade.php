@@ -353,14 +353,13 @@
           href='http://gawebsite.destellosolutions.com/wp-content/uploads/elementor/css/global.css?ver=1517034651'
           type='text/css' media='all'/>
     {{--<link rel='stylesheet' id='elementor-post-6-css'--}}
-          {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/elementor/css/post-6.css?ver=1525761480'--}}
-          {{--type='text/css' media='all'/>--}}
+    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/elementor/css/post-6.css?ver=1525761480'--}}
+    {{--type='text/css' media='all'/>--}}
 
 
     <link rel='stylesheet' id='elementor-post-6-css'
           href="{{ url('/wp-content/uploads/elementor/css/post-6.css') }}"
           type='text/css' media='all'/>
-
 
 
     <script type='text/javascript'
@@ -448,13 +447,13 @@
 
     <div class="sydney-hero-area">
 
-        <div id="slideshow" class="header-slider" data-speed="4000" data-mobileslider="responsive">
+        <div id="slideshow" class="header-slider" data-speed="4000" data-mobileslider="responsive" style="margin-top: -10%">
             <div class="slides-container">
 
                 <div class="slide-item slide-item-1"
                      style="background-image:url({{ url('/images/DSC_0874.JPG') }});">
                     <img class="mobile-slide preserve"
-                         src="{{ url('/images/DSC_0852.JPG') }}" style="width: 1920px; height: 1080px"
+                         src="{{ url('/images/DSC_0852.JPG') }}"
                          alt="Blavatnik@Trevor Palin"/>
                     <div class="slide-inner">
                         <div class="contain animated fadeInRightBig text-slider">
@@ -479,7 +478,7 @@
                 <div class="slide-item slide-item-3"
                      style="background-image:url({{ url('/images/DSC_0882.JPG') }});">
                     <img class="mobile-slide preserve"
-                         src="{{ url('/images/DSC_0882.JPG') }}" alt=""/>
+                         src="{{ url('/images/DSC_0860.JPG') }}" alt=""/>
                     <div class="slide-inner">
                         <div class="contain animated fadeInRightBig text-slider">
                             <h2 class="maintitle"></h2>
@@ -561,20 +560,20 @@
                                                             <div class="elementor-column-wrap elementor-element-populated">
                                                                 <div class="elementor-widget-wrap">
                                                                     {{--<div data-id="2d5dbf7"--}}
-                                                                         {{--class="elementor-element elementor-element-2d5dbf7 elementor-widget elementor-widget-heading"--}}
-                                                                         {{--data-element_type="heading.default">--}}
-                                                                        {{--<div class="elementor-widget-container">--}}
-                                                                            {{--<h2 class="elementor-heading-title elementor-size-default">--}}
-                                                                                {{--GAI - Qatar description.</h2></div>--}}
+                                                                    {{--class="elementor-element elementor-element-2d5dbf7 elementor-widget elementor-widget-heading"--}}
+                                                                    {{--data-element_type="heading.default">--}}
+                                                                    {{--<div class="elementor-widget-container">--}}
+                                                                    {{--<h2 class="elementor-heading-title elementor-size-default">--}}
+                                                                    {{--GAI - Qatar description.</h2></div>--}}
                                                                     {{--</div>--}}
                                                                     {{--<div data-id="407fee8"--}}
-                                                                         {{--class="elementor-element elementor-element-407fee8 elementor-widget elementor-widget-divider"--}}
-                                                                         {{--data-element_type="divider.default">--}}
-                                                                        {{--<div class="elementor-widget-container">--}}
-                                                                            {{--<div class="elementor-divider">--}}
-                                                                                {{--<span class="elementor-divider-separator"></span>--}}
-                                                                            {{--</div>--}}
-                                                                        {{--</div>--}}
+                                                                    {{--class="elementor-element elementor-element-407fee8 elementor-widget elementor-widget-divider"--}}
+                                                                    {{--data-element_type="divider.default">--}}
+                                                                    {{--<div class="elementor-widget-container">--}}
+                                                                    {{--<div class="elementor-divider">--}}
+                                                                    {{--<span class="elementor-divider-separator"></span>--}}
+                                                                    {{--</div>--}}
+                                                                    {{--</div>--}}
                                                                     {{--</div>--}}
                                                                     <div data-id="6fe70da"
                                                                          class="elementor-element elementor-element-6fe70da elementor-widget elementor-widget-text-editor"
@@ -610,13 +609,13 @@
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-button-wrapper">
                                                                                 {{--<a href="/about"--}}
-                                                                                   {{--class="elementor-button-link elementor-button elementor-size-md elementor-animation-shrink">--}}
-						{{--<span class="elementor-button-content-wrapper">--}}
-						{{--<span class="elementor-align-icon-left elementor-button-icon">--}}
-				{{--<i class="fa fa-slideshare" aria-hidden="true"></i>--}}
-			{{--</span>--}}
-						{{--<span class="elementor-button-text">MORE ABOUT US</span>--}}
-		{{--</span>--}}
+                                                                                {{--class="elementor-button-link elementor-button elementor-size-md elementor-animation-shrink">--}}
+                                                                                {{--<span class="elementor-button-content-wrapper">--}}
+                                                                                {{--<span class="elementor-align-icon-left elementor-button-icon">--}}
+                                                                                {{--<i class="fa fa-slideshare" aria-hidden="true"></i>--}}
+                                                                                {{--</span>--}}
+                                                                                {{--<span class="elementor-button-text">MORE ABOUT US</span>--}}
+                                                                                {{--</span>--}}
                                                                                 {{--</a>--}}
                                                                             </div>
                                                                         </div>
@@ -653,23 +652,22 @@
                                                                                         <span>Personnel</span>
                                                                                     </h2>
                                                                                     <p class="elementor-icon-box-description">
-                                                                                        GAI Qatar is managed by Zak
-                                                                                        Zarook who visits at least
-                                                                                        monthly the Doha office. On a
-                                                                                        day to day basis the Doha office
-                                                                                        is staffed by a full-time team
-                                                                                        including a QS, office manager
-                                                                                        and operations manager.
-                                                                                        Currently GAI Qatar employ 130
-                                                                                        operatives and are proud to
-                                                                                        state that we ensure a high
+                                                                                        GAI Qatar offices are situated
+                                                                                        in Doha with a team comprising
+                                                                                        of a QS, Operations Manager and
+                                                                                        Office Manager. Currently we
+                                                                                        employ 130 operatives all of
+                                                                                        whom, in line with our
+                                                                                        commitment to ethical working
+                                                                                        practices, are ensured a high
                                                                                         standard of accommodation and
-                                                                                        welfare for the operatives. </p>
+                                                                                        welfare. </p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
-                                                                    <div data-id="d418ca9" style="margin-top: 7%"
+                                                                    <div data-id="d418ca9"
+                                                                         style="margin-top: 23%"
                                                                          class="elementor-element elementor-element-d418ca9 elementor-widget elementor-widget-image-carousel"
                                                                          data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;arrows&quot;,&quot;pause_on_hover&quot;:&quot;no&quot;,&quot;autoplay_speed&quot;:3000,&quot;effect&quot;:&quot;fade&quot;,&quot;speed&quot;:1000,&quot;autoplay&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;direction&quot;:&quot;ltr&quot;}"
                                                                          data-element_type="image-carousel.default">
@@ -680,7 +678,7 @@
                                                                                     <div class="slick-slide">
                                                                                         <figure class="slick-slide-inner">
                                                                                             <img class="slick-slide-image"
-                                                                                                 src="{{ url('/images/DSC_0874.JPG') }}"
+                                                                                                 src="{{ url('/images/DSC_0874.JPG') }}" style="height: 202px"
                                                                                                  alt="Versatile Installation"/>
                                                                                         </figure>
                                                                                     </div>
@@ -746,7 +744,8 @@
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image-carousel-wrapper elementor-slick-slider"
                                                                                  dir="ltr">
-                                                                                <div class="elementor-image-carousel slick-arrows-inside" style="margin-top: 23%">
+                                                                                <div class="elementor-image-carousel slick-arrows-inside"
+                                                                                     style="margin-top: 23%">
                                                                                     <div class="slick-slide">
                                                                                         <figure class="slick-slide-inner">
                                                                                             <img class="slick-slide-image"
@@ -810,7 +809,8 @@
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image-carousel-wrapper elementor-slick-slider"
                                                                                  dir="ltr">
-                                                                                <div class="elementor-image-carousel slick-arrows-inside" style="margin-top: 15%">
+                                                                                <div class="elementor-image-carousel slick-arrows-inside"
+                                                                                     style="margin-top: 15%">
                                                                                     <div class="slick-slide">
                                                                                         <figure class="slick-slide-inner">
                                                                                             <img class="slick-slide-image"
@@ -821,17 +821,17 @@
                                                                                     <div class="slick-slide">
                                                                                         <figure class="slick-slide-inner">
                                                                                             <img class="slick-slide-image"
-                                                                                                 src="{{ url('/images/fifa.jpg') }}"
+                                                                                                 src="{{ url('/images/qatar2fifa.jpg') }}"
                                                                                                  alt="skilled team"/>
                                                                                         </figure>
                                                                                     </div>
-                                                                                    <div class="slick-slide">
-                                                                                        <figure class="slick-slide-inner">
-                                                                                            <img class="slick-slide-image"
-                                                                                                 src="{{ url('/images/fifa.jpg') }}"
-                                                                                                 alt="skilled team"/>
-                                                                                        </figure>
-                                                                                    </div>
+                                                                                    {{--<div class="slick-slide">--}}
+                                                                                        {{--<figure class="slick-slide-inner">--}}
+                                                                                            {{--<img class="slick-slide-image"--}}
+                                                                                                 {{--src="{{ url('/images/fifa.jpg') }}"--}}
+                                                                                                 {{--alt="skilled team"/>--}}
+                                                                                        {{--</figure>--}}
+                                                                                    {{--</div>--}}
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -865,7 +865,9 @@
     {{--@include('shared._footer')--}}
     <footer id="colophon" class="site-footer" role="contentinfo">
         <div class="site-info container">
-            © 2018 | G A Installation & Maintenance Ltd | All Rights Reserved | <a href="https://www.decode.lk/" target="_blank" rel="noopener">DeCODE</a>
+            © 2018 | G A Installation & Maintenance Ltd | All Rights Reserved | <a href="https://www.decode.lk/"
+                                                                                   target="_blank"
+                                                                                   rel="noopener">DeCODE</a>
             | <img class="footer-logo" src="{{ url('/images/iso-3.png') }}"/>
         </div><!-- .site-info -->
     </footer><!-- #colophon -->

@@ -96,7 +96,8 @@
                                     </div>
                                 </div>
                             </div>
-                            <div data-id="0959ae2" style="margin-top: 5%"
+                            <div data-id="0959ae2"
+                                 style="margin-top: 5%"
                                  class="elementor-element elementor-element-0959ae2 elementor-column elementor-col-33 elementor-top-column"
                                  data-element_type="column">
                                 <div class="elementor-column-wrap elementor-element-populated">
@@ -116,7 +117,7 @@
                                                     <p>G A Installation &amp; Maintenance
                                                         Limited <br/>39 Crompton Road,
                                                         Stevenage,<br/>Hertfordshire SG1
-                                                        2EE<br/>United Kingdom<br>Phone +44 1438 727 226<br>Email: admin.ga@btconnect.com</p>
+                                                        2EE<br/>United Kingdom<br>Phone +44 1438 727 226<br>Email: gagroup@btconnect.com</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -153,7 +154,7 @@
                                                 <div class="elementor-text-editor elementor-clearfix">
                                                     <p>G A Installation &amp; Maintenance Qatar
                                                         W.L.L<br/>Al Khaleej, Musheireb,<br/>Doha
-                                                        &#8211; Qatar <br/>P.O.Box 12954</p>
+                                                        &#8211; Qatar <br/>P.O.Box 12954<br>Phone +97 4 443 207978<br>Email: gagroup@btconnect.com</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -163,7 +164,8 @@
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-custom-embed">
 
-                                                    <iframe style="margin-top: 14%"
+                                                    <iframe
+                                                            {{--style="margin-top: 14%"--}}
                                                             frameborder="0" scrolling="no"
                                                             marginheight="0" marginwidth="0"
                                                             {{--src="https://maps.google.com/maps?q=G%20A%20Installation%20%26%20Maintenance%20Qatar&amp;t=m&amp;z=50&amp;output=embed&amp;iwloc=near"--}}
