@@ -671,7 +671,7 @@
                                                                         <div class="elementor-widget-container">
                                                                             {{--<h2 class="elementor-heading-title elementor-size-default">I have worked with GA Installations on two consecutive projects noting the following attributes:</h2>		</div>--}}
                                                                         </div>
-                                                                        <div data-id="c644c75"
+                                                                        <div data-id="c644c75" style="margin-top: 5%"
                                                                              class="elementor-element elementor-element-c644c75 elementor-widget elementor-widget-text-editor"
                                                                              data-element_type="text-editor.default">
                                                                             <div class="elementor-widget-container">
