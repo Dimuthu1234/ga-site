@@ -654,14 +654,9 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </section>
 
 
-                                            <section data-id="3702806"
-                                                     class="elementor-element elementor-element-3702806 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
-                                                     data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"
-                                                     data-element_type="section">
-                                                <div class="elementor-background-overlay"></div>
+
                                                 <div class="elementor-container elementor-column-gap-default">
                                                     <div class="elementor-row">
                                                         <div data-id="64c88d9"
@@ -723,7 +718,17 @@
                                                         </div>
                                                     </div>
                                                 </div>
+
                                             </section>
+
+
+                                            {{--<section data-id="3702806"--}}
+                                                     {{--class="elementor-element elementor-element-3702806 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"--}}
+                                                     {{--data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"--}}
+                                                     {{--data-element_type="section">--}}
+                                                {{--<div class="elementor-background-overlay"></div>--}}
+                                              {{----}}
+                                            {{--</section>--}}
 
                                         </div>
                                     </div>
