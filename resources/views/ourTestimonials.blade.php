@@ -655,6 +655,7 @@
                                                     </div>
                                                 </div>
 
+                                                <hr>
 
 
                                                 <div class="elementor-container elementor-column-gap-default" style="margin-bottom: 10%">
@@ -677,13 +678,13 @@
                                                                                 <div class="elementor-text-editor elementor-clearfix">
                                                                                     {{--<ul><li><em>Industry leading expertise in all contemporary façade systems/solutions</em></li><li><em>Conscientious managers, with excellent knowledge of best practices in HSEQ</em></li><li><em>Positive attitude with a can do approach</em></li><li><em>A hard work ethic</em></li><li><em>One of the best engineers in the industry</em></li>--}}
                                                                                     {{--<li><em>Reliable and trustworthy</em></li>--}}
-                                                                                    <h4 style="color: #cedabe;">commendations to your operative
+                                                                                    <p style="color: #cedabe;">commendations to your operative
                                                                                         KW for his actions at our Lime
                                                                                         St site, it is a sign of a
                                                                                         positive health & safety
                                                                                         culture, when a person raises a
                                                                                         H&S issue without fear of
-                                                                                        retribution. </h4>
+                                                                                        retribution. </p>
                                                                                     {{--</ul><p><em>GA come highly recommended and we would like to work with them again.</em></p></div>--}}
                                                                                 </div>
                                                                             </div>
