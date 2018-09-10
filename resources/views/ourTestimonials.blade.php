@@ -677,13 +677,13 @@
                                                                                 <div class="elementor-text-editor elementor-clearfix">
                                                                                     {{--<ul><li><em>Industry leading expertise in all contemporary façade systems/solutions</em></li><li><em>Conscientious managers, with excellent knowledge of best practices in HSEQ</em></li><li><em>Positive attitude with a can do approach</em></li><li><em>A hard work ethic</em></li><li><em>One of the best engineers in the industry</em></li>--}}
                                                                                     {{--<li><em>Reliable and trustworthy</em></li>--}}
-                                                                                    <h3>commendations to your operative
+                                                                                    <h4 style="color: #cedabe;">commendations to your operative
                                                                                         KW for his actions at our Lime
                                                                                         St site, it is a sign of a
                                                                                         positive health & safety
                                                                                         culture, when a person raises a
                                                                                         H&S issue without fear of
-                                                                                        retribution. </h3>
+                                                                                        retribution. </h4>
                                                                                     {{--</ul><p><em>GA come highly recommended and we would like to work with them again.</em></p></div>--}}
                                                                                 </div>
                                                                             </div>
@@ -694,7 +694,7 @@
                                                                      class="elementor-element elementor-element-444a0fb elementor-column elementor-col-33 elementor-top-column"
                                                                      data-element_type="column">
                                                                     <div class="elementor-column-wrap elementor-element-populated">
-                                                                        <div class="elementor-widget-wrap">
+                                                                        <div class="elementor-widget-wrap" style="width: 500px">
                                                                             <div data-id="9209f6d"
                                                                                  class="elementor-element elementor-element-9209f6d elementor-widget elementor-widget-heading"
                                                                                  data-element_type="heading.default">
