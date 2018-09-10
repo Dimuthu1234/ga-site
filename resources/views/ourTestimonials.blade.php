@@ -563,7 +563,7 @@
 
                         <article id="post-193" class="post-193 page type-page status-publish hentry">
                             <header class="entry-header">
-                                <h1 class="title-post entry-title">Our Testimmonials</h1></header><!-- .entry-header -->
+                                <h1 class="title-post entry-title">Our Testimonials</h1></header><!-- .entry-header -->
 
                             <div class="entry-content">
                                 <div class="elementor elementor-193">
