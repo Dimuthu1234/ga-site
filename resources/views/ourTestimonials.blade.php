@@ -609,16 +609,6 @@
                                                                                             the industry</em></li>
                                                                                     <li><em>Reliable and
                                                                                             trustworthy</em></li>
-                                                                                    <li><em>"commendations to your
-                                                                                            operative KW for his actions
-                                                                                            at our Lime St site, it is a
-                                                                                            sign of a positive health &
-                                                                                            safety culture, when a
-                                                                                            person raises a H&S issue
-                                                                                            without fear of
-                                                                                            retribution." - Kenny
-                                                                                            Polson, HS & E Manager,
-                                                                                            Permasteelisa</em></li>
                                                                                 </ul>
                                                                                 <p><em>GA come highly recommended and we
                                                                                         would like to work with them
