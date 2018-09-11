@@ -648,7 +648,7 @@
 
 
                                                 {{--<div class="elementor-background-overlay"></div>--}}
-                                                <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-container elementor-column-gap-default" style="margin-bottom: 20%">
                                                     <div class="elementor-row">
                                                         <div data-id="64c88d9"
                                                              class="elementor-element elementor-element-64c88d9 elementor-column elementor-col-66 elementor-top-column"
@@ -684,7 +684,7 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div data-id="444a0fb"
+                                                        <div data-id="444a0fb" style="margin-left: 30%"
                                                              class="elementor-element elementor-element-444a0fb elementor-column elementor-col-33 elementor-top-column"
                                                              data-element_type="column">
                                                             <div class="elementor-column-wrap elementor-element-populated">
