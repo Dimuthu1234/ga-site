@@ -652,7 +652,7 @@
                                                     <div class="elementor-row">
 
                                                         <div class="col-md-12">
-                                                            <div class="col-md-8" style="color: #fff">
+                                                            <div class="col-md-8" style="color: #fff;font: italic">
                                                                 commendations to your operative
                                                                             KW for his actions at our Lime
                                                                             St site, it is a sign of a
