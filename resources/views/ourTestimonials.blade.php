@@ -653,14 +653,37 @@
 
                                                         <div class="col-md-12">
                                                             <div class="col-md-8">
-                                                                some text
+                                                                <ul>
+                                                                    <li><em>commendations to your operative
+                                                                            KW for his actions at our Lime
+                                                                            St site, it is a sign of a
+                                                                            positive health & safety
+                                                                            culture, when a person raises a
+                                                                            H&S issue without fear of
+                                                                            retribution.</em></li>
+                                                                </ul>
                                                             </div>
                                                             <div class="col-md-4">
-                                                                some text
+                                                                <div data-id="9209f6d"
+                                                                     class="elementor-element elementor-element-9209f6d elementor-widget elementor-widget-heading"
+                                                                     data-element_type="heading.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <h2 class="elementor-heading-title elementor-size-default">
+                                                                            Kenny Polson</h2></div>
+                                                                </div>
+                                                                <div data-id="73e1782"
+                                                                     class="elementor-element elementor-element-73e1782 elementor-widget elementor-widget-text-editor"
+                                                                     data-element_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-text-editor elementor-clearfix">
+                                                                            <p>HS & E Manager</p>
+                                                                            <p>Permasteelisa</p></div>
+                                                                    </div>
+                                                                </div>
                                                             </div>
                                                         </div>
-
-
+                                                    </div>
+                                                </div>
 
 
                                                         {{--<div data-id="64c88d9"--}}
@@ -722,8 +745,8 @@
                                                             {{--</div>--}}
                                                         {{--</div>--}}
                                                     {{--</div>--}}
-                                                </div>
-                                                </div>
+                                                {{--</div>--}}
+                                                {{--</div>--}}
 
 
 
