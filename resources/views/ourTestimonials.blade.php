@@ -652,16 +652,14 @@
                                                     <div class="elementor-row">
 
                                                         <div class="col-md-12">
-                                                            <div class="col-md-8">
-                                                                <ul>
-                                                                    <li><em>commendations to your operative
+                                                            <div class="col-md-8" style="color: #fff">
+                                                                commendations to your operative
                                                                             KW for his actions at our Lime
                                                                             St site, it is a sign of a
                                                                             positive health & safety
                                                                             culture, when a person raises a
                                                                             H&S issue without fear of
-                                                                            retribution.</em></li>
-                                                                </ul>
+                                                                            retribution.
                                                             </div>
                                                             <div class="col-md-4">
                                                                 <div data-id="9209f6d"
