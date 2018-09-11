@@ -650,65 +650,78 @@
                                                 {{--<div class="elementor-background-overlay"></div>--}}
                                                 <div class="elementor-container elementor-column-gap-default" style="margin-bottom: 5%">
                                                     <div class="elementor-row">
-                                                        <div data-id="64c88d9"
-                                                             class="elementor-element elementor-element-64c88d9 elementor-column elementor-col-66 elementor-top-column"
-                                                             data-element_type="column">
-                                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                                <div class="elementor-widget-wrap">
-                                                                    <div data-id="74c5270"
-                                                                         class="elementor-element elementor-element-74c5270 elementor-widget elementor-widget-heading"
-                                                                         data-element_type="heading.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <h2 class="elementor-heading-title elementor-size-default">
-                                                                               </h2></div>
-                                                                    </div>
-                                                                    <div data-id="c644c75"
-                                                                         class="elementor-element elementor-element-c644c75 elementor-widget elementor-widget-text-editor"
-                                                                         data-element_type="text-editor.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div class="elementor-text-editor elementor-clearfix">
-                                                                                <ul>
-                                                                                    <li><em>commendations to your operative
-                                                                                            KW for his actions at our Lime
-                                                                                            St site, it is a sign of a
-                                                                                            positive health & safety
-                                                                                            culture, when a person raises a
-                                                                                            H&S issue without fear of
-                                                                                            retribution.</em></li>
-                                                                                </ul>
+
+                                                        <div class="col-md-12">
+                                                            <div class="col-md-8">
+                                                                some text
+                                                            </div>
+                                                            <div class="col-md-4">
+                                                                some text
+                                                            </div>
+                                                        </div>
+
+
+
+
+                                                        {{--<div data-id="64c88d9"--}}
+                                                             {{--class="elementor-element elementor-element-64c88d9 elementor-column elementor-col-66 elementor-top-column"--}}
+                                                             {{--data-element_type="column">--}}
+                                                            {{--<div class="elementor-column-wrap elementor-element-populated">--}}
+                                                                {{--<div class="elementor-widget-wrap">--}}
+                                                                    {{--<div data-id="74c5270"--}}
+                                                                         {{--class="elementor-element elementor-element-74c5270 elementor-widget elementor-widget-heading"--}}
+                                                                         {{--data-element_type="heading.default">--}}
+                                                                        {{--<div class="elementor-widget-container">--}}
+                                                                            {{--<h2 class="elementor-heading-title elementor-size-default">--}}
+                                                                               {{--</h2></div>--}}
+                                                                    {{--</div>--}}
+                                                                    {{--<div data-id="c644c75"--}}
+                                                                         {{--class="elementor-element elementor-element-c644c75 elementor-widget elementor-widget-text-editor"--}}
+                                                                         {{--data-element_type="text-editor.default">--}}
+                                                                        {{--<div class="elementor-widget-container">--}}
+                                                                            {{--<div class="elementor-text-editor elementor-clearfix">--}}
+                                                                                {{--<ul>--}}
+                                                                                    {{--<li><em>commendations to your operative--}}
+                                                                                            {{--KW for his actions at our Lime--}}
+                                                                                            {{--St site, it is a sign of a--}}
+                                                                                            {{--positive health & safety--}}
+                                                                                            {{--culture, when a person raises a--}}
+                                                                                            {{--H&S issue without fear of--}}
+                                                                                            {{--retribution.</em></li>--}}
+                                                                                {{--</ul>--}}
                                                                                 {{--<p><em>GA come highly recommended and we--}}
                                                                                         {{--would like to work with them--}}
                                                                                         {{--again.</em></p></div>--}}
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div data-id="444a0fb"
-                                                             class="elementor-element elementor-element-444a0fb elementor-column elementor-col-33 elementor-top-column"
-                                                             data-element_type="column">
-                                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                                <div class="elementor-widget-wrap">
-                                                                    <div data-id="9209f6d"
-                                                                         class="elementor-element elementor-element-9209f6d elementor-widget elementor-widget-heading"
-                                                                         data-element_type="heading.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <h2 class="elementor-heading-title elementor-size-default">
-                                                                                Kenny Polson</h2></div>
-                                                                    </div>
-                                                                    <div data-id="73e1782"
-                                                                         class="elementor-element elementor-element-73e1782 elementor-widget elementor-widget-text-editor"
-                                                                         data-element_type="text-editor.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div class="elementor-text-editor elementor-clearfix">
-                                                                                <p>HS & E Manager</p>
-                                                                                <p>Permasteelisa</p></div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                                        {{--</div>--}}
+                                                                    {{--</div>--}}
+                                                                {{--</div>--}}
+                                                            {{--</div>--}}
+                                                        {{--</div>--}}
+                                                        {{--<div data-id="444a0fb"--}}
+                                                             {{--class="elementor-element elementor-element-444a0fb elementor-column elementor-col-33 elementor-top-column"--}}
+                                                             {{--data-element_type="column">--}}
+                                                            {{--<div class="elementor-column-wrap elementor-element-populated">--}}
+                                                                {{--<div class="elementor-widget-wrap">--}}
+                                                                    {{--<div data-id="9209f6d"--}}
+                                                                         {{--class="elementor-element elementor-element-9209f6d elementor-widget elementor-widget-heading"--}}
+                                                                         {{--data-element_type="heading.default">--}}
+                                                                        {{--<div class="elementor-widget-container">--}}
+                                                                            {{--<h2 class="elementor-heading-title elementor-size-default">--}}
+                                                                                {{--Kenny Polson</h2></div>--}}
+                                                                    {{--</div>--}}
+                                                                    {{--<div data-id="73e1782"--}}
+                                                                         {{--class="elementor-element elementor-element-73e1782 elementor-widget elementor-widget-text-editor"--}}
+                                                                         {{--data-element_type="text-editor.default">--}}
+                                                                        {{--<div class="elementor-widget-container">--}}
+                                                                            {{--<div class="elementor-text-editor elementor-clearfix">--}}
+                                                                                {{--<p>HS & E Manager</p>--}}
+                                                                                {{--<p>Permasteelisa</p></div>--}}
+                                                                        {{--</div>--}}
+                                                                    {{--</div>--}}
+                                                                {{--</div>--}}
+                                                            {{--</div>--}}
+                                                        {{--</div>--}}
+                                                    {{--</div>--}}
                                                 </div>
                                                 </div>
 
