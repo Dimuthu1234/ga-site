@@ -660,9 +660,7 @@
                                                                          data-element_type="heading.default">
                                                                         <div class="elementor-widget-container">
                                                                             <h2 class="elementor-heading-title elementor-size-default">
-                                                                                I have worked with GA Installations on
-                                                                                two consecutive projects noting the
-                                                                                following attributes:</h2></div>
+                                                                               </h2></div>
                                                                     </div>
                                                                     <div data-id="c644c75"
                                                                          class="elementor-element elementor-element-c644c75 elementor-widget elementor-widget-text-editor"
@@ -670,23 +668,17 @@
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-text-editor elementor-clearfix">
                                                                                 <ul>
-                                                                                    <li><em>Industry leading expertise
-                                                                                            in all contemporary façade
-                                                                                            systems/solutions</em></li>
-                                                                                    <li><em>Conscientious managers, with
-                                                                                            excellent knowledge of best
-                                                                                            practices in HSEQ</em></li>
-                                                                                    <li><em>Positive attitude with a can
-                                                                                            do approach</em></li>
-                                                                                    <li><em>A hard work ethic</em></li>
-                                                                                    <li><em>One of the best engineers in
-                                                                                            the industry</em></li>
-                                                                                    <li><em>Reliable and
-                                                                                            trustworthy</em></li>
+                                                                                    <li><em>commendations to your operative
+                                                                                            KW for his actions at our Lime
+                                                                                            St site, it is a sign of a
+                                                                                            positive health & safety
+                                                                                            culture, when a person raises a
+                                                                                            H&S issue without fear of
+                                                                                            retribution.</em></li>
                                                                                 </ul>
-                                                                                <p><em>GA come highly recommended and we
-                                                                                        would like to work with them
-                                                                                        again.</em></p></div>
+                                                                                {{--<p><em>GA come highly recommended and we--}}
+                                                                                        {{--would like to work with them--}}
+                                                                                        {{--again.</em></p></div>--}}
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -702,15 +694,15 @@
                                                                          data-element_type="heading.default">
                                                                         <div class="elementor-widget-container">
                                                                             <h2 class="elementor-heading-title elementor-size-default">
-                                                                                Alain Gordon-Seymour</h2></div>
+                                                                                Kenny Polson</h2></div>
                                                                     </div>
                                                                     <div data-id="73e1782"
                                                                          class="elementor-element elementor-element-73e1782 elementor-widget elementor-widget-text-editor"
                                                                          data-element_type="text-editor.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-text-editor elementor-clearfix">
-                                                                                <p>Construction Manager</p>
-                                                                                <p>Balfour Beatty</p></div>
+                                                                                <p>HS & E Manager</p>
+                                                                                <p>Permasteelisa</p></div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -734,70 +726,70 @@
 
 
 
-                                                <hr>
+                                                {{--<hr>--}}
 
 
-                                                <div class="elementor-container elementor-column-gap-default" style="margin-bottom: 10%">
-                                                    <div class="elementor-row">
-                                                        <div data-id="64c88d9"
-                                                             class="elementor-element elementor-element-64c88d9 elementor-column elementor-col-66 elementor-top-column"
-                                                             data-element_type="column">
-                                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                                <div class="elementor-widget-wrap">
-                                                                    <div data-id="74c5270"
-                                                                         class="elementor-element elementor-element-74c5270 elementor-widget elementor-widget-heading"
-                                                                         data-element_type="heading.default">
-                                                                        <div class="elementor-widget-container">
+                                                {{--<div class="elementor-container elementor-column-gap-default" style="margin-bottom: 10%">--}}
+                                                    {{--<div class="elementor-row">--}}
+                                                        {{--<div data-id="64c88d9"--}}
+                                                             {{--class="elementor-element elementor-element-64c88d9 elementor-column elementor-col-66 elementor-top-column"--}}
+                                                             {{--data-element_type="column">--}}
+                                                            {{--<div class="elementor-column-wrap elementor-element-populated">--}}
+                                                                {{--<div class="elementor-widget-wrap">--}}
+                                                                    {{--<div data-id="74c5270"--}}
+                                                                         {{--class="elementor-element elementor-element-74c5270 elementor-widget elementor-widget-heading"--}}
+                                                                         {{--data-element_type="heading.default">--}}
+                                                                        {{--<div class="elementor-widget-container">--}}
                                                                             {{--<h2 class="elementor-heading-title elementor-size-default">I have worked with GA Installations on two consecutive projects noting the following attributes:</h2>		</div>--}}
-                                                                        </div>
-                                                                        <div data-id="c644c75" style="margin-top: 5%"
-                                                                             class="elementor-element elementor-element-c644c75 elementor-widget elementor-widget-text-editor"
-                                                                             data-element_type="text-editor.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div class="elementor-text-editor elementor-clearfix">
+                                                                        {{--</div>--}}
+                                                                        {{--<div data-id="c644c75" style="margin-top: 5%"--}}
+                                                                             {{--class="elementor-element elementor-element-c644c75 elementor-widget elementor-widget-text-editor"--}}
+                                                                             {{--data-element_type="text-editor.default">--}}
+                                                                            {{--<div class="elementor-widget-container">--}}
+                                                                                {{--<div class="elementor-text-editor elementor-clearfix">--}}
                                                                                     {{--<ul><li><em>Industry leading expertise in all contemporary façade systems/solutions</em></li><li><em>Conscientious managers, with excellent knowledge of best practices in HSEQ</em></li><li><em>Positive attitude with a can do approach</em></li><li><em>A hard work ethic</em></li><li><em>One of the best engineers in the industry</em></li>--}}
                                                                                     {{--<li><em>Reliable and trustworthy</em></li>--}}
-                                                                                    <p style="color: #cedabe;">commendations to your operative
-                                                                                        KW for his actions at our Lime
-                                                                                        St site, it is a sign of a
-                                                                                        positive health & safety
-                                                                                        culture, when a person raises a
-                                                                                        H&S issue without fear of
-                                                                                        retribution. </p>
+                                                                                    {{--<p style="color: #cedabe;">commendations to your operative--}}
+                                                                                        {{--KW for his actions at our Lime--}}
+                                                                                        {{--St site, it is a sign of a--}}
+                                                                                        {{--positive health & safety--}}
+                                                                                        {{--culture, when a person raises a--}}
+                                                                                        {{--H&S issue without fear of--}}
+                                                                                        {{--retribution. </p>--}}
                                                                                     {{--</ul><p><em>GA come highly recommended and we would like to work with them again.</em></p></div>--}}
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div data-id="444a0fb" style="padding: 3%; margin-left: 10%"
-                                                                     class="elementor-element elementor-element-444a0fb elementor-column elementor-col-33 elementor-top-column"
-                                                                     data-element_type="column">
-                                                                    <div class="elementor-column-wrap elementor-element-populated">
-                                                                        <div class="elementor-widget-wrap" style="width: 500px">
-                                                                            <div data-id="9209f6d"
-                                                                                 class="elementor-element elementor-element-9209f6d elementor-widget elementor-widget-heading"
-                                                                                 data-element_type="heading.default">
-                                                                                <div class="elementor-widget-container">
-                                                                                    <h2 class="elementor-heading-title elementor-size-default">
-                                                                                        Kenny Polson</h2></div>
-                                                                            </div>
-                                                                            <div data-id="73e1782"
-                                                                                 class="elementor-element elementor-element-73e1782 elementor-widget elementor-widget-text-editor"
-                                                                                 data-element_type="text-editor.default">
-                                                                                <div class="elementor-widget-container">
-                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                        <p>HS & E Manager</p>
-                                                                                        <p>Permasteelisa</p></div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                                                                {{--</div>--}}
+                                                                            {{--</div>--}}
+                                                                        {{--</div>--}}
+                                                                    {{--</div>--}}
+                                                                {{--</div>--}}
+                                                                {{--<div data-id="444a0fb" style="padding: 3%; margin-left: 10%"--}}
+                                                                     {{--class="elementor-element elementor-element-444a0fb elementor-column elementor-col-33 elementor-top-column"--}}
+                                                                     {{--data-element_type="column">--}}
+                                                                    {{--<div class="elementor-column-wrap elementor-element-populated">--}}
+                                                                        {{--<div class="elementor-widget-wrap" style="width: 500px">--}}
+                                                                            {{--<div data-id="9209f6d"--}}
+                                                                                 {{--class="elementor-element elementor-element-9209f6d elementor-widget elementor-widget-heading"--}}
+                                                                                 {{--data-element_type="heading.default">--}}
+                                                                                {{--<div class="elementor-widget-container">--}}
+                                                                                    {{--<h2 class="elementor-heading-title elementor-size-default">--}}
+                                                                                        {{--Kenny Polson</h2></div>--}}
+                                                                            {{--</div>--}}
+                                                                            {{--<div data-id="73e1782"--}}
+                                                                                 {{--class="elementor-element elementor-element-73e1782 elementor-widget elementor-widget-text-editor"--}}
+                                                                                 {{--data-element_type="text-editor.default">--}}
+                                                                                {{--<div class="elementor-widget-container">--}}
+                                                                                    {{--<div class="elementor-text-editor elementor-clearfix">--}}
+                                                                                        {{--<p>HS & E Manager</p>--}}
+                                                                                        {{--<p>Permasteelisa</p></div>--}}
+                                                                                {{--</div>--}}
+                                                                            {{--</div>--}}
+                                                                        {{--</div>--}}
+                                                                    {{--</div>--}}
+                                                                {{--</div>--}}
+                                                            {{--</div>--}}
+                                                        {{--</div>--}}
+                                                    {{--</div>--}}
+                                                {{--</div>--}}
 
                                             </section>
 
