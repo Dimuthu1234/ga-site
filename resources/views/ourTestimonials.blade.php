@@ -646,36 +646,39 @@
                                                     </div>
                                                 </div>
 
-                                                <div class="row" style="width: 100%">
-                                                    <div data-id="64c88d9"
-                                                         class="elementor-element elementor-element-64c88d9 elementor-column elementor-col-66 elementor-top-column"
-                                                         data-element_type="column">
-                                                        <div class="elementor-column-wrap elementor-element-populated">
-                                                            <div class="elementor-widget-wrap">
-                                                                <div data-id="74c5270"
-                                                                     class="elementor-element elementor-element-74c5270 elementor-widget elementor-widget-heading"
-                                                                     data-element_type="heading.default">
-                                                                    <div class="elementor-widget-container">
-                                                                        <h2 class="elementor-heading-title elementor-size-default">
-                                                                        </h2></div>
-                                                                </div>
-                                                                <div data-id="c644c75"
-                                                                     class="elementor-element elementor-element-c644c75 elementor-widget elementor-widget-text-editor"
-                                                                     data-element_type="text-editor.default">
-                                                                    <div class="elementor-widget-container">
-                                                                        <div class="elementor-text-editor elementor-clearfix">
-                                                                            <ul>
-                                                                                <li><em>commendations to your operative
-                                                                                        KW for his actions at our Lime
-                                                                                        St site, it is a sign of a
-                                                                                        positive health & safety
-                                                                                        culture, when a person raises a
-                                                                                        H&S issue without fear of
-                                                                                        retribution.</em></li>
-                                                                            </ul>
-                                                                            {{--<p><em>GA come highly recommended and we--}}
-                                                                            {{--would like to work with them--}}
-                                                                            {{--again.</em></p></div>--}}
+
+                                                {{--<div class="elementor-background-overlay"></div>--}}
+                                                <div class="elementor-container elementor-column-gap-default" style="margin-bottom: 5%">
+                                                    <div class="elementor-row">
+                                                        <div data-id="64c88d9"
+                                                             class="elementor-element elementor-element-64c88d9 elementor-column elementor-col-66 elementor-top-column"
+                                                             data-element_type="column">
+                                                            <div class="elementor-column-wrap elementor-element-populated">
+                                                                <div class="elementor-widget-wrap">
+                                                                    <div data-id="74c5270"
+                                                                         class="elementor-element elementor-element-74c5270 elementor-widget elementor-widget-heading"
+                                                                         data-element_type="heading.default">
+                                                                        <div class="elementor-widget-container">
+                                                                            <h2 class="elementor-heading-title elementor-size-default">
+                                                                               </h2></div>
+                                                                    </div>
+                                                                    <div data-id="c644c75"
+                                                                         class="elementor-element elementor-element-c644c75 elementor-widget elementor-widget-text-editor"
+                                                                         data-element_type="text-editor.default">
+                                                                        <div class="elementor-widget-container">
+                                                                            <div class="elementor-text-editor elementor-clearfix">
+                                                                                <ul>
+                                                                                    <li><em>commendations to your operative
+                                                                                            KW for his actions at our Lime
+                                                                                            St site, it is a sign of a
+                                                                                            positive health & safety
+                                                                                            culture, when a person raises a
+                                                                                            H&S issue without fear of
+                                                                                            retribution.</em></li>
+                                                                                </ul>
+                                                                                {{--<p><em>GA come highly recommended and we--}}
+                                                                                        {{--would like to work with them--}}
+                                                                                        {{--again.</em></p></div>--}}
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -707,14 +710,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-
-
-                                                {{--<div class="elementor-background-overlay"></div>--}}
-                                                {{--<div class="elementor-container elementor-column-gap-default" style="margin-bottom: 5%">--}}
-                                                    {{--<div class="elementor-row">--}}
-                                                        {{----}}
-                                                {{--</div>--}}
-
+                                                </div>
 
 
 
