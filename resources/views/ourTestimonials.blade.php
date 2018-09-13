@@ -657,13 +657,13 @@
                                                                 {{--<div class="elementor-text-editor elementor-clearfix">--}}
                                                                     <ul>
                                                                         <li style="font-size: 15px;">
-                                                                            <em>"commendations to your operative
+                                                                            <em>" commendations to your operative
                                                                                 KW for his actions at our Lime
                                                                                 St site, it is a sign of a
                                                                                 positive health & safety
                                                                                 culture, when a person raises a
                                                                                 H&S issue without fear of
-                                                                                retribution."
+                                                                                retribution. "
                                                                             </em>
                                                                         </li>
                                                                     </ul>
