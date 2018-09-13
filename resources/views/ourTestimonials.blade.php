@@ -656,16 +656,16 @@
 
                                                                 <div class="elementor-text-editor elementor-clearfix">
                                                                     <ul>
-                                                                        <li>
-                                                                            <em>"commendations to your operative
+
+                                                                                "commendations to your operative
                                                                                 KW for his actions at our Lime
                                                                                 St site, it is a sign of a
                                                                                 positive health & safety
                                                                                 culture, when a person raises a
                                                                                 H&S issue without fear of
                                                                                 retribution."
-                                                                            </em>
-                                                                        </li>
+
+
                                                                     </ul>
                                                                     </div>
                                                             </div>
