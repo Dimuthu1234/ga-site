@@ -652,14 +652,22 @@
                                                     <div class="elementor-row">
 
                                                         <div class="col-md-12">
-                                                            <div class="col-md-8" style="color: #fff;font: italic">
-                                                                commendations to your operative
-                                                                            KW for his actions at our Lime
-                                                                            St site, it is a sign of a
-                                                                            positive health & safety
-                                                                            culture, when a person raises a
-                                                                            H&S issue without fear of
-                                                                            retribution.
+                                                            <div class="col-md-8">
+
+                                                                <div class="elementor-text-editor elementor-clearfix">
+                                                                    <ul>
+                                                                        <li>
+                                                                            <em>"commendations to your operative
+                                                                                KW for his actions at our Lime
+                                                                                St site, it is a sign of a
+                                                                                positive health & safety
+                                                                                culture, when a person raises a
+                                                                                H&S issue without fear of
+                                                                                retribution."
+                                                                            </em>
+                                                                        </li>
+                                                                    </ul>
+                                                                    </div>
                                                             </div>
                                                             <div class="col-md-4">
                                                                 <div data-id="9209f6d"
