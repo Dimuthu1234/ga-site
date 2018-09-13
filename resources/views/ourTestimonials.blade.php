@@ -652,11 +652,11 @@
                                                     <div class="elementor-row">
 
                                                         {{--<div class="col-md-12">--}}
-                                                            <div class="col-md-8 elementor-text-editor elementor-clearfix" style="color: #fff;">
+                                                            <div class="col-md-8 elementor-text-editor elementor-clearfix" style="color: rgba(255, 255, 255, 0.85);">
 
                                                                 {{--<div class="elementor-text-editor elementor-clearfix">--}}
                                                                     <ul>
-                                                                        <li>
+                                                                        <li style="font-size: 15px;">
                                                                             <em>"commendations to your operative
                                                                                 KW for his actions at our Lime
                                                                                 St site, it is a sign of a
