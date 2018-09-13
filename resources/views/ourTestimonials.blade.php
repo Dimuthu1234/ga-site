@@ -651,7 +651,7 @@
                                                 <div class="elementor-container elementor-column-gap-default" style="margin-bottom: 10%;margin-top: 8%">
                                                     <div class="elementor-row">
 
-                                                        <div class="col-md-12">
+                                                        {{--<div class="col-md-12">--}}
                                                             <div class="col-md-8 elementor-text-editor elementor-clearfix" style="color: #fff;">
 
                                                                 {{--<div class="elementor-text-editor elementor-clearfix">--}}
@@ -689,7 +689,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                </div>
+                                                {{--</div>--}}
 
 
                                                         {{--<div data-id="64c88d9"--}}
