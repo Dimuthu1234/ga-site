@@ -652,7 +652,7 @@
                                                     <div class="elementor-row">
 
                                                         <div class="col-md-12">
-                                                            <div class="col-md-8">
+                                                            <div class="col-md-8" style="color: #fff;">
 
                                                                 <div class="elementor-text-editor elementor-clearfix">
                                                                     <ul>
