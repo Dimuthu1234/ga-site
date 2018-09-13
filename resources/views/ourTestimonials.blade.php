@@ -657,7 +657,7 @@
                                                                 {{--<div class="elementor-text-editor elementor-clearfix">--}}
                                                                     <ul>
                                                                         <li style="font-size: 15px;">
-                                                                            <em>" commendations to your operative
+                                                                            <em>" Commendations to your operative
                                                                                 KW for his actions at our Lime
                                                                                 St site, it is a sign of a
                                                                                 positive health & safety
