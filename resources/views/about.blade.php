@@ -603,7 +603,7 @@
                                                                                     1986 and are now recognized as one
                                                                                     of the leading installers of curtain
                                                                                     wall both in the UK and overseas.
-                                                                                    With over 30 years’ experience in
+                                                                                    With over 30 years experience in
                                                                                     the specialist field of curtain wall
                                                                                     installation, including several
                                                                                     iconic projects, our company

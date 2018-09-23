@@ -593,7 +593,7 @@
                                                                                         {{--<li><a tabindex="-1" href="#">HTML</a></li>--}}
                                                                                         {{--<li><a tabindex="-1" href="#">CSS</a></li>--}}
 
-                                                                                        <li><a href="#" style="font-size: 14px; font-weight: 900">Azerbaijn</a></li>
+                                                                                        <li><a href="#" style="font-size: 14px; font-weight: 900">AZERBAIJAN</a></li>
                                                                                         <li><a href="#">JW Mariott</a></li>
                                                                                     </ul>
                                                                                 </div>
