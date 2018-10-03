@@ -508,7 +508,7 @@
             <div class="slide-inner text-slider-stopped" style="margin-top: 5%">
                 <div class="contain text-slider">
                     <h2 class="maintitle">G A Installation &amp; Maintenance Ltd</h2>
-                    <p class="subtitle" style="margin-top: 26%">Specialist Installers of Architectural Glazing and Metalwork facades</p>
+                    <p class="subtitle" style="margin-top: 26%">Specialist Installers of Architectural Glazing and Metalwork façades</p>
                 </div>
                 <a href="{{ url('/contact-us') }}" style="border: 0; background: rgba(255,255,255,0)" class="roll-button button-slider"></a></div>
         </div>

@@ -29,11 +29,10 @@
                                         &#038; Safety</a></li>
                                 <li id="menu-item-195"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195">
-                                    <a href="{{ url('/our-testimonials') }}">Our
-                                        Testimonials</a></li>
+                                    <a href="{{ url('/our-testimonials') }}">Testimonials</a></li>
                                 <li id="menu-item-464"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-464"><a
-                                            href="{{ url('/ga-qatar') }}">GA Qatar</a></li>
+                                            href="{{ url('/ga-qatar') }}">GAI Qatar</a></li>
                                 <li id="menu-item-176"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-176"><a
                                             href="http://recruit.dimuthuwebs.com/">Careers/Opportunities</a>

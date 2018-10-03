@@ -573,13 +573,23 @@
                                                                                         {{--<li><a tabindex="-1" href="#">CSS</a></li>--}}
 
                                                                                         <li><a href="#" style="font-size: 14px; font-weight: 900">Qatar</a></li>
-                                                                                        <li><a href="#">QPD Tower 6</a></li>
-                                                                                        <li><a href="#">TJ Pearl Mansions</a></li>
-                                                                                        <li><a href="#">Energy City</a></li>
-                                                                                        <li><a href="#">Lusail IMX 52 Hotel</a></li>
-                                                                                        <li><a href="#">Doha Convention Centre</a></li>
-                                                                                        <li><a href="#">Barwa Commercial Avenue</a></li>
-                                                                                        <li><a href="#">NDIA</a></li>
+                                                                                        <li><a href="#">Al-Wakrah Stadium, Al-Wakrah</a></li>
+                                                                                        <li><a href="#">Al-Thumama Stadium, Al-Thumama</a></li>
+                                                                                        <li><a href="#">Doha Convention Centre, Doha</a></li>
+                                                                                        <li><a href="#">Barwa Commercial Avenue, Doha</a></li>
+                                                                                        <li><a href="#">NDIA, Doha</a></li>
+                                                                                        <li><a href="#">TJ Pearl Mansions, Doha</a></li>
+                                                                                        <li><a href="#">Harvey Nichols, Doha</a></li>
+                                                                                        <li><a href="#">Lusail Mix, Doha</a></li>
+                                                                                        <li><a href="#">Qatar Petroleum District, Doha</a></li>
+                                                                                        <li><a href="#">PMS stations, Doha</a></li>
+
+                                                                                        {{--<li><a href="#">TJ Pearl Mansions</a></li>--}}
+                                                                                        {{--<li><a href="#">Energy City</a></li>--}}
+                                                                                        {{--<li><a href="#">Lusail IMX 52 Hotel</a></li>--}}
+                                                                                        {{--<li><a href="#">Doha Convention Centre</a></li>--}}
+                                                                                        {{--<li><a href="#">Barwa Commercial Avenue</a></li>--}}
+                                                                                        {{--<li><a href="#">NDIA</a></li>--}}
                                                                                     </ul>
                                                                                 </div>
 
@@ -593,7 +603,7 @@
                                                                                         {{--<li><a tabindex="-1" href="#">HTML</a></li>--}}
                                                                                         {{--<li><a tabindex="-1" href="#">CSS</a></li>--}}
 
-                                                                                        <li><a href="#" style="font-size: 14px; font-weight: 900">Azerbaijn</a></li>
+                                                                                        <li><a href="#" style="font-size: 14px; font-weight: 900">AZERBAIJAN</a></li>
                                                                                         <li><a href="#">JW Mariott</a></li>
                                                                                     </ul>
                                                                                 </div>
@@ -609,8 +619,10 @@
                                                                                         {{--<li><a tabindex="-1" href="#">CSS</a></li>--}}
 
                                                                                         <li><a href="#" style="font-size: 14px; font-weight: 900">Ireland</a></li>
-                                                                                        <li><a href="#">AIB</a></li>
+                                                                                        <li><a href="#">Point Village, Dublin </a></li>
                                                                                         <li><a href="#">West Gate</a></li>
+                                                                                        <li><a href="#">Grand Canal, Dublin</a></li>
+                                                                                        <li><a href="#">AIB</a></li>
                                                                                         <li><a href="#">Cork Library</a></li>
                                                                                         <li><a href="#">Dundrum Shopping Centre</a></li>
                                                                                         <li><a href="#">Mary's Abbey</a></li>
@@ -631,34 +643,48 @@
                                                                                         {{--<li><a tabindex="-1" href="#">CSS</a></li>--}}
 
                                                                                         <li><a href="#" style="font-size: 14px; font-weight: 900">Germany</a></li>
-                                                                                        <li><a href="#">Caracalla Baths</a></li>
-                                                                                        <li><a href="#">Hohenstaufen Gymnasium</a></li>
-                                                                                        <li><a href="#">Telekon Buildings</a></li>
-                                                                                        <li><a href="#">Bonn Telecom</a></li>
-                                                                                        <li><a href="#">Offices Factory - Gechingen</a></li>
-                                                                                        <li><a href="#">Shopping Centre - Mannheim </a></li>
-                                                                                        <li><a href="#">Euro Buro Haus</a></li>
-                                                                                        <li><a href="#">Bank Potsdam</a></li>
-                                                                                        <li><a href="#">Offices Aachen</a></li>
+                                                                                        <li><a href="#">Checkpoint Charlie, Berlin</a></li>
+                                                                                        <li><a href="#">Caracalla Baths, Baden-Baden</a></li>
+                                                                                        <li><a href="#">Hohenstaufen Gymnasium, Kaiserslautern</a></li>
+                                                                                        <li><a href="#">Telekom Building, Stuttgart</a></li>
+                                                                                        <li><a href="#">Bonn Telekom, Bonn</a></li>
+                                                                                        <li><a href="#">Offices/Factory, Gechingen</a></li>
+                                                                                        <li><a href="#">Bank, Potsdam</a></li>
+                                                                                        <li><a href="#">Offices, Aachen</a></li>
+                                                                                        <li><a href="#">Mannheim Shopping Centre, Mannheim</a></li>
+                                                                                        <li><a href="#">Euro Buro, Freiburg</a></li>
+
+                                                                                        {{--<li><a href="#">Caracalla Baths</a></li>--}}
+                                                                                        {{--<li><a href="#">Hohenstaufen Gymnasium</a></li>--}}
+                                                                                        {{--<li><a href="#">Telekon Buildings</a></li>--}}
+                                                                                        {{--<li><a href="#">Bonn Telecom</a></li>--}}
+                                                                                        {{--<li><a href="#">Offices Factory - Gechingen</a></li>--}}
+                                                                                        {{--<li><a href="#">Shopping Centre - Mannheim </a></li>--}}
+                                                                                        {{--<li><a href="#">Euro Buro Haus</a></li>--}}
+                                                                                        {{--<li><a href="#">Bank Potsdam</a></li>--}}
+                                                                                        {{--<li><a href="#">Offices Aachen</a></li>--}}
                                                                                     </ul>
                                                                                 </div>
 
                                                                                 <div class="dropdown">
-                                                                                    {{--<button class="btn btn-default dropdown-toggle" style="position: absolute" type="button" data-toggle="dropdown">Tutorials--}}
-                                                                                    {{--<span class="caret"></span></button>--}}
                                                                                     <img href="#" class="btn btn-default dropdown-toggle marker-logo6" style="position: absolute; width: 50px; height: 60px" data-toggle="dropdown"
                                                                                          src="{{ url('/images/logo-maker-1.png') }}"/>
 
                                                                                     <ul class="dropdown-menu maker-new" style="width: 190px; height: auto;">
-                                                                                        {{--<li><a tabindex="-1" href="#">HTML</a></li>--}}
-                                                                                        {{--<li><a tabindex="-1" href="#">CSS</a></li>--}}
-
                                                                                         <li><a href="#" style="font-size: 14px; font-weight: 900">China</a></li>
                                                                                         <li><a href="#">Lufthansa Centre</a></li>
                                                                                     </ul>
                                                                                 </div>
 
+                                                                                <div class="dropdown">
+                                                                                    <img href="#" class="btn btn-default dropdown-toggle marker-logo7" style="position: absolute; width: 50px; height: 60px" data-toggle="dropdown"
+                                                                                         src="{{ url('/images/logo-maker-1.png') }}"/>
 
+                                                                                    <ul class="dropdown-menu maker-new" style="width: 190px; height: auto;">
+                                                                                        <li><a href="#" style="font-size: 14px; font-weight: 900">Sweden</a></li>
+                                                                                        <li><a href="#">Karolinska Hospital, Stockholm</a></li>
+                                                                                    </ul>
+                                                                                </div>
 
 
 
@@ -672,52 +698,62 @@
                                                                                         {{--<li><a tabindex="-1" href="#">HTML</a></li>--}}
                                                                                         {{--<li><a tabindex="-1" href="#">CSS</a></li>--}}
 
-                                                                                        <li><a href="#" style="font-size: 14px; font-weight: 900">UK</a>
-                                                                                        </li>
+                                                                                        <li><a href="#" style="font-size: 14px; font-weight: 900">UK</a></li>
                                                                                         <li class="dropdown-submenu" style="margin-top: 10px">
-                                                                                            <a class="test" tabindex="-1" href="#">Ongoing & Recent <span class="caret"></span></a>
+                                                                                            <a class="test" tabindex="-1" href="#">RECENT / CURRENT PROJECTS <span class="caret"></span></a>
                                                                                             <ul class="dropdown-menu maker-new" style="width: 200px; height: 210px; overflow: scroll">
-                                                                                                <li><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">London</a></li>
-                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#section1">240 Blackfriars</a>
-                                                                                                </li>
-                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#section4">One
-                                                                                                        Tower Bridge</a></li>
-                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#section6">Francis
-                                                                                                        Crick Institute</a></li>
-                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#section3">London Bridge Palace</a></li>
-                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#section5">Paddington I P</a></li>
+                                                                                                <li><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">LONDON</a></li>
                                                                                                 <li style="margin-top: 15px"><a tabindex="-1" href="#">Embassy Gardens</a></li>
-                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#">Battersea Power Station</a></li>
                                                                                                 <li style="margin-top: 15px"><a tabindex="-1" href="#">Kensington Row</a></li>
-                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#">Creechurch</a></li>
-                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">Cambridge</a></li>
-                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#">AstraZeneca</a></li>
-                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">Brimingham</a></li>
-                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#section8">Snow Hill Phase 2</a></li>
-                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">Bristol</a></li>
-                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#">Southmead Hospital</a></li>
-                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">Oxford</a></li>
-                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#section2">Blavatink School</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#">Farringdon</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#">Southbank B2 & B4</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#section4">One Tower Bridge</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#">Strand</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#">1, Bishopsgate</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#section6">Francis Crick Institute</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#">Battersea Power Station</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#">North Wharf Road</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#">Cannon St</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#">Scalpel</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#section3">The Place London Bridge</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#section5">Paddington Integrated Project</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#">Rolls House</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#section1">240 Blackfriars</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">CAMBRIDGE</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#">Astra Zeneca</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">MANCHESTER</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#">Manchester University</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#">Manchester Town Hall</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">OXFORD</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#section2">Blavatnik School of Government</a></li>
                                                                                                 <li style="margin-top: 15px"><a tabindex="-1" href="#">Oxford Brooks University</a></li>
-                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">Sheffeild</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">SHEFFIELD</a></li>
                                                                                                 <li style="margin-top: 15px"><a tabindex="-1" href="#section7">The Diamond</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">BRISTOL</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#">Southmead Hospital</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">BIRMINGHAM</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#section8">Snow Hill Phase 2</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">GULIDFORD</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#">University of Surrey</a></li>
+
+
+
+
+                                                                                                {{--<li style="margin-top: 15px"><a tabindex="-1" href="#">Creechurch</a></li>--}}
                                                                                             </ul>
                                                                                         </li>
 
                                                                                         <li class="dropdown-submenu" style="margin-top: 20px">
-                                                                                            <a class="test" tabindex="-2" href="#">2000 - 2009 <span class="caret"></span></a>
+                                                                                            <a class="test" tabindex="-2" href="#">PROJECTS: 2000-2009 <span class="caret"></span></a>
                                                                                             <ul class="dropdown-menu maker-new" style="width: 200px; height: 210px; overflow: scroll">
 
 
-                                                                                                <li><a tabindex="-2" href="#">University of Surry - Guildford</a></li>
-                                                                                                <li><a tabindex="-2" href="#">Rolls House - London</a></li>
-                                                                                                <li><a tabindex="-2" href="#">Icon - Stevenage</a></li>
-                                                                                                <li><a tabindex="-2" href="#">Vantage West - London</a></li>
-                                                                                                <li><a tabindex="-2" href="#">Southfeild Project - Cambridge</a></li>
-                                                                                                <li><a tabindex="-2" href="#">Terminal 5 - Heathrow</a></li>
-                                                                                                <li><a tabindex="-2" href="#">Terminal 3 - Heathrow</a></li>
+                                                                                                <li><a tabindex="-2" href="#">Icon, Stevenage</a></li>
+                                                                                                <li><a tabindex="-2" href="#">Vantage West, London</a></li>
+                                                                                                <li><a tabindex="-2" href="#">Southfield, Cambridge</a></li>
+                                                                                                <li><a tabindex="-2" href="#">Terminal 5, Heathrow</a></li>
+                                                                                                <li><a tabindex="-2" href="#">Terminal 3, Heathrow</a></li>
                                                                                                 <li><a tabindex="-2" href="#">St.Georges Wharf - London</a></li>
-                                                                                                <li><a tabindex="-2" href="#">Icon Building - Stevenage</a></li>
                                                                                                 <li><a tabindex="-2" href="#">Land Street - London</a></li>
                                                                                                 <li><a tabindex="-2" href="#">West End Quay - London</a></li>
                                                                                                 <li><a tabindex="-2" href="#">Compass Point - Staines</a></li>
@@ -727,39 +763,37 @@
                                                                                                 <li><a tabindex="-2" href="#">Chrisp Street - London</a></li>
                                                                                                 <li><a tabindex="-2" href="#">Clerkenwell A,B,C,D - London</a></li>
                                                                                                 <li><a tabindex="-2" href="#">201 Davis Street - London</a></li>
-                                                                                                <li><a tabindex="-2" href="#">EFFRA Blocks  F & G - Vauxhall</a></li>
+                                                                                                {{--<li><a tabindex="-2" href="#">EFFRA Blocks  F & G - Vauxhall</a></li>--}}
 
                                                                                             </ul>
                                                                                         </li>
 
 
                                                                                         <li class="dropdown-submenu" style="margin-top: 20px">
-                                                                                            <a class="test" tabindex="-3" href="#">1990-1999 <span class="caret"></span></a>
+                                                                                            <a class="test" tabindex="-3" href="#">PROJECTS: 1990-1999 <span class="caret"></span></a>
                                                                                             <ul class="dropdown-menu maker-new" style="width: 200px; height: 210px; overflow: scroll">
 
 
+                                                                                                <li><a href="#">EFRA Blacks F&G, London</a></li>
                                                                                                 <li><a href="#">80 Bishopsgate - London</a></li>
                                                                                                 <li><a href="#">Mount Pleasant PO - London</a></li>
-                                                                                                <li><a href="#">9 Marylebone Lane - London</a></li>
                                                                                                 <li><a href="#">Glaxo Research Campus - Stevenage</a></li>
                                                                                                 <li><a href="#">Euston Tower Block B - London</a></li>
                                                                                                 <li><a href="#">120 Old Baord Street  - London</a></li>
-                                                                                                <li><a href="#">Borax - Guildford</a></li>
-                                                                                                <li><a href="#">Wern Park - Shefford</a></li>
                                                                                                 <li><a href="#">66 Cheapside - London</a></li>
-                                                                                                <li><a href="#">75-77 Cornhill - London</a></li>
-                                                                                                <li><a href="#">Shopping Centre - Milton Keynes</a></li>
+                                                                                                <li><a href="#">Milton Keynes Shopping Centre</a></li>
+                                                                                                <li><a href="#">Borax - Guildford</a></li>
+                                                                                                <li><a href="#">Wren Park Nursing Home, Shefford</a></li>
                                                                                                 <li><a href="#">Vintners Galleria - London</a></li>
                                                                                                 <li><a href="#">Vauxhall Cross - London</a></li>
                                                                                                 <li><a href="#">Veritas House - London</a></li>
-                                                                                                <li><a href="#">Colemore Gate - Birmingham</a></li>
+                                                                                                <li><a href="#">Colemore Gate, London</a></li>
                                                                                                 <li><a href="#">40 St.Mary's Axe - London</a></li>
                                                                                                 <li><a href="#">Confederation Life - Stevenage</a></li>
                                                                                                 <li><a href="#">Capability Green - Luton</a></li>
-                                                                                                <li><a href="#">Scepter Court - London</a></li>
+                                                                                                <li><a href="#">Sceptre Court - London</a></li>
                                                                                                 <li><a href="#">BAA Hotel - Gatwick</a></li>
                                                                                                 <li><a href="#">No.1 Ailey Street - London</a></li>
-                                                                                                <li><a href="#">8-9 Berkerley Street - London</a></li>
                                                                                                 <li><a href="#">Fitzwilliam House - London</a></li>
                                                                                                 <li><a href="#">St.Marks Court - Horsham</a></li>
                                                                                                 <li><a href="#">London Stolport</a></li>
@@ -769,53 +803,92 @@
                                                                                                 <li><a href="#">Stockley Park - Heathrow</a></li>
                                                                                                 <li><a href="#">Leith House - London</a></li>
                                                                                                 <li><a href="#">Lennox Wood - Horsham</a></li>
-                                                                                                <li><a href="#">4/7 Chriswell Street - London</a></li>
-                                                                                                <li><a href="#">Abbey Insurance - Bournemouth</a></li>
-                                                                                                <li><a href="#">Broadgate Phase 5 - London</a></li>
-                                                                                                <li><a href="#">Broadgate Phase 7 - London</a></li>
-                                                                                                <li><a href="#">Point West - London</a></li>
-                                                                                                <li><a href="#">Woking Shop Centre - Woking</a></li>
-                                                                                                <li><a href="#">Harbour Exchange 1,2 & 3 - London</a></li>
-                                                                                                <li><a href="#">Harbour Exchange 4 & 5 - London</a></li>
-                                                                                                <li><a href="#">Thameside I O Dogs - London</a></li>
-                                                                                                <li><a href="#">Halifax Building S - Halifax</a></li>
-                                                                                                <li><a href="#">New Broad Street - London</a></li>
+
+                                                                                                {{--<li><a href="#">9 Marylebone Lane - London</a></li>--}}
+                                                                                                {{--<li><a href="#">75-77 Cornhill - London</a></li>--}}
+                                                                                                {{--<li><a href="#">Shopping Centre - Milton Keynes</a></li>--}}
+                                                                                                {{--<li><a href="#">8-9 Berkerley Street - London</a></li>--}}
+                                                                                                {{--<li><a href="#">4/7 Chriswell Street - London</a></li>--}}
+                                                                                                {{--<li><a href="#">Abbey Insurance - Bournemouth</a></li>--}}
+                                                                                                {{--<li><a href="#">Broadgate Phase 5 - London</a></li>--}}
+                                                                                                {{--<li><a href="#">Broadgate Phase 7 - London</a></li>--}}
+                                                                                                {{--<li><a href="#">Point West - London</a></li>--}}
+                                                                                                {{--<li><a href="#">Woking Shop Centre - Woking</a></li>--}}
+                                                                                                {{--<li><a href="#">Harbour Exchange 1,2 & 3 - London</a></li>--}}
+                                                                                                {{--<li><a href="#">Harbour Exchange 4 & 5 - London</a></li>--}}
+                                                                                                {{--<li><a href="#">Thameside I O Dogs - London</a></li>--}}
+                                                                                                {{--<li><a href="#">Halifax Building S - Halifax</a></li>--}}
+                                                                                                {{--<li><a href="#">New Broad Street - London</a></li>--}}
 
                                                                                             </ul>
                                                                                         </li>
 
 
                                                                                         <li class="dropdown-submenu" style="margin-top: 20px">
-                                                                                            <a class="test" tabindex="-4" href="#">1980-1989 <span class="caret"></span></a>
+                                                                                            <a class="test" tabindex="-4" href="#">PROJECTS: 1980-1989 <span class="caret"></span></a>
                                                                                             <ul class="dropdown-menu maker-new" style="width: 200px; height: 210px; overflow: scroll">
 
 
-                                                                                                <li><a href="#">Cuton Mill - Chelmsford</a></li>
-                                                                                                <li><a href="#">Central Park - Watford</a></li>
-                                                                                                <li><a href="#">Oxford Hospital - Oxford</a></li>
-                                                                                                <li><a href="#">Meadowhall Mall - Sheffield</a></li>
-                                                                                                <li><a href="#">Brunton Lane - Newcastle</a></li>
-                                                                                                <li><a href="#">Navigation House - London</a></li>
-                                                                                                <li><a href="#">Capital House  - London</a></li>
-                                                                                                <li><a href="#">St.James Square - London</a></li>
-                                                                                                <li><a href="#">Lutyens House - London</a></li>
-                                                                                                <li><a href="#">Unicorn House - London</a></li>
-                                                                                                <li><a href="#">Swan House - London</a></li>
-                                                                                                <li><a href="#">260 Bath Road - Slough</a></li>
-                                                                                                <li><a href="#">Bath Road - Slough</a></li>
-                                                                                                <li><a href="#">Welwyn Garden City - Welwyn</a></li>
-                                                                                                <li><a href="#">Office Block - Cardiff</a></li>
-                                                                                                <li><a href="#">Farringdon House - London</a></li>
-                                                                                                <li><a href="#">Beaufort House - London</a></li>
-                                                                                                <li><a href="#">Five Acres - London</a></li>
-                                                                                                <li><a href="#">Cody Road Ind.Est - London</a></li>
-                                                                                                <li><a href="#">Music Sales - London</a></li>
-                                                                                                <li><a href="#">Woking Shop Centre - Woking</a></li>
-                                                                                                <li><a href="#">Ludgate Hill Dev - London</a></li>
-                                                                                                <li><a href="#">Sanctuary Buildings - London</a></li>
-                                                                                                <li><a href="#">Waterloo Int Stn - Wetherby</a></li>
-                                                                                                <li><a href="#">Conferderation Life - Stevenage</a></li>
-                                                                                                <li><a href="#">St.Dunstans House - London</a></li>
+                                                                                                <li><a href="#">Abbey Insurance, Bournemouth</a></li>
+                                                                                                <li><a href="#">Broadgate Phase 5&7, London</a></li>
+                                                                                                <li><a href="#">Point West, London</a></li>
+                                                                                                <li><a href="#">Woking Shopping Centre, London</a></li>
+                                                                                                <li><a href="#">Harbour Exchange 1-5, London </a></li>
+                                                                                                <li><a href="#">Thameside, London </a></li>
+                                                                                                <li><a href="#">Halifax Building, Halifax </a></li>
+                                                                                                <li><a href="#">New Broad Street, London </a></li>
+                                                                                                <li><a href="#">Cuton Mill, Chelmsford </a></li>
+                                                                                                <li><a href="#">Central park, Watford </a></li>
+                                                                                                <li><a href="#">Oxford Hospital, Oxford </a></li>
+                                                                                                <li><a href="#">Meadowhall Mall, Sheffield </a></li>
+                                                                                                <li><a href="#">Brunton Lane, Newcastle </a></li>
+                                                                                                <li><a href="#">Navigation House, London </a></li>
+                                                                                                <li><a href="#">Capital House, London </a></li>
+                                                                                                <li><a href="#">Lutyens House, London </a></li>
+                                                                                                <li><a href="#">Unicorn House, London </a></li>
+                                                                                                <li><a href="#">Swan House, London </a></li>
+                                                                                                <li><a href="#">260, Bath Road, Slough </a></li>
+                                                                                                <li><a href="#">WGC, Welwyn </a></li>
+                                                                                                <li><a href="#">Office Block, Cardiff </a></li>
+                                                                                                <li><a href="#">Farringdon House, London </a></li>
+                                                                                                <li><a href="#">Beaufort House, London </a></li>
+                                                                                                <li><a href="#">Five Acres, London </a></li>
+                                                                                                <li><a href="#">Cody Road, London </a></li>
+                                                                                                <li><a href="#">Music Sales, London </a></li>
+                                                                                                <li><a href="#">Woking Shopping Centre, Woking </a></li>
+                                                                                                <li><a href="#">Ludgate Hill Development, London </a></li>
+                                                                                                <li><a href="#">Sanctuary Buildings, London </a></li>
+                                                                                                <li><a href="#">Waterloo Station, Wetherby </a></li>
+                                                                                                <li><a href="#">St Dunstans, London </a></li>
+
+
+
+
+                                                                                                {{--<li><a href="#">Central Park - Watford</a></li>--}}
+                                                                                                {{--<li><a href="#">Oxford Hospital - Oxford</a></li>--}}
+                                                                                                {{--<li><a href="#">Meadowhall Mall - Sheffield</a></li>--}}
+                                                                                                {{--<li><a href="#">Brunton Lane - Newcastle</a></li>--}}
+                                                                                                {{--<li><a href="#">Navigation House - London</a></li>--}}
+                                                                                                {{--<li><a href="#">Capital House  - London</a></li>--}}
+                                                                                                {{--<li><a href="#">St.James Square - London</a></li>--}}
+                                                                                                {{--<li><a href="#">Lutyens House - London</a></li>--}}
+                                                                                                {{--<li><a href="#">Unicorn House - London</a></li>--}}
+                                                                                                {{--<li><a href="#">Swan House - London</a></li>--}}
+                                                                                                {{--<li><a href="#">260 Bath Road - Slough</a></li>--}}
+                                                                                                {{--<li><a href="#">Bath Road - Slough</a></li>--}}
+                                                                                                {{--<li><a href="#">Welwyn Garden City - Welwyn</a></li>--}}
+                                                                                                {{--<li><a href="#">Office Block - Cardiff</a></li>--}}
+                                                                                                {{--<li><a href="#">Farringdon House - London</a></li>--}}
+                                                                                                {{--<li><a href="#">Beaufort House - London</a></li>--}}
+                                                                                                {{--<li><a href="#">Five Acres - London</a></li>--}}
+                                                                                                {{--<li><a href="#">Cody Road Ind.Est - London</a></li>--}}
+                                                                                                {{--<li><a href="#">Music Sales - London</a></li>--}}
+                                                                                                {{--<li><a href="#">Woking Shop Centre - Woking</a></li>--}}
+                                                                                                {{--<li><a href="#">Ludgate Hill Dev - London</a></li>--}}
+                                                                                                {{--<li><a href="#">Sanctuary Buildings - London</a></li>--}}
+                                                                                                {{--<li><a href="#">Waterloo Int Stn - Wetherby</a></li>--}}
+                                                                                                {{--<li><a href="#">Conferderation Life - Stevenage</a></li>--}}
+                                                                                                {{--<li><a href="#">St.Dunstans House - London</a></li>--}}
 
                                                                                             </ul>
                                                                                         </li>
