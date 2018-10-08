@@ -705,8 +705,8 @@
                                                                                                 <li><a tabindex="-1" href="#" style="font-size: 14px; font-weight: 900">LONDON</a></li>
                                                                                                 <li style="margin-top: 15px"><a tabindex="-1" href="#">Embassy Gardens</a></li>
                                                                                                 <li style="margin-top: 15px"><a tabindex="-1" href="#">Kensington Row</a></li>
-                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#">Farringdon</a></li>
-                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#">Southbank B2 & B4</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#section9" style="color: yellow">Farringdon</a></li>
+                                                                                                <li style="margin-top: 15px"><a tabindex="-1" href="#section10" style="color: yellow">Southbank B2 & B4</a></li>
                                                                                                 <li style="margin-top: 15px"><a tabindex="-1" href="#section4" style="color: yellow">One Tower Bridge</a></li>
                                                                                                 <li style="margin-top: 15px"><a tabindex="-1" href="#">Strand</a></li>
                                                                                                 <li style="margin-top: 15px"><a tabindex="-1" href="#">1, Bishopsgate</a></li>
@@ -2692,6 +2692,288 @@
                                                     </div>
                                                 </div>
                                             </section>
+
+
+
+
+
+
+                                            <div id="section9"></div>
+                                            <section data-id="4afa52a"
+                                                     class="elementor-element elementor-element-4afa52a elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
+                                                     data-element_type="section">
+                                                <div class="elementor-container elementor-column-gap-default">
+                                                    <div class="elementor-row">
+                                                        <div data-id="cb71492"
+                                                             class="elementor-element elementor-element-cb71492 elementor-column elementor-col-50 elementor-top-column"
+                                                             data-element_type="column">
+                                                            <div class="elementor-column-wrap elementor-element-populated">
+                                                                <div class="elementor-widget-wrap">
+                                                                    <div data-id="a6cbafc"
+                                                                         class="elementor-element elementor-element-a6cbafc gallery-spacing-custom elementor-widget elementor-widget-image-gallery"
+                                                                         data-element_type="image-gallery.default">
+                                                                        <div class="elementor-widget-container">
+                                                                            <div class="elementor-image-gallery">
+                                                                                <div id='gallery-10'
+                                                                                     class='gallery galleryid-8 gallery-columns-3 gallery-size-large'>
+
+
+                                                                                    <div id="carouselExampleControls"
+                                                                                         class="carousel slide padding-slide"
+                                                                                         data-ride="carousel">
+                                                                                        <div class="carousel-inner">
+                                                                                            <div class="carousel-item active">
+                                                                                                <img class="d-block w-100"
+                                                                                                     src="{{ url('images/f1.jpg') }}"
+                                                                                                     style="height: 300px"
+                                                                                                     alt="First slide">
+                                                                                            </div>
+                                                                                            <div class="carousel-item">
+                                                                                                <img class="d-block w-100"
+                                                                                                     src="{{ url('images/f2.jpg') }}"
+                                                                                                     style="height: 300px"
+                                                                                                     alt="Second slide">
+                                                                                            </div>
+                                                                                            <div class="carousel-item">
+                                                                                                <img class="d-block w-100"
+                                                                                                     src="{{ url('images/f3.jpg') }}"
+                                                                                                     style="height: 300px"
+                                                                                                     alt="Second slide">
+                                                                                            </div>
+                                                                                            <div class="carousel-item">
+                                                                                                <img class="d-block w-100"
+                                                                                                     src="{{ url('images/f4.jpg') }}"
+                                                                                                     style="height: 300px"
+                                                                                                     alt="Second slide">
+                                                                                            </div>
+                                                                                            <div class="carousel-item">
+                                                                                                <img class="d-block w-100"
+                                                                                                     src="{{ url('images/f5.jpg') }}"
+                                                                                                     style="height: 300px"
+                                                                                                     alt="Second slide">
+                                                                                            </div>
+                                                                                            <div class="carousel-item">
+                                                                                                <img class="d-block w-100"
+                                                                                                     src="{{ url('images/f6.jpg') }}"
+                                                                                                     style="height: 300px"
+                                                                                                     alt="Second slide">
+                                                                                            </div>
+                                                                                            <div class="carousel-item">
+                                                                                                <img class="d-block w-100"
+                                                                                                     src="{{ url('images/f7.jpg') }}"
+                                                                                                     style="height: 300px"
+                                                                                                     alt="Second slide">
+                                                                                            </div>
+
+                                                                                        </div>
+                                                                                        <a class="carousel-control-prev"
+                                                                                           href="#carouselExampleControls"
+                                                                                           role="button"
+                                                                                           data-slide="prev">
+                                                                                            <span class="carousel-control-prev-icon"
+                                                                                                  aria-hidden="true"></span>
+                                                                                            <span class="sr-only">Previous</span>
+                                                                                        </a>
+                                                                                        <a class="carousel-control-next"
+                                                                                           href="#carouselExampleControls"
+                                                                                           role="button"
+                                                                                           data-slide="next">
+                                                                                            <span class="carousel-control-next-icon"
+                                                                                                  aria-hidden="true"></span>
+                                                                                            <span class="sr-only">Next</span>
+                                                                                        </a>
+                                                                                    </div>
+
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div data-id="f504853"
+                                                             class="elementor-element elementor-element-f504853 elementor-column elementor-col-50 elementor-top-column"
+                                                             data-element_type="column">
+                                                            <div class="elementor-column-wrap elementor-element-populated">
+                                                                <div class="elementor-widget-wrap">
+                                                                    <div data-id="0b90168"
+                                                                         class="elementor-element elementor-element-0b90168 elementor-widget elementor-widget-heading"
+                                                                         data-element_type="heading.default">
+                                                                        <div class="elementor-widget-container"
+                                                                                {{--style="margin-top: 6%"--}}
+                                                                        >
+                                                                            <h2 class="elementor-heading-title elementor-size-default">Forringdon</h2></div>
+                                                                    </div>
+                                                                    {{--<div data-id="92867b0"--}}
+                                                                         {{--class="elementor-element elementor-element-92867b0 elementor-widget elementor-widget-text-editor"--}}
+                                                                         {{--data-element_type="text-editor.default">--}}
+                                                                        {{--<div class="elementor-widget-container">--}}
+                                                                            {{--<div class="elementor-text-editor elementor-clearfix">--}}
+                                                                                {{--<p>In 2016 GA were fortunate to be--}}
+                                                                                    {{--working on the first rail--}}
+                                                                                    {{--development in Qatar – the Qatar--}}
+                                                                                    {{--Education People Mover System. GA--}}
+                                                                                    {{--Qatar were contracted to provide--}}
+                                                                                    {{--complete installation of 17--}}
+                                                                                    {{--stations.</p>--}}
+                                                                                {{--<p>This included installing the steel--}}
+                                                                                    {{--support structure for the glazed--}}
+                                                                                    {{--canopy roof and passenger waiting--}}
+                                                                                    {{--rooms. Challenges for our team--}}
+                                                                                    {{--during this project were the daily--}}
+                                                                                    {{--temperatures in excess of--}}
+                                                                                    {{--50<sup>◦</sup>C as well as the high--}}
+                                                                                    {{--dust load with many of the stations--}}
+                                                                                    {{--situated within the desert.</p>--}}
+                                                                            {{--</div>--}}
+                                                                        {{--</div>--}}
+                                                                    {{--</div>--}}
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </section>
+                                            <div id="section10"></div>
+                                            <section data-id="9ad5bb7"
+                                                     class="elementor-element elementor-element-9ad5bb7 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
+                                                     data-element_type="section">
+                                                <div class="elementor-container elementor-column-gap-default">
+                                                    <div class="elementor-row">
+                                                        <div data-id="387225d"
+                                                             class="elementor-element elementor-element-387225d elementor-column elementor-col-33 elementor-top-column"
+                                                             data-element_type="column">
+                                                            <div class="elementor-column-wrap elementor-element-populated">
+                                                                <div class="elementor-widget-wrap">
+                                                                    <div data-id="f8ec972"
+                                                                         class="elementor-element elementor-element-f8ec972 elementor-widget elementor-widget-heading"
+                                                                         data-element_type="heading.default">
+                                                                        <div class="elementor-widget-container">
+                                                                            <h2 class="elementor-heading-title elementor-size-default">South Bank</h2>
+                                                                        </div>
+                                                                    </div>
+                                                                    {{--<div data-id="9020f41"--}}
+                                                                         {{--class="elementor-element elementor-element-9020f41 elementor-widget elementor-widget-text-editor"--}}
+                                                                         {{--data-element_type="text-editor.default">--}}
+                                                                        {{--<div class="elementor-widget-container">--}}
+                                                                            {{--<div class="elementor-text-editor elementor-clearfix">--}}
+                                                                                {{--<p>This iconic research facility took 5--}}
+                                                                                    {{--years to construct and GA had the--}}
+                                                                                    {{--privilege of working on the middle--}}
+                                                                                    {{--section of the building--}}
+                                                                                    {{--incorporating both the glass atria--}}
+                                                                                    {{--either end of the construction and--}}
+                                                                                    {{--the glazed central roof.</p>--}}
+                                                                                {{--<p>The building incorporated a multitude--}}
+                                                                                    {{--if different claddings, fins and--}}
+                                                                                    {{--grids. The tall glass atria made--}}
+                                                                                    {{--extensive use of glass with the east--}}
+                                                                                    {{--side of the building using glass--}}
+                                                                                    {{--fins that had a dichroic film that--}}
+                                                                                    {{--reflects coloured rays of light into--}}
+                                                                                    {{--the atrium and refracts externally--}}
+                                                                                    {{--giving the building a multi-coloured--}}
+                                                                                    {{--façade on the atrium section.</p>--}}
+                                                                                {{--<p></p></div>--}}
+                                                                        {{--</div>--}}
+                                                                    {{--</div>--}}
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div data-id="0808fad"
+                                                             class="elementor-element elementor-element-0808fad elementor-column elementor-col-66 elementor-top-column"
+                                                             data-element_type="column">
+                                                            <div class="elementor-column-wrap elementor-element-populated">
+                                                                <div class="elementor-widget-wrap">
+                                                                    <div data-id="d755e8b"
+                                                                         class="elementor-element elementor-element-d755e8b gallery-spacing-custom elementor-widget elementor-widget-image-gallery"
+                                                                         data-element_type="image-gallery.default">
+                                                                        <div class="elementor-widget-container">
+                                                                            <div class="elementor-image-gallery">
+                                                                                <div id='gallery-11'
+                                                                                     class='gallery galleryid-8 gallery-columns-3 gallery-size-sydney-mas-thumb'>
+
+                                                                                    <div id="carouselExampleControls"
+                                                                                         class="carousel slide padding-slide"
+                                                                                         data-ride="carousel">
+                                                                                        <div class="carousel-inner">
+                                                                                            <div class="carousel-item active">
+                                                                                                <img class="d-block w-100"
+                                                                                                     src="{{ url('images/sb1.jpg') }}"
+                                                                                                     style="height: 300px"
+                                                                                                     alt="First slide">
+                                                                                            </div>
+                                                                                            <div class="carousel-item">
+                                                                                                <img class="d-block w-100"
+                                                                                                     src="{{ url('images/sb2.jpg') }}"
+                                                                                                     style="height: 300px"
+                                                                                                     alt="Second slide">
+                                                                                            </div>
+                                                                                            <div class="carousel-item">
+                                                                                                <img class="d-block w-100"
+                                                                                                     src="{{ url('images/sb3.jpg') }}"
+                                                                                                     style="height: 300px"
+                                                                                                     alt="Second slide">
+                                                                                            </div>
+                                                                                            <div class="carousel-item">
+                                                                                                <img class="d-block w-100"
+                                                                                                     src="{{ url('images/sb4.jpg') }}"
+                                                                                                     style="height: 300px"
+                                                                                                     alt="Second slide">
+                                                                                            </div>
+                                                                                            <div class="carousel-item">
+                                                                                                <img class="d-block w-100"
+                                                                                                     src="{{ url('images/sb5.jpg') }}"
+                                                                                                     style="height: 300px"
+                                                                                                     alt="Second slide">
+                                                                                            </div>
+                                                                                            <div class="carousel-item">
+                                                                                                <img class="d-block w-100"
+                                                                                                     src="{{ url('images/sb6.jpg') }}"
+                                                                                                     style="height: 300px"
+                                                                                                     alt="Second slide">
+                                                                                            </div>
+                                                                                            <div class="carousel-item">
+                                                                                                <img class="d-block w-100"
+                                                                                                     src="{{ url('images/sb7.jpg') }}"
+                                                                                                     style="height: 300px"
+                                                                                                     alt="Second slide">
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <a class="carousel-control-prev"
+                                                                                           href="#carouselExampleControls"
+                                                                                           role="button"
+                                                                                           data-slide="prev">
+                                                                                            <span class="carousel-control-prev-icon"
+                                                                                                  aria-hidden="true"></span>
+                                                                                            <span class="sr-only">Previous</span>
+                                                                                        </a>
+                                                                                        <a class="carousel-control-next"
+                                                                                           href="#carouselExampleControls"
+                                                                                           role="button"
+                                                                                           data-slide="next">
+                                                                                            <span class="carousel-control-next-icon"
+                                                                                                  aria-hidden="true"></span>
+                                                                                            <span class="sr-only">Next</span>
+                                                                                        </a>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </section>
+
+
+
+
+
+
+
                                         </div>
                                     </div>
                                 </div>
