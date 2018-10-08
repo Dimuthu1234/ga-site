@@ -2802,7 +2802,7 @@
                                                                         <div class="elementor-widget-container"
                                                                                 {{--style="margin-top: 6%"--}}
                                                                         >
-                                                                            <h2 class="elementor-heading-title elementor-size-default">Forringdon</h2></div>
+                                                                            <h2 class="elementor-heading-title elementor-size-default">Farringdon</h2></div>
                                                                     </div>
                                                                     {{--<div data-id="92867b0"--}}
                                                                          {{--class="elementor-element elementor-element-92867b0 elementor-widget elementor-widget-text-editor"--}}
