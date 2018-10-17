@@ -1005,19 +1005,19 @@
                                                                                         <div class="carousel-inner">
                                                                                             <div class="carousel-item active">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-683x1024.jpg"
+                                                                                                     src="{{ url('images/240-Blackfrairs-2-683x1024.jpg') }}"
                                                                                                      style="height: 300px"
                                                                                                      alt="First slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-3-683x1024.jpg"
+                                                                                                     src="{{ url('images/240-Blackfrairs-3-683x1024.jpg') }}"
                                                                                                      style="height: 300px"
                                                                                                      alt="Second slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-2-683x1024.jpg"
+                                                                                                     src="{{ url('images/240-Blackfrairs-683x1024.jpg') }}"
                                                                                                      style="height: 300px"
                                                                                                      alt="Third slide">
                                                                                             </div>
