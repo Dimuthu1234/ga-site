@@ -940,7 +940,7 @@
                                             </section>
                                             <div id="section1"></div>
                                             <section data-id="8207ff5"
-                                                     {{--style="margin-top: 4%"--}}
+                                                     style="padding: 0px 25px 0px 25px;"
                                                      class="elementor-element elementor-element-8207ff5 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
                                                      data-element_type="section">
                                                 <div class="elementor-container elementor-column-gap-default">
@@ -1039,53 +1039,6 @@
                                                                                             <span class="sr-only">Next</span>
                                                                                         </a>
                                                                                     </div>
-
-
-                                                                                    {{--<figure class='gallery-item'>--}}
-                                                                                    {{--<div class='gallery-icon portrait'>--}}
-                                                                                    {{--<a class="elementor-clickable"--}}
-                                                                                    {{--data-elementor-open-lightbox="yes"--}}
-                                                                                    {{--data-elementor-lightbox-slideshow="58aef04"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs.jpg'><img--}}
-                                                                                    {{--width="683"--}}
-                                                                                    {{--height="1024"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-683x1024.jpg"--}}
-                                                                                    {{--class="attachment-large size-large"--}}
-                                                                                    {{--alt="240 Blackfrairs"--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-683x1024.jpg 683w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-200x300.jpg 200w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-768x1152.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-830x1245.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-230x345.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-350x525.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-480x720.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs.jpg 1067w"--}}
-                                                                                    {{--sizes="(max-width: 683px) 100vw, 683px"/></a>--}}
-                                                                                    {{--</div>--}}
-                                                                                    {{--</figure>--}}
-                                                                                    {{--<figure class='gallery-item'>--}}
-                                                                                    {{--<div class='gallery-icon portrait'>--}}
-                                                                                    {{--<a class="elementor-clickable"--}}
-                                                                                    {{--data-elementor-open-lightbox="yes"--}}
-                                                                                    {{--data-elementor-lightbox-slideshow="58aef04"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-3.jpg'><img--}}
-                                                                                    {{--width="683"--}}
-                                                                                    {{--height="1024"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-3-683x1024.jpg"--}}
-                                                                                    {{--class="attachment-large size-large"--}}
-                                                                                    {{--alt="240 Blackfrairs"--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-3-683x1024.jpg 683w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-3-200x300.jpg 200w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-3-768x1152.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-3-830x1245.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-3-230x345.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-3-350x525.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-3-480x720.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-3.jpg 1067w"--}}
-                                                                                    {{--sizes="(max-width: 683px) 100vw, 683px"/></a>--}}
-                                                                                    {{--</div>--}}
-                                                                                    {{--</figure>--}}
-                                                                                    {{--<figure class='gallery-item'>--}}
-                                                                                    {{--<div class='gallery-icon portrait'>--}}
-                                                                                    {{--<a class="elementor-clickable"--}}
-                                                                                    {{--data-elementor-open-lightbox="yes"--}}
-                                                                                    {{--data-elementor-lightbox-slideshow="58aef04"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-2.jpg'><img--}}
-                                                                                    {{--width="683"--}}
-                                                                                    {{--height="1024"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-2-683x1024.jpg"--}}
-                                                                                    {{--class="attachment-large size-large"--}}
-                                                                                    {{--alt="240 Blackfrairs"--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-2-683x1024.jpg 683w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-2-200x300.jpg 200w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-2-768x1152.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-2-830x1245.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-2-230x345.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-2-350x525.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-2-480x720.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/240-Blackfrairs-2.jpg 1067w"--}}
-                                                                                    {{--sizes="(max-width: 683px) 100vw, 683px"/></a>--}}
-                                                                                    {{--</div>--}}
-                                                                                    {{--</figure>--}}
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -1163,91 +1116,6 @@
                                                                                             <span class="sr-only">Next</span>
                                                                                         </a>
                                                                                     </div>
-
-                                                                                    {{--<figure class='gallery-item'>--}}
-                                                                                    {{--<div class='gallery-icon landscape'>--}}
-                                                                                    {{--<a class="elementor-clickable"--}}
-                                                                                    {{--data-elementor-open-lightbox="yes"--}}
-                                                                                    {{--data-elementor-lightbox-slideshow="fec27bd"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-14.jpg'><img--}}
-                                                                                    {{--width="1024"--}}
-                                                                                    {{--height="683"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-14-1024x683.jpg"--}}
-                                                                                    {{--class="attachment-large size-large"--}}
-                                                                                    {{--alt=""--}}
-                                                                                    {{--aria-describedby="gallery-2-431"--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-14-1024x683.jpg 1024w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-14-300x200.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-14-768x512.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-14-830x553.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-14-230x153.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-14-350x233.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-14-480x320.jpg 480w"--}}
-                                                                                    {{--sizes="(max-width: 1024px) 100vw, 1024px"/></a>--}}
-                                                                                    {{--</div>--}}
-                                                                                    {{--<figcaption--}}
-                                                                                    {{--class='wp-caption-text gallery-caption'--}}
-                                                                                    {{--id='gallery-2-431'>--}}
-                                                                                    {{--Blavatnik Building Oxford--}}
-                                                                                    {{--</figcaption>--}}
-                                                                                    {{--</figure>--}}
-                                                                                    {{--<figure class='gallery-item'>--}}
-                                                                                    {{--<div class='gallery-icon landscape'>--}}
-                                                                                    {{--<a class="elementor-clickable"--}}
-                                                                                    {{--data-elementor-open-lightbox="yes"--}}
-                                                                                    {{--data-elementor-lightbox-slideshow="fec27bd"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-4.jpg'><img--}}
-                                                                                    {{--width="1024"--}}
-                                                                                    {{--height="683"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-4-1024x683.jpg"--}}
-                                                                                    {{--class="attachment-large size-large"--}}
-                                                                                    {{--alt=""--}}
-                                                                                    {{--aria-describedby="gallery-2-430"--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-4-1024x683.jpg 1024w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-4-300x200.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-4-768x512.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-4-830x553.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-4-230x153.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-4-350x233.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-4-480x320.jpg 480w"--}}
-                                                                                    {{--sizes="(max-width: 1024px) 100vw, 1024px"/></a>--}}
-                                                                                    {{--</div>--}}
-                                                                                    {{--<figcaption--}}
-                                                                                    {{--class='wp-caption-text gallery-caption'--}}
-                                                                                    {{--id='gallery-2-430'>--}}
-                                                                                    {{--Blavatnik Building Oxford--}}
-                                                                                    {{--</figcaption>--}}
-                                                                                    {{--</figure>--}}
-                                                                                    {{--<figure class='gallery-item'>--}}
-                                                                                    {{--<div class='gallery-icon landscape'>--}}
-                                                                                    {{--<a class="elementor-clickable"--}}
-                                                                                    {{--data-elementor-open-lightbox="yes"--}}
-                                                                                    {{--data-elementor-lightbox-slideshow="fec27bd"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-2.jpg'><img--}}
-                                                                                    {{--width="1024"--}}
-                                                                                    {{--height="585"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-2-1024x585.jpg"--}}
-                                                                                    {{--class="attachment-large size-large"--}}
-                                                                                    {{--alt=""--}}
-                                                                                    {{--aria-describedby="gallery-2-428"--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-2-1024x585.jpg 1024w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-2-300x171.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-2-768x439.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-2-830x474.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-2-230x131.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-2-350x200.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-2-480x274.jpg 480w"--}}
-                                                                                    {{--sizes="(max-width: 1024px) 100vw, 1024px"/></a>--}}
-                                                                                    {{--</div>--}}
-                                                                                    {{--<figcaption--}}
-                                                                                    {{--class='wp-caption-text gallery-caption'--}}
-                                                                                    {{--id='gallery-2-428'>--}}
-                                                                                    {{--Blavatnik Building Oxford--}}
-                                                                                    {{--</figcaption>--}}
-                                                                                    {{--</figure>--}}
-                                                                                    {{--<figure class='gallery-item'>--}}
-                                                                                    {{--<div class='gallery-icon portrait'>--}}
-                                                                                    {{--<a class="elementor-clickable"--}}
-                                                                                    {{--data-elementor-open-lightbox="yes"--}}
-                                                                                    {{--data-elementor-lightbox-slideshow="fec27bd"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-11.jpg'><img--}}
-                                                                                    {{--width="688"--}}
-                                                                                    {{--height="1024"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-11-688x1024.jpg"--}}
-                                                                                    {{--class="attachment-large size-large"--}}
-                                                                                    {{--alt=""--}}
-                                                                                    {{--aria-describedby="gallery-2-427"--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-11-688x1024.jpg 688w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-11-202x300.jpg 202w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-11-768x1143.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-11-830x1236.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-11-230x342.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-11-350x521.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-11-480x715.jpg 480w"--}}
-                                                                                    {{--sizes="(max-width: 688px) 100vw, 688px"/></a>--}}
-                                                                                    {{--</div>--}}
-                                                                                    {{--<figcaption--}}
-                                                                                    {{--class='wp-caption-text gallery-caption'--}}
-                                                                                    {{--id='gallery-2-427'>--}}
-                                                                                    {{--Blavatnik Building Oxford--}}
-                                                                                    {{--</figcaption>--}}
-                                                                                    {{--</figure>--}}
                                                                                 </div>
                                                                             </div>
                                                                         </div>
