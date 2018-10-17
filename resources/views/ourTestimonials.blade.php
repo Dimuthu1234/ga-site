@@ -658,10 +658,10 @@
                                                                     <ul>
                                                                         <li style="font-size: 15px;">
                                                                             <em>" Commendations to your operative
-                                                                                KW for his actions at our Lime
+                                                                                KW for his actions at our Lime <br>
                                                                                 St site, it is a sign of a
                                                                                 positive health & safety
-                                                                                culture, when a person raises a
+                                                                                culture, when a person <br> raises a
                                                                                 H&S issue without fear of
                                                                                 retribution. "
                                                                             </em>
