@@ -940,10 +940,9 @@
                                             </section>
                                             <div id="section1"></div>
                                             <section data-id="8207ff5"
-                                                     style="padding: 0px 60px 0px 60px;"
                                                      class="elementor-element elementor-element-8207ff5 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
                                                      data-element_type="section">
-                                                <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-container elementor-column-gap-default" style="padding: 0px 60px 0px 60px;">
                                                     <div class="elementor-row">
                                                         <div data-id="dd048ab"
                                                              class="elementor-element elementor-element-dd048ab elementor-column elementor-col-33 elementor-top-column"
