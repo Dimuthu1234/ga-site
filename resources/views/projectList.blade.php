@@ -943,7 +943,6 @@
                                                      class="elementor-element elementor-element-8207ff5 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
                                                      data-element_type="section">
                                                 <div class="elementor-container elementor-column-gap-default"
-                                                     {{--style="padding: 0px 60px 0px 60px;"--}}
                                                 >
                                                     <div class="elementor-row">
                                                         <div data-id="dd048ab"
@@ -987,6 +986,7 @@
                                                             </div>
                                                         </div>
                                                         <div data-id="f2a83de"
+                                                             style="padding: 0px 50px 0px 50px;"
                                                              class="elementor-element elementor-element-f2a83de elementor-column elementor-col-66 elementor-top-column"
                                                              data-element_type="column">
                                                             <div class="elementor-column-wrap elementor-element-populated">
@@ -1252,6 +1252,7 @@
                                                             </div>
                                                         </div>
                                                         <div data-id="fd2ef77"
+                                                             style="padding: 0px 50px 0px 50px;"
                                                              class="elementor-element elementor-element-fd2ef77 elementor-column elementor-col-66 elementor-top-column"
                                                              data-element_type="column">
                                                             <div class="elementor-column-wrap elementor-element-populated">
@@ -1607,6 +1608,7 @@
                                                             </div>
                                                         </div>
                                                         <div data-id="caf4108"
+                                                             style="padding: 0px 50px 0px 50px;"
                                                              class="elementor-element elementor-element-caf4108 elementor-column elementor-col-66 elementor-top-column"
                                                              data-element_type="column">
                                                             <div class="elementor-column-wrap elementor-element-populated">
@@ -1853,6 +1855,7 @@
                                                             </div>
                                                         </div>
                                                         <div data-id="9029754"
+                                                             style="padding: 0px 50px 0px 50px;"
                                                              class="elementor-element elementor-element-9029754 elementor-column elementor-col-66 elementor-top-column"
                                                              data-element_type="column">
                                                             <div class="elementor-column-wrap elementor-element-populated">
@@ -2458,6 +2461,7 @@
                                                             </div>
                                                         </div>
                                                         <div data-id="0808fad"
+                                                             style="padding: 0px 50px 0px 50px;"
                                                              class="elementor-element elementor-element-0808fad elementor-column elementor-col-66 elementor-top-column"
                                                              data-element_type="column">
                                                             <div class="elementor-column-wrap elementor-element-populated">
@@ -2757,6 +2761,7 @@
                                                             </div>
                                                         </div>
                                                         <div data-id="0808fad"
+                                                             style="padding: 0px 50px 0px 50px;"
                                                              class="elementor-element elementor-element-0808fad elementor-column elementor-col-66 elementor-top-column"
                                                              data-element_type="column">
                                                             <div class="elementor-column-wrap elementor-element-populated">
