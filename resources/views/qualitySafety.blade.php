@@ -79,16 +79,16 @@
         }
     </style>
     <link rel='stylesheet' id='sydney-bootstrap-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/css/bootstrap/bootstrap.min.css?ver=1'
+          href='{{ url('wp-content/themes/sydney/css/bootstrap/bootstrap.min.css?ver=1') }}'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='contact-form-7-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2'
+          href='{{ url('wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2') }}'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='sydney-fonts-css'
           href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C400italic%2C600%7CRaleway%3A100%2C500%2C600'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='sydney-style-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/style.css?ver=20170504' type='text/css'
+          href='{{ url('wp-content/themes/sydney/style.css?ver=20170504') }}' type='text/css'
           media='all'/>
     <style id='sydney-style-inline-css' type='text/css'>
         .site-header {
@@ -331,24 +331,24 @@
 
     </style>
     <link rel='stylesheet' id='sydney-font-awesome-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/fonts/font-awesome.min.css?ver=4.9.2'
+          href='{{ url('wp-content/themes/sydney/fonts/font-awesome.min.css?ver=4.9.2') }}'
           type='text/css' media='all'/>
     <!--[if lte IE 9]>
     <link rel='stylesheet' id='sydney-ie9-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/css/ie9.css?ver=4.9.2' type='text/css'
+          href='{{ url('wp-content/themes/sydney/css/ie9.css?ver=4.9.2') }}' type='text/css'
           media='all'/>
     <![endif]-->
     <link rel='stylesheet' id='elementor-icons-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1.9.2'
+          href='{{ url('wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1.9.2') }}'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='font-awesome-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0'
+          href='{{ url('wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0') }}'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='elementor-animations-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/css/animations.min.css?ver=1.9.2'
+          href='{{ url('wp-content/plugins/elementor/assets/css/animations.min.css?ver=1.9.2') }}'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='elementor-frontend-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=1.9.2'
+          href='{{ url('wp-content/plugins/elementor/assets/css/frontend.min.css?ver=1.9.2') }}'
           type='text/css' media='all'/>
     <style id='elementor-frontend-inline-css' type='text/css'>
         .elementor-12 .elementor-element.elementor-element-9fd50a4 {
@@ -459,7 +459,7 @@
         }
     </style>
     <link rel='stylesheet' id='elementor-global-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/uploads/elementor/css/global.css?ver=1517034651'
+          href='{{ url('wp-content/uploads/elementor/css/global.css?ver=1517034651') }}'
           type='text/css' media='all'/>
     <script type='text/javascript'
             src='http://gawebsite.destellosolutions.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
@@ -498,14 +498,14 @@
     </style>
     <link rel="stylesheet" type="text/css"
           href="https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%7COpen+Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%7CRoboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic">
-    <link rel="icon" href="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/favicon-150x150.png"
+    <link rel="icon" href="{{ url('wp-content/uploads/2018/01/favicon-150x150.png') }}"
           sizes="32x32"/>
-    <link rel="icon" href="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/favicon-230x230.png"
+    <link rel="icon" href="{{ url('wp-content/uploads/2018/01/favicon-230x230.png') }}"
           sizes="192x192"/>
     <link rel="apple-touch-icon-precomposed"
-          href="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/favicon-230x230.png"/>
+          href="{{ url('wp-content/uploads/2018/01/favicon-230x230.png') }}"/>
     <meta name="msapplication-TileImage"
-          content="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/favicon.png"/>
+          content="{{ url('wp-content/uploads/2018/01/favicon.png') }}"/>
     <style type="text/css" id="wp-custom-css">
         .site-header {
             background-color: rgba(2,
@@ -565,7 +565,7 @@
         <div class="header-image">
             <div class="overlay"></div>
             <img class="header-inner"
-                 src="http://gawebsite.destellosolutions.com/wp-content/themes/sydney/images/header.jpg" width="1920"
+                 src="{{ url('wp-content/themes/sydney/images/header.jpg') }}" width="1920"
                  alt="G A Installation &amp; Maintenance Ltd" title="G A Installation &amp; Maintenance Ltd">
         </div>
 
@@ -913,23 +913,23 @@
     /* ]]> */
 </script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.2'></script>
+        src='{{ url('wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.2') }}'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/js/scripts.js?ver=4.9.2'></script>
+        src='{{ url('wp-content/themes/sydney/js/scripts.js?ver=4.9.2') }}'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/js/main.min.js?ver=20170504'></script>
+        src='{{ url('wp-content/themes/sydney/js/main.min.js?ver=20170504') }}'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/js/skip-link-focus-fix.js?ver=20130115'></script>
+        src='{{ url('wp-content/themes/sydney/js/skip-link-focus-fix.js?ver=20130115') }}'></script>
 <script type='text/javascript'
         src='http://gawebsite.destellosolutions.com/wp-includes/js/wp-embed.min.js?ver=4.9.2'></script>
 <script type='text/javascript'
         src='http://gawebsite.destellosolutions.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.1.0'></script>
+        src='{{ url('wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.1.0') }}'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+        src='{{ url('wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2') }}'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.jquery.min.js?ver=3.4.2'></script>
+        src='{{ url('wp-content/plugins/elementor/assets/lib/swiper/swiper.jquery.min.js?ver=3.4.2') }}'></script>
 <script type='text/javascript'>
     /* <![CDATA[ */
     var elementorFrontendConfig = {
@@ -945,7 +945,7 @@
     /* ]]> */
 </script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=1.9.2'></script>
+        src='{{ url('wp-content/plugins/elementor/assets/js/frontend.min.js?ver=1.9.2') }}'></script>
 
 </body>
 </html>

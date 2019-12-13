@@ -80,16 +80,16 @@
     </style>
 
     <link rel='stylesheet' id='sydney-bootstrap-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/css/bootstrap/bootstrap.min.css?ver=1'
+          href='{{ url('wp-content/themes/sydney/css/bootstrap/bootstrap.min.css?ver=1') }}'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='contact-form-7-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2'
+          href='{{ url('wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2') }}'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='sydney-fonts-css'
           href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C400italic%2C600%7CRaleway%3A100%2C500%2C600'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='sydney-style-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/style.css?ver=20170504' type='text/css'
+          href='{{ url('wp-content/themes/sydney/style.css?ver=20170504') }}' type='text/css'
           media='all'/>
     <style id='sydney-style-inline-css' type='text/css'>
         .site-header {
@@ -342,33 +342,33 @@
 
 
     <link rel='stylesheet' id='sydney-font-awesome-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/fonts/font-awesome.min.css?ver=4.9.2'
+          href='{{ url('wp-content/themes/sydney/fonts/font-awesome.min.css?ver=4.9.2') }}'
           type='text/css' media='all'/>
     <!--[if lte IE 9]>
     <link rel='stylesheet' id='sydney-ie9-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/css/ie9.css?ver=4.9.2' type='text/css'
+          href='{{ url('wp-content/themes/sydney/css/ie9.css?ver=4.9.2') }}' type='text/css'
           media='all'/>
     <![endif]-->
     <link rel='stylesheet' id='elementor-icons-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1.9.2'
+          href='{{ url('wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1.9.2') }}'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='font-awesome-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0'
+          href='{{ url('wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0') }}'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='elementor-animations-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/css/animations.min.css?ver=1.9.2'
+          href='{{ url('wp-content/plugins/elementor/assets/css/animations.min.css?ver=1.9.2') }}'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='elementor-frontend-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=1.9.2'
+          href='{{ url('wp-content/plugins/elementor/assets/css/frontend.min.css?ver=1.9.2') }}'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='elementor-global-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/uploads/elementor/css/global.css?ver=1517034651'
+          href='{{ url('wp-content/uploads/elementor/css/global.css?ver=1517034651') }}'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='elementor-post-8-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/uploads/elementor/css/post-8.css?ver=1532268144'
+          href='{{ url('wp-content/uploads/elementor/css/post-8.css?ver=1532268144') }}'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='wpgmaps-style-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/wp-google-maps/css/wpgmza_style.css?ver=6.4.09'
+          href='{{ url('wp-content/plugins/wp-google-maps/css/wpgmza_style.css?ver=6.4.09') }}'
           type='text/css' media='all'/>
     <script type='text/javascript'
             src='http://gawebsite.destellosolutions.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
@@ -395,14 +395,14 @@
     </style>
     <link rel="stylesheet" type="text/css"
           href="https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%7COpen+Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%7CRoboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic">
-    <link rel="icon" href="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/favicon-150x150.png"
+    <link rel="icon" href="{{ url('wp-content/uploads/2018/01/favicon-150x150.png') }}"
           sizes="32x32"/>
-    <link rel="icon" href="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/favicon-230x230.png"
+    <link rel="icon" href="{{ url('wp-content/uploads/2018/01/favicon-230x230.png') }}"
           sizes="192x192"/>
     <link rel="apple-touch-icon-precomposed"
-          href="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/favicon-230x230.png"/>
+          href="{{ url('wp-content/uploads/2018/01/favicon-230x230.png') }}"/>
     <meta name="msapplication-TileImage"
-          content="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/favicon.png"/>
+          content="{{ url('wp-content/uploads/2018/01/favicon.png') }}"/>
     <style type="text/css" id="wp-custom-css">
         .site-header {
             background-color: rgba(2,
@@ -463,7 +463,7 @@
         <div class="header-image">
             <div class="overlay"></div>
             <img class="header-inner"
-                 src="http://gawebsite.destellosolutions.com/wp-content/themes/sydney/images/header.jpg" width="1920"
+                 src="{{ url('wp-content/themes/sydney/images/header.jpg') }}" width="1920"
                  alt="G A Installation &amp; Maintenance Ltd" title="G A Installation &amp; Maintenance Ltd">
         </div>
 
@@ -1077,25 +1077,25 @@
                                                                                         <div class="carousel-inner">
                                                                                             <div class="carousel-item active">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-14-1024x683.jpg"
+                                                                                                     src="{{ url('wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-14-1024x683.jpg') }}"
                                                                                                      style="height: 300px"
                                                                                                      alt="First slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-4-1024x683.jpg"
+                                                                                                     src="{{ url('wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-4-1024x683.jpg') }}"
                                                                                                      style="height: 300px"
                                                                                                      alt="Second slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-2-1024x585.jpg"
+                                                                                                     src="{{ url('wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-2-1024x585.jpg') }}"
                                                                                                      style="height: 300px"
                                                                                                      alt="Third slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-11-688x1024.jpg"
+                                                                                                     src="{{ url('wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-11-688x1024.jpg') }}"
                                                                                                      style="height: 300px"
                                                                                                      alt="Third slide">
                                                                                             </div>
@@ -1271,13 +1271,13 @@
                                                                                         <div class="carousel-inner">
                                                                                             <div class="carousel-item active">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1-1024x685.jpg"
+                                                                                                     src="{{ url('wp-content/uploads/2018/07/1-1024x685.jpg') }}"
                                                                                                      style="height: 300px"
                                                                                                      alt="First slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12.jpg"
+                                                                                                     src="{{ url('wp-content/uploads/2018/07/12.jpg') }}"
                                                                                                      style="height: 300px"
                                                                                                      alt="Second slide">
                                                                                             </div>

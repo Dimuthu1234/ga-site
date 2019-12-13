@@ -163,17 +163,17 @@
                                              data-element_type="google_maps.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-custom-embed">
-
-                                                    <iframe
-                                                            {{--style="margin-top: 14%"--}}
-                                                            frameborder="0" scrolling="no"
+                                                    <iframe frameborder="0" scrolling="no"
+                                                            marginheight="0" marginwidth="0"
+                                                            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1803.6876528581204!2d51.5150431!3d25.2915917!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e45dad2fd7a3ea7%3A0x1c0784982b0b296d!2sAl+Khaleej+St%2C+Doha%2C+Qatar!5e0!3m2!1sen!2slk!4v1545210004036""></iframe>
+                                                    <!--<iframe frameborder="0" scrolling="no"
                                                             marginheight="0" marginwidth="0"
                                                             {{--src="https://maps.google.com/maps?q=G%20A%20Installation%20%26%20Maintenance%20Qatar&amp;t=m&amp;z=50&amp;output=embed&amp;iwloc=near"--}}
                                                             src="{{ url('/images/qatarmap.png') }}"
                                                      {{--style="background-image: url({{url('/images/qatarmap.png') }});"--}}
                                                     >
 
-                                                    </iframe>
+                                                    </iframe>-->
                                                 </div>
                                             </div>
                                         </div>
