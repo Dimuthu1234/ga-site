@@ -21,7 +21,7 @@
             "ext": ".png",
             "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/",
             "svgExt": ".svg",
-            "source": {"concatemoji": "http:\/\/localhost.gawebsite\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}
+            "source": {"concatemoji": "http:\/\/gawebsite.helpforeach.info\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}
         };
         !function (a, b, c) {
             function d(a, b) {
@@ -368,9 +368,9 @@
     <link rel="canonical" href="https://gawebsite.helpforeach.info/"/>
     <link rel='shortlink' href='https://gawebsite.helpforeach.info/'/>
     <link rel="alternate" type="application/json+oembed"
-          href="https://gawebsite.helpforeach.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost.gawebsite%2F"/>
+          href="https://gawebsite.helpforeach.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgawebsite.helpforeach.info%2F"/>
     <link rel="alternate" type="text/xml+oembed"
-          href="https://gawebsite.helpforeach.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost.gawebsite%2F&#038;format=xml"/>
+          href="https://gawebsite.helpforeach.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgawebsite.helpforeach.info%2F&#038;format=xml"/>
     <style type="text/css" id="custom-background-css">
         /*body.custom-background {*/
         /*background-color: #182d51;*/
@@ -974,7 +974,7 @@
     /* <![CDATA[ */
     var wpcf7 = {
         "apiSettings": {
-            "root": "http:\/\/localhost.gawebsite\/wp-json\/contact-form-7\/v1",
+            "root": "http:\/\/gawebsite.helpforeach.info\/wp-json\/contact-form-7\/v1",
             "namespace": "contact-form-7\/v1"
         }, "recaptcha": {"messages": {"empty": "Please verify that you are not a robot."}}
     };
@@ -1009,7 +1009,7 @@
             "general": {"elementor_global_image_lightbox": "yes", "elementor_enable_lightbox_in_editor": "yes"}
         },
         "is_rtl": "",
-        "urls": {"assets": "http:\/\/localhost.gawebsite\/wp-content\/plugins\/elementor\/assets\/"},
+        "urls": {"assets": "http:\/\/gawebsite.helpforeach.info\/wp-content\/plugins\/elementor\/assets\/"},
         "post": {"id": 6, "title": "Home", "excerpt": ""}
     };
     /* ]]> */
@@ -1044,7 +1044,7 @@
 {{--"ext": ".png",--}}
 {{--"svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/",--}}
 {{--"svgExt": ".svg",--}}
-{{--"source": {"concatemoji": "http:\/\/localhost.gawebsite\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}--}}
+{{--"source": {"concatemoji": "http:\/\/gawebsite.helpforeach.info\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}--}}
 {{--};--}}
 {{--!function (a, b, c) {--}}
 {{--function d(a, b) {--}}
@@ -1392,9 +1392,9 @@
 {{--<link rel="canonical" href="https://gawebsite.helpforeach.info/about/"/>--}}
 {{--<link rel='shortlink' href='https://gawebsite.helpforeach.info/?p=64'/>--}}
 {{--<link rel="alternate" type="application/json+oembed"--}}
-{{--href="https://gawebsite.helpforeach.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost.gawebsite%2Fabout%2F"/>--}}
+{{--href="https://gawebsite.helpforeach.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgawebsite.helpforeach.info%2Fabout%2F"/>--}}
 {{--<link rel="alternate" type="text/xml+oembed"--}}
-{{--href="https://gawebsite.helpforeach.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost.gawebsite%2Fabout%2F&#038;format=xml"/>--}}
+{{--href="https://gawebsite.helpforeach.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgawebsite.helpforeach.info%2Fabout%2F&#038;format=xml"/>--}}
 {{--<style type="text/css" id="custom-background-css">--}}
 {{--body.custom-background {--}}
 {{--background-color: #182d51;--}}
@@ -1670,7 +1670,7 @@
 {{--/* <![CDATA[ */--}}
 {{--var wpcf7 = {--}}
 {{--"apiSettings": {--}}
-{{--"root": "http:\/\/localhost.gawebsite\/wp-json\/contact-form-7\/v1",--}}
+{{--"root": "http:\/\/gawebsite.helpforeach.info\/wp-json\/contact-form-7\/v1",--}}
 {{--"namespace": "contact-form-7\/v1"--}}
 {{--}, "recaptcha": {"messages": {"empty": "Please verify that you are not a robot."}}--}}
 {{--};--}}
@@ -1703,7 +1703,7 @@
 {{--"general": {"elementor_global_image_lightbox": "yes", "elementor_enable_lightbox_in_editor": "yes"}--}}
 {{--},--}}
 {{--"is_rtl": "",--}}
-{{--"urls": {"assets": "http:\/\/localhost.gawebsite\/wp-content\/plugins\/elementor\/assets\/"},--}}
+{{--"urls": {"assets": "http:\/\/gawebsite.helpforeach.info\/wp-content\/plugins\/elementor\/assets\/"},--}}
 {{--"post": {"id": 64, "title": "About", "excerpt": ""}--}}
 {{--};--}}
 {{--/* ]]> */--}}

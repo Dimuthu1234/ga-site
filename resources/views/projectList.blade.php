@@ -21,7 +21,7 @@
             "ext": ".png",
             "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/",
             "svgExt": ".svg",
-            "source": {"concatemoji": "http:\/\/localhost.gawebsite\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}
+            "source": {"concatemoji": "http:\/\/gawebsite.helpforeach.info\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}
         };
         !function (a, b, c) {
             function d(a, b) {
@@ -84,6 +84,7 @@
           type='text/css' media='all'/>
     <link rel='stylesheet' id='contact-form-7-css'
           href='https://gawebsite.helpforeach.info/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2'
+
           type='text/css' media='all'/>
     <link rel='stylesheet' id='sydney-fonts-css'
           href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C400italic%2C600%7CRaleway%3A100%2C500%2C600'
@@ -385,9 +386,9 @@
     <link rel="canonical" href="https://gawebsite.helpforeach.info/project-list/"/>
     <link rel='shortlink' href='https://gawebsite.helpforeach.info/?p=8'/>
     <link rel="alternate" type="application/json+oembed"
-          href="https://gawebsite.helpforeach.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost.gawebsite%2Fproject-list%2F"/>
+          href="https://gawebsite.helpforeach.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgawebsite.helpforeach.info%2Fproject-list%2F"/>
     <link rel="alternate" type="text/xml+oembed"
-          href="https://gawebsite.helpforeach.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost.gawebsite%2Fproject-list%2F&#038;format=xml"/>
+          href="https://gawebsite.helpforeach.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgawebsite.helpforeach.info%2Fproject-list%2F&#038;format=xml"/>
     <style type="text/css" id="custom-background-css">
         body.custom-background {
             background-color: #182d51;
@@ -464,6 +465,7 @@
             <div class="overlay"></div>
             <img class="header-inner"
                  src="https://gawebsite.helpforeach.info/wp-content/themes/sydney/images/header.jpg" width="1920"
+
                  alt="G A Installation &amp; Maintenance Ltd" title="G A Installation &amp; Maintenance Ltd">
         </div>
 
@@ -1077,25 +1079,32 @@
                                                                                         <div class="carousel-inner">
                                                                                             <div class="carousel-item active">
                                                                                                 <img class="d-block w-100"
+
                                                                                                      src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-14-1024x683.jpg"
+
                                                                                                      style="height: 300px"
                                                                                                      alt="First slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
                                                                                                      src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-4-1024x683.jpg"
+
                                                                                                      style="height: 300px"
                                                                                                      alt="Second slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
+
                                                                                                      src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-2-1024x585.jpg"
+
                                                                                                      style="height: 300px"
                                                                                                      alt="Third slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
+
                                                                                                      src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-11-688x1024.jpg"
+
                                                                                                      style="height: 300px"
                                                                                                      alt="Third slide">
                                                                                             </div>
@@ -1271,13 +1280,17 @@
                                                                                         <div class="carousel-inner">
                                                                                             <div class="carousel-item active">
                                                                                                 <img class="d-block w-100"
+
                                                                                                      src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1-1024x685.jpg"
+
                                                                                                      style="height: 300px"
                                                                                                      alt="First slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
+
                                                                                                      src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12.jpg"
+
                                                                                                      style="height: 300px"
                                                                                                      alt="Second slide">
                                                                                             </div>
@@ -2891,7 +2904,7 @@
     /* <![CDATA[ */
     var wpcf7 = {
         "apiSettings": {
-            "root": "http:\/\/localhost.gawebsite\/wp-json\/contact-form-7\/v1",
+            "root": "http:\/\/gawebsite.helpforeach.info\/wp-json\/contact-form-7\/v1",
             "namespace": "contact-form-7\/v1"
         }, "recaptcha": {"messages": {"empty": "Please verify that you are not a robot."}}
     };
@@ -2968,7 +2981,7 @@
 {{--};--}}
 {{--var wpgmaps_localize_polygon_settings = [];--}}
 {{--var wpgmaps_localize_polyline_settings = [];--}}
-{{--var wpgmaps_markerurl = "\/\/localhost.gawebsite\/wp-content\/uploads\/wp-google-maps\/1markers.xml";--}}
+{{--var wpgmaps_markerurl = "\/\/gawebsite.helpforeach.info\/wp-content\/uploads\/wp-google-maps\/1markers.xml";--}}
 {{--var wpgmaps_localize_marker_data = {--}}
 {{--"2": {--}}
 {{--"map_id": "1",--}}
@@ -3157,7 +3170,7 @@
             "general": {"elementor_global_image_lightbox": "yes", "elementor_enable_lightbox_in_editor": "yes"}
         },
         "is_rtl": "",
-        "urls": {"assets": "http:\/\/localhost.gawebsite\/wp-content\/plugins\/elementor\/assets\/"},
+        "urls": {"assets": "http:\/\/gawebsite.helpforeach.info\/wp-content\/plugins\/elementor\/assets\/"},
         "post": {"id": 8, "title": "Project List", "excerpt": ""}
     };
     /* ]]> */
