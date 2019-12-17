@@ -4,24 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="http://gmpg.org/xfn/11">
-    <link rel="pingback" href="http://gawebsite.destellosolutions.com/xmlrpc.php">
+    <link rel="pingback" href="https://gawebsite.helpforeach.info/xmlrpc.php">
 
     <title>G A Installation &amp; Maintenance Ltd</title>
     <meta name='robots' content='noindex,follow'/>
     <link rel='dns-prefetch' href='//fonts.googleapis.com'/>
     <link rel='dns-prefetch' href='//s.w.org'/>
     <link rel="alternate" type="application/rss+xml" title="G A Installation &amp; Maintenance Ltd &raquo; Feed"
-          href="http://gawebsite.destellosolutions.com/feed/"/>
+          href="https://gawebsite.helpforeach.info/feed/"/>
     <link rel="alternate" type="application/rss+xml"
           title="G A Installation &amp; Maintenance Ltd &raquo; Comments Feed"
-          href="http://gawebsite.destellosolutions.com/comments/feed/"/>
+          href="https://gawebsite.helpforeach.info/comments/feed/"/>
     <script type="text/javascript">
         window._wpemojiSettings = {
             "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/",
             "ext": ".png",
             "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/",
             "svgExt": ".svg",
-            "source": {"concatemoji": "http:\/\/gawebsite.destellosolutions.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}
+            "source": {"concatemoji": "http:\/\/localhost.gawebsite\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}
         };
         !function (a, b, c) {
             function d(a, b) {
@@ -81,16 +81,16 @@
     {{--<script src="{{ asset('js/app.js') }}" defer></script>--}}
 
     <link rel='stylesheet' id='sydney-bootstrap-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/css/bootstrap/bootstrap.min.css?ver=1'
+          href='https://gawebsite.helpforeach.info/wp-content/themes/sydney/css/bootstrap/bootstrap.min.css?ver=1'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='contact-form-7-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2'
+          href='https://gawebsite.helpforeach.info/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='sydney-fonts-css'
           href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C400italic%2C600%7CRaleway%3A100%2C500%2C600'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='sydney-style-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/style.css?ver=20170504' type='text/css'
+          href='https://gawebsite.helpforeach.info/wp-content/themes/sydney/style.css?ver=20170504' type='text/css'
           media='all'/>
 
     <style id='sydney-style-inline-css' type='text/css'>
@@ -330,47 +330,47 @@
 
     </style>
     <link rel='stylesheet' id='sydney-font-awesome-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/fonts/font-awesome.min.css?ver=4.9.2'
+          href='https://gawebsite.helpforeach.info/wp-content/themes/sydney/fonts/font-awesome.min.css?ver=4.9.2'
           type='text/css' media='all'/>
     <!--[if lte IE 9]>
     <link rel='stylesheet' id='sydney-ie9-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/css/ie9.css?ver=4.9.2' type='text/css'
+          href='https://gawebsite.helpforeach.info/wp-content/themes/sydney/css/ie9.css?ver=4.9.2' type='text/css'
           media='all'/>
     <![endif]-->
     <link rel='stylesheet' id='elementor-icons-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1.9.2'
+          href='https://gawebsite.helpforeach.info/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1.9.2'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='font-awesome-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0'
+          href='https://gawebsite.helpforeach.info/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='elementor-animations-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/css/animations.min.css?ver=1.9.2'
+          href='https://gawebsite.helpforeach.info/wp-content/plugins/elementor/assets/css/animations.min.css?ver=1.9.2'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='elementor-frontend-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=1.9.2'
+          href='https://gawebsite.helpforeach.info/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=1.9.2'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='elementor-global-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/uploads/elementor/css/global.css?ver=1517034651'
+          href='https://gawebsite.helpforeach.info/wp-content/uploads/elementor/css/global.css?ver=1517034651'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='elementor-post-6-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/uploads/elementor/css/post-6.css?ver=1525761480'
+          href='https://gawebsite.helpforeach.info/wp-content/uploads/elementor/css/post-6.css?ver=1525761480'
           type='text/css' media='all'/>
     <script type='text/javascript'
-            src='http://gawebsite.destellosolutions.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+            src='https://gawebsite.helpforeach.info/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
     <script type='text/javascript'
-            src='http://gawebsite.destellosolutions.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-    <link rel='https://api.w.org/' href='http://gawebsite.destellosolutions.com/wp-json/'/>
+            src='https://gawebsite.helpforeach.info/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+    <link rel='https://api.w.org/' href='https://gawebsite.helpforeach.info/wp-json/'/>
     <link rel="EditURI" type="application/rsd+xml" title="RSD"
-          href="http://gawebsite.destellosolutions.com/xmlrpc.php?rsd"/>
+          href="https://gawebsite.helpforeach.info/xmlrpc.php?rsd"/>
     <link rel="wlwmanifest" type="application/wlwmanifest+xml"
-          href="http://gawebsite.destellosolutions.com/wp-includes/wlwmanifest.xml"/>
+          href="https://gawebsite.helpforeach.info/wp-includes/wlwmanifest.xml"/>
     <meta name="generator" content="WordPress 4.9.2"/>
-    <link rel="canonical" href="http://gawebsite.destellosolutions.com/"/>
-    <link rel='shortlink' href='http://gawebsite.destellosolutions.com/'/>
+    <link rel="canonical" href="https://gawebsite.helpforeach.info/"/>
+    <link rel='shortlink' href='https://gawebsite.helpforeach.info/'/>
     <link rel="alternate" type="application/json+oembed"
-          href="http://gawebsite.destellosolutions.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgawebsite.destellosolutions.com%2F"/>
+          href="https://gawebsite.helpforeach.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost.gawebsite%2F"/>
     <link rel="alternate" type="text/xml+oembed"
-          href="http://gawebsite.destellosolutions.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgawebsite.destellosolutions.com%2F&#038;format=xml"/>
+          href="https://gawebsite.helpforeach.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost.gawebsite%2F&#038;format=xml"/>
     <style type="text/css" id="custom-background-css">
         body.custom-background {
             background-color: #182d51;
@@ -378,14 +378,14 @@
     </style>
     <link rel="stylesheet" type="text/css"
           href="https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%7COpen+Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%7CRoboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic">
-    <link rel="icon" href="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/favicon-150x150.png"
+    <link rel="icon" href="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/favicon-150x150.png"
           sizes="32x32"/>
-    <link rel="icon" href="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/favicon-230x230.png"
+    <link rel="icon" href="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/favicon-230x230.png"
           sizes="192x192"/>
     <link rel="apple-touch-icon-precomposed"
-          href="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/favicon-230x230.png"/>
+          href="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/favicon-230x230.png"/>
     <meta name="msapplication-TileImage"
-          content="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/favicon.png"/>
+          content="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/favicon.png"/>
     <style type="text/css" id="wp-custom-css">
         .site-header {
             background-color: rgba(2,
@@ -516,7 +516,7 @@
         <div class="header-image">
             <div class="overlay"></div>
             <img class="header-inner"
-                 src="http://gawebsite.destellosolutions.com/wp-content/themes/sydney/images/header.jpg" width="1920"
+                 src="https://gawebsite.helpforeach.info/wp-content/themes/sydney/images/header.jpg" width="1920"
                  alt="G A Installation &amp; Maintenance Ltd" title="G A Installation &amp; Maintenance Ltd">
         </div>
 
@@ -668,21 +668,21 @@
                                                                                     {{--<div class="slick-slide">--}}
                                                                                         {{--<figure class="slick-slide-inner">--}}
                                                                                             {{--<img class="slick-slide-image"--}}
-                                                                                                 {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-18-1.jpg"--}}
+                                                                                                 {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-18-1.jpg"--}}
                                                                                                  {{--alt="Versatile Installation"/>--}}
                                                                                         {{--</figure>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--<div class="slick-slide">--}}
                                                                                         {{--<figure class="slick-slide-inner">--}}
                                                                                             {{--<img class="slick-slide-image"--}}
-                                                                                                 {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-19-1.jpg"--}}
+                                                                                                 {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-19-1.jpg"--}}
                                                                                                  {{--alt="Versatile Installation"/>--}}
                                                                                         {{--</figure>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--<div class="slick-slide">--}}
                                                                                         {{--<figure class="slick-slide-inner">--}}
                                                                                             {{--<img class="slick-slide-image"--}}
-                                                                                                 {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-20.jpg"--}}
+                                                                                                 {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-20.jpg"--}}
                                                                                                  {{--alt="Versatile Installation"/>--}}
                                                                                         {{--</figure>--}}
                                                                                     {{--</div>--}}
@@ -737,14 +737,14 @@
                                                                                     {{--<div class="slick-slide">--}}
                                                                                         {{--<figure class="slick-slide-inner">--}}
                                                                                             {{--<img class="slick-slide-image"--}}
-                                                                                                 {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/DSC_0911.jpg"--}}
+                                                                                                 {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/DSC_0911.jpg"--}}
                                                                                                  {{--alt="Roof Mock up"/>--}}
                                                                                         {{--</figure>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--<div class="slick-slide">--}}
                                                                                         {{--<figure class="slick-slide-inner">--}}
                                                                                             {{--<img class="slick-slide-image"--}}
-                                                                                                 {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/DSC_0912.jpg"--}}
+                                                                                                 {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/DSC_0912.jpg"--}}
                                                                                                  {{--alt="Roof Mock up"/>--}}
                                                                                         {{--</figure>--}}
                                                                                     {{--</div>--}}
@@ -799,21 +799,21 @@
                                                                                     {{--<div class="slick-slide">--}}
                                                                                         {{--<figure class="slick-slide-inner">--}}
                                                                                             {{--<img class="slick-slide-image"--}}
-                                                                                                 {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/DSC_0852.jpg"--}}
+                                                                                                 {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/DSC_0852.jpg"--}}
                                                                                                  {{--alt="skilled team"/>--}}
                                                                                         {{--</figure>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--<div class="slick-slide">--}}
                                                                                         {{--<figure class="slick-slide-inner">--}}
                                                                                             {{--<img class="slick-slide-image"--}}
-                                                                                                 {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-24.jpg"--}}
+                                                                                                 {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Blavatnik@Trevor-Palin-24.jpg"--}}
                                                                                                  {{--alt="skilled team"/>--}}
                                                                                         {{--</figure>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--<div class="slick-slide">--}}
                                                                                         {{--<figure class="slick-slide-inner">--}}
                                                                                             {{--<img class="slick-slide-image"--}}
-                                                                                                 {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/DSC_0402.jpg"--}}
+                                                                                                 {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/DSC_0402.jpg"--}}
                                                                                                  {{--alt="skilled team"/>--}}
                                                                                         {{--</figure>--}}
                                                                                     {{--</div>--}}
@@ -862,32 +862,32 @@
     /* <![CDATA[ */
     var wpcf7 = {
         "apiSettings": {
-            "root": "http:\/\/gawebsite.destellosolutions.com\/wp-json\/contact-form-7\/v1",
+            "root": "http:\/\/localhost.gawebsite\/wp-json\/contact-form-7\/v1",
             "namespace": "contact-form-7\/v1"
         }, "recaptcha": {"messages": {"empty": "Please verify that you are not a robot."}}
     };
     /* ]]> */
 </script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.2'></script>
+        src='https://gawebsite.helpforeach.info/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.2'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/js/scripts.js?ver=4.9.2'></script>
+        src='https://gawebsite.helpforeach.info/wp-content/themes/sydney/js/scripts.js?ver=4.9.2'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/js/main.min.js?ver=20170504'></script>
+        src='https://gawebsite.helpforeach.info/wp-content/themes/sydney/js/main.min.js?ver=20170504'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/js/skip-link-focus-fix.js?ver=20130115'></script>
+        src='https://gawebsite.helpforeach.info/wp-content/themes/sydney/js/skip-link-focus-fix.js?ver=20130115'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-includes/js/wp-embed.min.js?ver=4.9.2'></script>
+        src='https://gawebsite.helpforeach.info/wp-includes/js/wp-embed.min.js?ver=4.9.2'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/lib/slick/slick.min.js?ver=1.6.0'></script>
+        src='https://gawebsite.helpforeach.info/wp-content/plugins/elementor/assets/lib/slick/slick.min.js?ver=1.6.0'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+        src='https://gawebsite.helpforeach.info/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.1.0'></script>
+        src='https://gawebsite.helpforeach.info/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.1.0'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+        src='https://gawebsite.helpforeach.info/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.jquery.min.js?ver=3.4.2'></script>
+        src='https://gawebsite.helpforeach.info/wp-content/plugins/elementor/assets/lib/swiper/swiper.jquery.min.js?ver=3.4.2'></script>
 <script type='text/javascript'>
     /* <![CDATA[ */
     var elementorFrontendConfig = {
@@ -897,13 +897,13 @@
             "general": {"elementor_global_image_lightbox": "yes", "elementor_enable_lightbox_in_editor": "yes"}
         },
         "is_rtl": "",
-        "urls": {"assets": "http:\/\/gawebsite.destellosolutions.com\/wp-content\/plugins\/elementor\/assets\/"},
+        "urls": {"assets": "http:\/\/localhost.gawebsite\/wp-content\/plugins\/elementor\/assets\/"},
         "post": {"id": 6, "title": "Home", "excerpt": ""}
     };
     /* ]]> */
 </script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=1.9.2'></script>
+        src='https://gawebsite.helpforeach.info/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=1.9.2'></script>
 
 </body>
 </html>

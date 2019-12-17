@@ -4,24 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="http://gmpg.org/xfn/11">
-    <link rel="pingback" href="http://gawebsite.destellosolutions.com/xmlrpc.php">
+    <link rel="pingback" href="https://gawebsite.helpforeach.info/xmlrpc.php">
 
     <title>Project List &#8211; G A Installation &amp; Maintenance Ltd</title>
     <meta name='robots' content='noindex,follow'/>
     <link rel='dns-prefetch' href='//fonts.googleapis.com'/>
     <link rel='dns-prefetch' href='//s.w.org'/>
     <link rel="alternate" type="application/rss+xml" title="G A Installation &amp; Maintenance Ltd &raquo; Feed"
-          href="http://gawebsite.destellosolutions.com/feed/"/>
+          href="https://gawebsite.helpforeach.info/feed/"/>
     <link rel="alternate" type="application/rss+xml"
           title="G A Installation &amp; Maintenance Ltd &raquo; Comments Feed"
-          href="http://gawebsite.destellosolutions.com/comments/feed/"/>
+          href="https://gawebsite.helpforeach.info/comments/feed/"/>
     <script type="text/javascript">
         window._wpemojiSettings = {
             "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/",
             "ext": ".png",
             "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/",
             "svgExt": ".svg",
-            "source": {"concatemoji": "http:\/\/gawebsite.destellosolutions.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}
+            "source": {"concatemoji": "http:\/\/localhost.gawebsite\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}
         };
         !function (a, b, c) {
             function d(a, b) {
@@ -80,16 +80,16 @@
     </style>
 
     <link rel='stylesheet' id='sydney-bootstrap-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/css/bootstrap/bootstrap.min.css?ver=1'
+          href='https://gawebsite.helpforeach.info/wp-content/themes/sydney/css/bootstrap/bootstrap.min.css?ver=1'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='contact-form-7-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2'
+          href='https://gawebsite.helpforeach.info/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='sydney-fonts-css'
           href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C400italic%2C600%7CRaleway%3A100%2C500%2C600'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='sydney-style-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/style.css?ver=20170504' type='text/css'
+          href='https://gawebsite.helpforeach.info/wp-content/themes/sydney/style.css?ver=20170504' type='text/css'
           media='all'/>
     <style id='sydney-style-inline-css' type='text/css'>
         .site-header {
@@ -342,52 +342,52 @@
 
 
     <link rel='stylesheet' id='sydney-font-awesome-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/fonts/font-awesome.min.css?ver=4.9.2'
+          href='https://gawebsite.helpforeach.info/wp-content/themes/sydney/fonts/font-awesome.min.css?ver=4.9.2'
           type='text/css' media='all'/>
     <!--[if lte IE 9]>
     <link rel='stylesheet' id='sydney-ie9-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/css/ie9.css?ver=4.9.2' type='text/css'
+          href='https://gawebsite.helpforeach.info/wp-content/themes/sydney/css/ie9.css?ver=4.9.2' type='text/css'
           media='all'/>
     <![endif]-->
     <link rel='stylesheet' id='elementor-icons-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1.9.2'
+          href='https://gawebsite.helpforeach.info/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1.9.2'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='font-awesome-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0'
+          href='https://gawebsite.helpforeach.info/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='elementor-animations-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/css/animations.min.css?ver=1.9.2'
+          href='https://gawebsite.helpforeach.info/wp-content/plugins/elementor/assets/css/animations.min.css?ver=1.9.2'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='elementor-frontend-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=1.9.2'
+          href='https://gawebsite.helpforeach.info/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=1.9.2'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='elementor-global-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/uploads/elementor/css/global.css?ver=1517034651'
+          href='https://gawebsite.helpforeach.info/wp-content/uploads/elementor/css/global.css?ver=1517034651'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='elementor-post-8-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/uploads/elementor/css/post-8.css?ver=1532268144'
+          href='https://gawebsite.helpforeach.info/wp-content/uploads/elementor/css/post-8.css?ver=1532268144'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='wpgmaps-style-css'
-          href='http://gawebsite.destellosolutions.com/wp-content/plugins/wp-google-maps/css/wpgmza_style.css?ver=6.4.09'
+          href='https://gawebsite.helpforeach.info/wp-content/plugins/wp-google-maps/css/wpgmza_style.css?ver=6.4.09'
           type='text/css' media='all'/>
     <script type='text/javascript'
-            src='http://gawebsite.destellosolutions.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+            src='https://gawebsite.helpforeach.info/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
     <script type='text/javascript'
-            src='http://gawebsite.destellosolutions.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+            src='https://gawebsite.helpforeach.info/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 
 
-    <link rel='https://api.w.org/' href='http://gawebsite.destellosolutions.com/wp-json/'/>
+    <link rel='https://api.w.org/' href='https://gawebsite.helpforeach.info/wp-json/'/>
     <link rel="EditURI" type="application/rsd+xml" title="RSD"
-          href="http://gawebsite.destellosolutions.com/xmlrpc.php?rsd"/>
+          href="https://gawebsite.helpforeach.info/xmlrpc.php?rsd"/>
     <link rel="wlwmanifest" type="application/wlwmanifest+xml"
-          href="http://gawebsite.destellosolutions.com/wp-includes/wlwmanifest.xml"/>
+          href="https://gawebsite.helpforeach.info/wp-includes/wlwmanifest.xml"/>
     <meta name="generator" content="WordPress 4.9.2"/>
-    <link rel="canonical" href="http://gawebsite.destellosolutions.com/project-list/"/>
-    <link rel='shortlink' href='http://gawebsite.destellosolutions.com/?p=8'/>
+    <link rel="canonical" href="https://gawebsite.helpforeach.info/project-list/"/>
+    <link rel='shortlink' href='https://gawebsite.helpforeach.info/?p=8'/>
     <link rel="alternate" type="application/json+oembed"
-          href="http://gawebsite.destellosolutions.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgawebsite.destellosolutions.com%2Fproject-list%2F"/>
+          href="https://gawebsite.helpforeach.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost.gawebsite%2Fproject-list%2F"/>
     <link rel="alternate" type="text/xml+oembed"
-          href="http://gawebsite.destellosolutions.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgawebsite.destellosolutions.com%2Fproject-list%2F&#038;format=xml"/>
+          href="https://gawebsite.helpforeach.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost.gawebsite%2Fproject-list%2F&#038;format=xml"/>
     <style type="text/css" id="custom-background-css">
         body.custom-background {
             background-color: #182d51;
@@ -395,14 +395,14 @@
     </style>
     <link rel="stylesheet" type="text/css"
           href="https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%7COpen+Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%7CRoboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic">
-    <link rel="icon" href="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/favicon-150x150.png"
+    <link rel="icon" href="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/favicon-150x150.png"
           sizes="32x32"/>
-    <link rel="icon" href="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/favicon-230x230.png"
+    <link rel="icon" href="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/favicon-230x230.png"
           sizes="192x192"/>
     <link rel="apple-touch-icon-precomposed"
-          href="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/favicon-230x230.png"/>
+          href="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/favicon-230x230.png"/>
     <meta name="msapplication-TileImage"
-          content="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/favicon.png"/>
+          content="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/favicon.png"/>
     <style type="text/css" id="wp-custom-css">
         .site-header {
             background-color: rgba(2,
@@ -463,7 +463,7 @@
         <div class="header-image">
             <div class="overlay"></div>
             <img class="header-inner"
-                 src="http://gawebsite.destellosolutions.com/wp-content/themes/sydney/images/header.jpg" width="1920"
+                 src="https://gawebsite.helpforeach.info/wp-content/themes/sydney/images/header.jpg" width="1920"
                  alt="G A Installation &amp; Maintenance Ltd" title="G A Installation &amp; Maintenance Ltd">
         </div>
 
@@ -1077,25 +1077,25 @@
                                                                                         <div class="carousel-inner">
                                                                                             <div class="carousel-item active">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-14-1024x683.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-14-1024x683.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="First slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-4-1024x683.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-4-1024x683.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="Second slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-2-1024x585.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-2-1024x585.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="Third slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-11-688x1024.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/Blavatnik@Trevor-Palin-11-688x1024.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="Third slide">
                                                                                             </div>
@@ -1271,31 +1271,31 @@
                                                                                         <div class="carousel-inner">
                                                                                             <div class="carousel-item active">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1-1024x685.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1-1024x685.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="First slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="Second slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/123.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/123.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="Third slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1234.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1234.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="Third slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12345.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12345.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="Third slide">
                                                                                             </div>
@@ -1324,13 +1324,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="fb1de22"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1.jpg'><img--}}
                                                                                     {{--width="1024"--}}
                                                                                     {{--height="685"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1-1024x685.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1-1024x685.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt=""--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1-1024x685.jpg 1024w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1-300x201.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1-768x514.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1-830x555.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1-230x154.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1-350x234.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1-480x321.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1.jpg 1094w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1-1024x685.jpg 1024w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1-300x201.jpg 300w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1-768x514.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1-830x555.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1-230x154.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1-350x234.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1-480x321.jpg 480w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1.jpg 1094w"--}}
                                                                                     {{--sizes="(max-width: 1024px) 100vw, 1024px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -1339,13 +1339,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="fb1de22"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12.jpg'><img--}}
                                                                                     {{--width="629"--}}
                                                                                     {{--height="578"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt=""--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12.jpg 629w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12-300x276.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12-230x211.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12-350x322.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12-480x441.jpg 480w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12.jpg 629w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12-300x276.jpg 300w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12-230x211.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12-350x322.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12-480x441.jpg 480w"--}}
                                                                                     {{--sizes="(max-width: 629px) 100vw, 629px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -1354,13 +1354,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="fb1de22"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/123.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/123.jpg'><img--}}
                                                                                     {{--width="667"--}}
                                                                                     {{--height="575"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/123.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/123.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt=""--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/123.jpg 667w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/123-300x259.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/123-230x198.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/123-350x302.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/123-480x414.jpg 480w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/123.jpg 667w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/123-300x259.jpg 300w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/123-230x198.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/123-350x302.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/123-480x414.jpg 480w"--}}
                                                                                     {{--sizes="(max-width: 667px) 100vw, 667px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -1369,13 +1369,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="fb1de22"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1234.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1234.jpg'><img--}}
                                                                                     {{--width="504"--}}
                                                                                     {{--height="753"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1234.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1234.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt=""--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1234.jpg 504w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1234-201x300.jpg 201w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1234-230x344.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1234-350x523.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1234-480x717.jpg 480w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1234.jpg 504w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1234-201x300.jpg 201w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1234-230x344.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1234-350x523.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1234-480x717.jpg 480w"--}}
                                                                                     {{--sizes="(max-width: 504px) 100vw, 504px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -1384,13 +1384,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="fb1de22"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12345.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12345.jpg'><img--}}
                                                                                     {{--width="755"--}}
                                                                                     {{--height="503"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12345.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12345.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt=""--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12345.jpg 755w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12345-300x200.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12345-230x153.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12345-350x233.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12345-480x320.jpg 480w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12345.jpg 755w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12345-300x200.jpg 300w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12345-230x153.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12345-350x233.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12345-480x320.jpg 480w"--}}
                                                                                     {{--sizes="(max-width: 755px) 100vw, 755px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -1430,19 +1430,19 @@
                                                                                         <div class="carousel-inner">
                                                                                             <div class="carousel-item active">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1-683x1024.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1-683x1024.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="First slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-3-683x1024.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-3-683x1024.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="Second slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-2-683x1024.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-2-683x1024.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="Third slide">
                                                                                             </div>
@@ -1471,13 +1471,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="2b105cb"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1.jpg'><img--}}
                                                                                     {{--width="683"--}}
                                                                                     {{--height="1024"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1-683x1024.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1-683x1024.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt=""--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1-683x1024.jpg 683w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1-200x300.jpg 200w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1-768x1152.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1-830x1245.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1-230x345.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1-350x525.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1-480x720.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1.jpg 1067w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1-683x1024.jpg 683w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1-200x300.jpg 200w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1-768x1152.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1-830x1245.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1-230x345.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1-350x525.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1-480x720.jpg 480w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-6-1.jpg 1067w"--}}
                                                                                     {{--sizes="(max-width: 683px) 100vw, 683px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -1486,13 +1486,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="2b105cb"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-3.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-3.jpg'><img--}}
                                                                                     {{--width="683"--}}
                                                                                     {{--height="1024"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-3-683x1024.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-3-683x1024.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt="The Place, London Bridge"--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-3-683x1024.jpg 683w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-3-200x300.jpg 200w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-3-768x1152.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-3-830x1245.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-3-230x345.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-3-350x525.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-3-480x720.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-3.jpg 1067w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-3-683x1024.jpg 683w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-3-200x300.jpg 200w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-3-768x1152.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-3-830x1245.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-3-230x345.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-3-350x525.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-3-480x720.jpg 480w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-3.jpg 1067w"--}}
                                                                                     {{--sizes="(max-width: 683px) 100vw, 683px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -1501,13 +1501,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="2b105cb"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-2.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-2.jpg'><img--}}
                                                                                     {{--width="683"--}}
                                                                                     {{--height="1024"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-2-683x1024.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-2-683x1024.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt=""--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-2-683x1024.jpg 683w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-2-200x300.jpg 200w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-2-768x1152.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-2-830x1245.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-2-230x345.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-2-350x525.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-2-480x720.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/The-Place-London-Bridge-2.jpg 1067w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-2-683x1024.jpg 683w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-2-200x300.jpg 200w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-2-768x1152.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-2-830x1245.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-2-230x345.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-2-350x525.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-2-480x720.jpg 480w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/The-Place-London-Bridge-2.jpg 1067w"--}}
                                                                                     {{--sizes="(max-width: 683px) 100vw, 683px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -1628,19 +1628,19 @@
                                                                                         <div class="carousel-inner">
                                                                                             <div class="carousel-item active">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/onetowerbridge_01-657x1024.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/onetowerbridge_01-657x1024.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="First slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/onetowerbridge_04-1024x683.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/onetowerbridge_04-1024x683.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="Second slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/2wqs-683x1024.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/2wqs-683x1024.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="Third slide">
                                                                                             </div>
@@ -1669,13 +1669,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="7b10a64"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/onetowerbridge_01.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/onetowerbridge_01.jpg'><img--}}
                                                                                     {{--width="657"--}}
                                                                                     {{--height="1024"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/onetowerbridge_01-657x1024.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/onetowerbridge_01-657x1024.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt=""--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/onetowerbridge_01-657x1024.jpg 657w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/onetowerbridge_01-192x300.jpg 192w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/onetowerbridge_01-768x1197.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/onetowerbridge_01-830x1294.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/onetowerbridge_01-230x359.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/onetowerbridge_01-350x546.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/onetowerbridge_01-480x748.jpg 480w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/onetowerbridge_01-657x1024.jpg 657w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/onetowerbridge_01-192x300.jpg 192w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/onetowerbridge_01-768x1197.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/onetowerbridge_01-830x1294.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/onetowerbridge_01-230x359.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/onetowerbridge_01-350x546.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/onetowerbridge_01-480x748.jpg 480w"--}}
                                                                                     {{--sizes="(max-width: 657px) 100vw, 657px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -1684,13 +1684,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="7b10a64"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/onetowerbridge_04.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/onetowerbridge_04.jpg'><img--}}
                                                                                     {{--width="1024"--}}
                                                                                     {{--height="683"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/onetowerbridge_04-1024x683.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/onetowerbridge_04-1024x683.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt=""--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/onetowerbridge_04-1024x683.jpg 1024w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/onetowerbridge_04-300x200.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/onetowerbridge_04-768x512.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/onetowerbridge_04-830x553.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/onetowerbridge_04-230x153.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/onetowerbridge_04-350x233.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/onetowerbridge_04-480x320.jpg 480w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/onetowerbridge_04-1024x683.jpg 1024w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/onetowerbridge_04-300x200.jpg 300w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/onetowerbridge_04-768x512.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/onetowerbridge_04-830x553.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/onetowerbridge_04-230x153.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/onetowerbridge_04-350x233.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/onetowerbridge_04-480x320.jpg 480w"--}}
                                                                                     {{--sizes="(max-width: 1024px) 100vw, 1024px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -1699,13 +1699,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="7b10a64"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/2wqs.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/2wqs.jpg'><img--}}
                                                                                     {{--width="683"--}}
                                                                                     {{--height="1024"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/2wqs-683x1024.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/2wqs-683x1024.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt=""--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/2wqs-683x1024.jpg 683w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/2wqs-200x300.jpg 200w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/2wqs-768x1152.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/2wqs-830x1245.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/2wqs-230x345.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/2wqs-350x525.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/2wqs-480x720.jpg 480w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/2wqs-683x1024.jpg 683w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/2wqs-200x300.jpg 200w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/2wqs-768x1152.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/2wqs-830x1245.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/2wqs-230x345.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/2wqs-350x525.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/2wqs-480x720.jpg 480w"--}}
                                                                                     {{--sizes="(max-width: 683px) 100vw, 683px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -1742,13 +1742,13 @@
                                                                                             <a class="elementor-clickable"
                                                                                                data-elementor-open-lightbox="yes"
                                                                                                data-elementor-lightbox-slideshow="a214cd7"
-                                                                                               href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Paddington-Integrated-Project.jpg'><img
+                                                                                               href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Paddington-Integrated-Project.jpg'><img
                                                                                                         width="480"
                                                                                                         height="320"
-                                                                                                        src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Paddington-Integrated-Project-480x320.jpg"
+                                                                                                        src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Paddington-Integrated-Project-480x320.jpg"
                                                                                                         class="attachment-sydney-mas-thumb size-sydney-mas-thumb"
                                                                                                         alt=""
-                                                                                                        srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Paddington-Integrated-Project-480x320.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Paddington-Integrated-Project-300x200.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Paddington-Integrated-Project-768x512.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Paddington-Integrated-Project-1024x683.jpg 1024w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Paddington-Integrated-Project-830x554.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Paddington-Integrated-Project-230x153.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Paddington-Integrated-Project-350x233.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Paddington-Integrated-Project.jpg 1600w"
+                                                                                                        srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Paddington-Integrated-Project-480x320.jpg 480w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Paddington-Integrated-Project-300x200.jpg 300w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Paddington-Integrated-Project-768x512.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Paddington-Integrated-Project-1024x683.jpg 1024w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Paddington-Integrated-Project-830x554.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Paddington-Integrated-Project-230x153.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Paddington-Integrated-Project-350x233.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Paddington-Integrated-Project.jpg 1600w"
                                                                                                         sizes="(max-width: 480px) 100vw, 480px"/></a>
                                                                                         </div>
                                                                                     </figure>
@@ -1874,19 +1874,19 @@
                                                                                         <div class="carousel-inner">
                                                                                             <div class="carousel-item active">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2-1024x683.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2-1024x683.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="First slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3-1024x683.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3-1024x683.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="Second slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-1024x683.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-1024x683.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="Third slide">
                                                                                             </div>
@@ -1915,13 +1915,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="aeaf456"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2.jpg'><img--}}
                                                                                     {{--width="1024"--}}
                                                                                     {{--height="683"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2-1024x683.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2-1024x683.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt=""--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2-1024x683.jpg 1024w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2-300x200.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2-768x512.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2-830x554.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2-230x153.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2-350x233.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2-480x320.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2.jpg 1600w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2-1024x683.jpg 1024w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2-300x200.jpg 300w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2-768x512.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2-830x554.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2-230x153.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2-350x233.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2-480x320.jpg 480w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-2.jpg 1600w"--}}
                                                                                     {{--sizes="(max-width: 1024px) 100vw, 1024px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -1930,13 +1930,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="aeaf456"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3.jpg'><img--}}
                                                                                     {{--width="1024"--}}
                                                                                     {{--height="683"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3-1024x683.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3-1024x683.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt="QPD Tower 6, Doha, Qatar"--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3-1024x683.jpg 1024w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3-300x200.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3-768x512.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3-830x554.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3-230x153.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3-350x233.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3-480x320.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3.jpg 1600w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3-1024x683.jpg 1024w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3-300x200.jpg 300w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3-768x512.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3-830x554.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3-230x153.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3-350x233.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3-480x320.jpg 480w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-3.jpg 1600w"--}}
                                                                                     {{--sizes="(max-width: 1024px) 100vw, 1024px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -1945,13 +1945,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="aeaf456"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar.jpg'><img--}}
                                                                                     {{--width="1024"--}}
                                                                                     {{--height="683"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-1024x683.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-1024x683.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt="QPD Tower 6, Doha, Qatar"--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-1024x683.jpg 1024w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-300x200.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-768x512.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-830x554.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-230x153.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-350x233.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-480x320.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar.jpg 1600w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-1024x683.jpg 1024w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-300x200.jpg 300w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-768x512.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-830x554.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-230x153.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-350x233.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar-480x320.jpg 480w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/QPD-Tower-6-Doha-Qatar.jpg 1600w"--}}
                                                                                     {{--sizes="(max-width: 1024px) 100vw, 1024px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -1992,37 +1992,37 @@
                                                                                             <div class="carousel-item active">
                                                                                                 <img class="d-block w-100"
                                                                                                      style="height: 300px"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-2-1024x683.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-2-1024x683.jpg"
                                                                                                      alt="First slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
                                                                                                      style="height: 300px"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-1024x683.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-1024x683.jpg"
                                                                                                      alt="Second slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
                                                                                                      style="height: 300px"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-7-1024x683.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-7-1024x683.jpg"
                                                                                                      alt="Third slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
                                                                                                      style="height: 300px"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Sheffield-Engineering-1024x683.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Sheffield-Engineering-1024x683.jpg"
                                                                                                      alt="Third slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
                                                                                                      style="height: 300px"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-4-1024x683.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-4-1024x683.jpg"
                                                                                                      alt="Third slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
                                                                                                      style="height: 300px"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-5-1024x683.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-5-1024x683.jpg"
                                                                                                      alt="Third slide">
                                                                                             </div>
                                                                                         </div>
@@ -2050,13 +2050,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="0b65ad2"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-2.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-2.jpg'><img--}}
                                                                                     {{--width="1024"--}}
                                                                                     {{--height="683"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-2-1024x683.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-2-1024x683.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt="University of Sheffield"--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-2-1024x683.jpg 1024w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-2-300x200.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-2-768x512.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-2-830x554.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-2-230x153.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-2-350x233.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-2-480x320.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-2.jpg 1600w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-2-1024x683.jpg 1024w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-2-300x200.jpg 300w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-2-768x512.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-2-830x554.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-2-230x153.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-2-350x233.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-2-480x320.jpg 480w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-2.jpg 1600w"--}}
                                                                                     {{--sizes="(max-width: 1024px) 100vw, 1024px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -2065,13 +2065,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="0b65ad2"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield.jpg'><img--}}
                                                                                     {{--width="1024"--}}
                                                                                     {{--height="683"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-1024x683.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-1024x683.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt=""--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-1024x683.jpg 1024w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-300x200.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-768x512.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-830x554.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-230x153.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-350x233.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-480x320.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield.jpg 1600w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-1024x683.jpg 1024w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-300x200.jpg 300w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-768x512.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-830x554.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-230x153.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-350x233.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-480x320.jpg 480w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield.jpg 1600w"--}}
                                                                                     {{--sizes="(max-width: 1024px) 100vw, 1024px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -2080,13 +2080,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="0b65ad2"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-7.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-7.jpg'><img--}}
                                                                                     {{--width="1024"--}}
                                                                                     {{--height="683"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-7-1024x683.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-7-1024x683.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt="University of Sheffield"--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-7-1024x683.jpg 1024w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-7-300x200.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-7-768x512.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-7-830x554.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-7-230x153.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-7-350x233.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-7-480x320.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-7.jpg 1600w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-7-1024x683.jpg 1024w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-7-300x200.jpg 300w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-7-768x512.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-7-830x554.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-7-230x153.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-7-350x233.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-7-480x320.jpg 480w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-7.jpg 1600w"--}}
                                                                                     {{--sizes="(max-width: 1024px) 100vw, 1024px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -2095,13 +2095,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="0b65ad2"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Sheffield-Engineering.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Sheffield-Engineering.jpg'><img--}}
                                                                                     {{--width="1024"--}}
                                                                                     {{--height="683"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Sheffield-Engineering-1024x683.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Sheffield-Engineering-1024x683.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt="University of Sheffield"--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Sheffield-Engineering-1024x683.jpg 1024w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Sheffield-Engineering-300x200.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Sheffield-Engineering-768x512.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Sheffield-Engineering-830x554.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Sheffield-Engineering-230x153.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Sheffield-Engineering-350x233.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Sheffield-Engineering-480x320.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Sheffield-Engineering.jpg 1600w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Sheffield-Engineering-1024x683.jpg 1024w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Sheffield-Engineering-300x200.jpg 300w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Sheffield-Engineering-768x512.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Sheffield-Engineering-830x554.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Sheffield-Engineering-230x153.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Sheffield-Engineering-350x233.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Sheffield-Engineering-480x320.jpg 480w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Sheffield-Engineering.jpg 1600w"--}}
                                                                                     {{--sizes="(max-width: 1024px) 100vw, 1024px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -2110,13 +2110,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="0b65ad2"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-4.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-4.jpg'><img--}}
                                                                                     {{--width="1024"--}}
                                                                                     {{--height="683"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-4-1024x683.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-4-1024x683.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt=""--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-4-1024x683.jpg 1024w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-4-300x200.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-4-768x512.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-4-830x554.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-4-230x153.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-4-350x233.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-4-480x320.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-4.jpg 1600w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-4-1024x683.jpg 1024w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-4-300x200.jpg 300w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-4-768x512.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-4-830x554.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-4-230x153.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-4-350x233.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-4-480x320.jpg 480w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-4.jpg 1600w"--}}
                                                                                     {{--sizes="(max-width: 1024px) 100vw, 1024px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -2125,13 +2125,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="0b65ad2"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-5.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-5.jpg'><img--}}
                                                                                     {{--width="1024"--}}
                                                                                     {{--height="683"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-5-1024x683.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-5-1024x683.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt="University of Sheffield"--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-5-1024x683.jpg 1024w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-5-300x200.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-5-768x512.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-5-830x554.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-5-230x153.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-5-350x233.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-5-480x320.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/University-of-Sheffield-5.jpg 1600w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-5-1024x683.jpg 1024w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-5-300x200.jpg 300w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-5-768x512.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-5-830x554.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-5-230x153.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-5-350x233.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-5-480x320.jpg 480w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/University-of-Sheffield-5.jpg 1600w"--}}
                                                                                     {{--sizes="(max-width: 1024px) 100vw, 1024px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -2251,13 +2251,13 @@
                                                                                             <a class="elementor-clickable"
                                                                                                data-elementor-open-lightbox="yes"
                                                                                                data-elementor-lightbox-slideshow="b10bfe3"
-                                                                                               href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Snow-Hill-Birmingham-Phase-2.jpg'><img
+                                                                                               href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Snow-Hill-Birmingham-Phase-2.jpg'><img
                                                                                                         width="480"
                                                                                                         height="320"
-                                                                                                        src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Snow-Hill-Birmingham-Phase-2-480x320.jpg"
+                                                                                                        src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Snow-Hill-Birmingham-Phase-2-480x320.jpg"
                                                                                                         class="attachment-sydney-mas-thumb size-sydney-mas-thumb"
                                                                                                         alt=""
-                                                                                                        srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Snow-Hill-Birmingham-Phase-2-480x320.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Snow-Hill-Birmingham-Phase-2-300x200.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Snow-Hill-Birmingham-Phase-2-768x512.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Snow-Hill-Birmingham-Phase-2-1024x683.jpg 1024w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Snow-Hill-Birmingham-Phase-2-830x554.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Snow-Hill-Birmingham-Phase-2-230x153.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Snow-Hill-Birmingham-Phase-2-350x233.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/Snow-Hill-Birmingham-Phase-2.jpg 1600w"
+                                                                                                        srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Snow-Hill-Birmingham-Phase-2-480x320.jpg 480w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Snow-Hill-Birmingham-Phase-2-300x200.jpg 300w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Snow-Hill-Birmingham-Phase-2-768x512.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Snow-Hill-Birmingham-Phase-2-1024x683.jpg 1024w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Snow-Hill-Birmingham-Phase-2-830x554.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Snow-Hill-Birmingham-Phase-2-230x153.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Snow-Hill-Birmingham-Phase-2-350x233.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/Snow-Hill-Birmingham-Phase-2.jpg 1600w"
                                                                                                         sizes="(max-width: 480px) 100vw, 480px"/></a>
                                                                                         </div>
                                                                                     </figure>
@@ -2298,13 +2298,13 @@
                                                                                         <div class="carousel-inner">
                                                                                             <div class="carousel-item active">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1-1.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1-1.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="First slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12-1.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12-1.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="Second slide">
                                                                                             </div>
@@ -2334,13 +2334,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="a6cbafc"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1-1.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1-1.jpg'><img--}}
                                                                                     {{--width="914"--}}
                                                                                     {{--height="612"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1-1.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1-1.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt=""--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1-1.jpg 914w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1-1-300x201.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1-1-768x514.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1-1-830x556.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1-1-230x154.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1-1-350x234.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/1-1-480x321.jpg 480w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1-1.jpg 914w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1-1-300x201.jpg 300w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1-1-768x514.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1-1-830x556.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1-1-230x154.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1-1-350x234.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/1-1-480x321.jpg 480w"--}}
                                                                                     {{--sizes="(max-width: 914px) 100vw, 914px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -2349,13 +2349,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="a6cbafc"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12-1.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12-1.jpg'><img--}}
                                                                                     {{--width="542"--}}
                                                                                     {{--height="809"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12-1.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12-1.jpg"--}}
                                                                                     {{--class="attachment-large size-large"--}}
                                                                                     {{--alt=""--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12-1.jpg 542w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12-1-201x300.jpg 201w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12-1-230x343.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12-1-350x522.jpg 350w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/12-1-480x716.jpg 480w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12-1.jpg 542w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12-1-201x300.jpg 201w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12-1-230x343.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12-1-350x522.jpg 350w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/12-1-480x716.jpg 480w"--}}
                                                                                     {{--sizes="(max-width: 542px) 100vw, 542px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -2480,19 +2480,19 @@
                                                                                         <div class="carousel-inner">
                                                                                             <div class="carousel-item active">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_01-480x320.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_01-480x320.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="First slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_02-480x720.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_02-480x720.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="Second slide">
                                                                                             </div>
                                                                                             <div class="carousel-item">
                                                                                                 <img class="d-block w-100"
-                                                                                                     src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_03-480x320.jpg"
+                                                                                                     src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_03-480x320.jpg"
                                                                                                      style="height: 300px"
                                                                                                      alt="Second slide">
                                                                                             </div>
@@ -2522,13 +2522,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="d755e8b"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_01.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_01.jpg'><img--}}
                                                                                     {{--width="480"--}}
                                                                                     {{--height="320"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_01-480x320.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_01-480x320.jpg"--}}
                                                                                     {{--class="attachment-sydney-mas-thumb size-sydney-mas-thumb"--}}
                                                                                     {{--alt=""--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_01-480x320.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_01-300x200.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_01-768x512.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_01-1024x683.jpg 1024w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_01-830x553.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_01-230x153.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_01-350x233.jpg 350w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_01-480x320.jpg 480w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_01-300x200.jpg 300w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_01-768x512.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_01-1024x683.jpg 1024w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_01-830x553.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_01-230x153.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_01-350x233.jpg 350w"--}}
                                                                                     {{--sizes="(max-width: 480px) 100vw, 480px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -2537,13 +2537,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="d755e8b"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_02.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_02.jpg'><img--}}
                                                                                     {{--width="480"--}}
                                                                                     {{--height="720"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_02-480x720.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_02-480x720.jpg"--}}
                                                                                     {{--class="attachment-sydney-mas-thumb size-sydney-mas-thumb"--}}
                                                                                     {{--alt=""--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_02-480x720.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_02-200x300.jpg 200w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_02-768x1152.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_02-683x1024.jpg 683w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_02-830x1245.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_02-230x345.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_02-350x525.jpg 350w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_02-480x720.jpg 480w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_02-200x300.jpg 200w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_02-768x1152.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_02-683x1024.jpg 683w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_02-830x1245.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_02-230x345.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_02-350x525.jpg 350w"--}}
                                                                                     {{--sizes="(max-width: 480px) 100vw, 480px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -2552,13 +2552,13 @@
                                                                                     {{--<a class="elementor-clickable"--}}
                                                                                     {{--data-elementor-open-lightbox="yes"--}}
                                                                                     {{--data-elementor-lightbox-slideshow="d755e8b"--}}
-                                                                                    {{--href='http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_03.jpg'><img--}}
+                                                                                    {{--href='https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_03.jpg'><img--}}
                                                                                     {{--width="480"--}}
                                                                                     {{--height="320"--}}
-                                                                                    {{--src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_03-480x320.jpg"--}}
+                                                                                    {{--src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_03-480x320.jpg"--}}
                                                                                     {{--class="attachment-sydney-mas-thumb size-sydney-mas-thumb"--}}
                                                                                     {{--alt=""--}}
-                                                                                    {{--srcset="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_03-480x320.jpg 480w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_03-300x200.jpg 300w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_03-768x512.jpg 768w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_03-1024x683.jpg 1024w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_03-830x553.jpg 830w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_03-230x153.jpg 230w, http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/FrancisCrick_03-350x233.jpg 350w"--}}
+                                                                                    {{--srcset="https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_03-480x320.jpg 480w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_03-300x200.jpg 300w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_03-768x512.jpg 768w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_03-1024x683.jpg 1024w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_03-830x553.jpg 830w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_03-230x153.jpg 230w, https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/FrancisCrick_03-350x233.jpg 350w"--}}
                                                                                     {{--sizes="(max-width: 480px) 100vw, 480px"/></a>--}}
                                                                                     {{--</div>--}}
                                                                                     {{--</figure>--}}
@@ -2891,22 +2891,22 @@
     /* <![CDATA[ */
     var wpcf7 = {
         "apiSettings": {
-            "root": "http:\/\/gawebsite.destellosolutions.com\/wp-json\/contact-form-7\/v1",
+            "root": "http:\/\/localhost.gawebsite\/wp-json\/contact-form-7\/v1",
             "namespace": "contact-form-7\/v1"
         }, "recaptcha": {"messages": {"empty": "Please verify that you are not a robot."}}
     };
     /* ]]> */
 </script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.2'></script>
+        src='https://gawebsite.helpforeach.info/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.2'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/js/scripts.js?ver=4.9.2'></script>
+        src='https://gawebsite.helpforeach.info/wp-content/themes/sydney/js/scripts.js?ver=4.9.2'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/js/main.min.js?ver=20170504'></script>
+        src='https://gawebsite.helpforeach.info/wp-content/themes/sydney/js/main.min.js?ver=20170504'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/themes/sydney/js/skip-link-focus-fix.js?ver=20130115'></script>
+        src='https://gawebsite.helpforeach.info/wp-content/themes/sydney/js/skip-link-focus-fix.js?ver=20130115'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-includes/js/wp-embed.min.js?ver=4.9.2'></script>
+        src='https://gawebsite.helpforeach.info/wp-includes/js/wp-embed.min.js?ver=4.9.2'></script>
 {{--<script type='text/javascript'--}}
 {{--src='//maps.google.com/maps/api/js?v=3.exp&#038;key=AIzaSyBOJChPboQt1IykO615Er6U6yWws3V-7bQ&#038;language=en&#038;libraries=places'></script>--}}
 {{--<script type='text/javascript'>--}}
@@ -2968,7 +2968,7 @@
 {{--};--}}
 {{--var wpgmaps_localize_polygon_settings = [];--}}
 {{--var wpgmaps_localize_polyline_settings = [];--}}
-{{--var wpgmaps_markerurl = "\/\/gawebsite.destellosolutions.com\/wp-content\/uploads\/wp-google-maps\/1markers.xml";--}}
+{{--var wpgmaps_markerurl = "\/\/localhost.gawebsite\/wp-content\/uploads\/wp-google-maps\/1markers.xml";--}}
 {{--var wpgmaps_localize_marker_data = {--}}
 {{--"2": {--}}
 {{--"map_id": "1",--}}
@@ -2980,7 +2980,7 @@
 {{--"\n" +--}}
 {{--"The rear of the building was unitized opaque glazing in front of a concrete core wall, which was installed via mast climber.",--}}
 {{--"desc": "",--}}
-{{--"pic": "http://gawebsite.destellosolutions.com/wp-content/uploads/2018/07/slider-4.jpg",--}}
+{{--"pic": "https://gawebsite.helpforeach.info/wp-content/uploads/2018/07/slider-4.jpg",--}}
 {{--"icon": "",--}}
 {{--"linkd": "",--}}
 {{--"lat": "51.481823",--}}
@@ -3139,15 +3139,15 @@
 <script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
 
 {{--<script type='text/javascript'--}}
-{{--src='http://gawebsite.destellosolutions.com/wp-content/plugins/wp-google-maps/js/wpgmaps.js?ver=6.4.09b'></script>--}}
+{{--src='https://gawebsite.helpforeach.info/wp-content/plugins/wp-google-maps/js/wpgmaps.js?ver=6.4.09b'></script>--}}
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+        src='https://gawebsite.helpforeach.info/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.1.0'></script>
+        src='https://gawebsite.helpforeach.info/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.1.0'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+        src='https://gawebsite.helpforeach.info/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.jquery.min.js?ver=3.4.2'></script>
+        src='https://gawebsite.helpforeach.info/wp-content/plugins/elementor/assets/lib/swiper/swiper.jquery.min.js?ver=3.4.2'></script>
 <script type='text/javascript'>
     /* <![CDATA[ */
     var elementorFrontendConfig = {
@@ -3157,13 +3157,13 @@
             "general": {"elementor_global_image_lightbox": "yes", "elementor_enable_lightbox_in_editor": "yes"}
         },
         "is_rtl": "",
-        "urls": {"assets": "http:\/\/gawebsite.destellosolutions.com\/wp-content\/plugins\/elementor\/assets\/"},
+        "urls": {"assets": "http:\/\/localhost.gawebsite\/wp-content\/plugins\/elementor\/assets\/"},
         "post": {"id": 8, "title": "Project List", "excerpt": ""}
     };
     /* ]]> */
 </script>
 <script type='text/javascript'
-        src='http://gawebsite.destellosolutions.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=1.9.2'></script>
+        src='https://gawebsite.helpforeach.info/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=1.9.2'></script>
 
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>

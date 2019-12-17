@@ -3,9 +3,9 @@
         {{--<div class="container">--}}
             <div class="row">
                 <div class="col-md-1 col-sm-8 col-xs-12" style="left: 1%;">
-                    <a href="http://gawebsite.destellosolutions.com/"
+                    <a href="https://gawebsite.helpforeach.info/"
                        title="G A Installation &amp; Maintenance Ltd"><img class="site-logo"
-                                                                           src="http://gawebsite.destellosolutions.com/wp-content/uploads/2018/01/site-Logo-2.png"
+                                                                           src="https://gawebsite.helpforeach.info/wp-content/uploads/2018/01/site-Logo-2.png"
                                                                            alt="G A Installation &amp; Maintenance Ltd"/></a>
                 </div>
                 <div class="col-md-11 col-sm-4 col-xs-12">
@@ -35,7 +35,7 @@
                                             href="{{ url('/ga-qatar') }}">GAI Qatar</a></li>
                                 <li id="menu-item-176"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-176"><a
-                                            href="http://recruit.dimuthuwebs.com/">Careers/Opportunities</a>
+                                            href="http://gagroup.org.uk/recruit">Careers/Opportunities</a>
                                 </li>
                                 <li id="menu-item-20"
                                     class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-18 current_page_item menu-item-20">
